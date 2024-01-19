@@ -1,34 +1,21 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"xu":
+  - firstname: ["Chenggang"]
+    url: https://sites.google.com/view/cgxu/chenggang-xu
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"cheng":
+  - firstname: ["Tingting", "T."]
+    url: https://sites.google.com/site/tingtingcheng2014/home
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"yao":
+  - firstname: ["Wenying"]
+    url: https://wenyingyao.github.io/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"lin":
+  - firstname: ["Hai"]
+    url: https://people.wgtn.ac.nz/hai.lin
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"wu":
+  - firstname: ["Chunchi"]
+    url: https://management.buffalo.edu/faculty/academic-departments/finance/faculty/chunchi-wu.html
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+# 所有的 first name 首字母要小写，才能添加url
