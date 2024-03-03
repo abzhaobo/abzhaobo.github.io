@@ -60,7 +60,6 @@ The following references are useful:
 - Geron, Aurelien, 2021, *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow*. 3rd Edition (O'Reilly).
 
 ## 1.3 评分方式 Grading
-(暂定，可能会有所改动)
 - 3到4次作业 (60%)
 - 家庭考试 (40%)。大致形式为在规定时间内完成策略构建。
 
@@ -77,8 +76,50 @@ The following references are useful:
 &nbsp;
 
 # 2. 课程内容 Contents
-
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-v16d{background-color:#f9f9f9;border-color:#cccccc;text-align:left;vertical-align:top}
+.tg .tg-65iu{border-color:#cccccc;text-align:left;vertical-align:top}
+.tg .tg-o57c{border-color:#cccccc;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<colgroup>
+<col style="width: 56px">
+<col style="width: 114px">
+<col style="width: 298px">
+<col style="width: 108px">
+<col style="width: 142px">
+<col style="width: 78px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-o57c">Lecture</th>
+    <th class="tg-o57c">Date</th>
+    <th class="tg-o57c">Topics</th>
+    <th class="tg-o57c">Materials</th>
+    <th class="tg-o57c">Readings</th>
+    <th class="tg-o57c">Homework</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-v16d">1</td>
+    <td class="tg-v16d">Mar 4</td>
+    <td class="tg-v16d">1. General introduction <br>2. Introduction to Python</td>
+    <td class="tg-v16d">
+    <a href="/assets/courses/quant_2024/lec1.zip" target="_blank" rel="noopener noreferrer">lec1.zip</a> <br>
+    </td>
+    <td class="tg-v16d">
+    <a href="https://www.liaoxuefeng.com/wiki/1016959663602400" target="_blank" rel="noopener noreferrer">廖雪峰的Python教程</a>
+    </td>
+    <td class="tg-v16d"></td>
+  </tr>
+</tbody>
+</table>
 
 -----
 [Back to top](#)
