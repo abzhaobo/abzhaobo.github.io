@@ -111,7 +111,8 @@ The following references are useful:
     <td class="tg-v16d">Mar 4</td>
     <td class="tg-v16d">1. General introduction <br>2. Introduction to Python</td>
     <td class="tg-v16d">
-    <a href="/assets/courses/quant_2024/lec1.zip" target="_blank" rel="noopener noreferrer">lec1.zip</a> <br>
+    <a href="/assets/courses/quant_2024/lec1/lec1.zip" target="_blank" rel="noopener noreferrer">lec1.zip</a> <br>
+    <a href="/assets/courses/quant_2023/lec1/Python_intro.html" target="_blank" rel="noopener noreferrer">Python_intro.html</a>
     </td>
     <td class="tg-v16d">
     <a href="https://www.liaoxuefeng.com/wiki/1016959663602400" target="_blank" rel="noopener noreferrer">廖雪峰的Python教程</a>
