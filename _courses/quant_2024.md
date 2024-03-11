@@ -76,6 +76,9 @@ The following references are useful:
 &nbsp;
 
 # 2. 课程内容 Contents
+
+课程录屏在飞书群
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
@@ -118,6 +121,121 @@ The following references are useful:
     <a href="https://www.liaoxuefeng.com/wiki/1016959663602400" target="_blank" rel="noopener noreferrer">廖雪峰的Python教程</a>
     </td>
     <td class="tg-v16d"></td>
+  </tr>
+  <tr>
+    <td class="tg-65iu">2</td>
+    <td class="tg-65iu">Mar 11</td>
+    <td class="tg-65iu">1. Introduction to Python <br>2. Introduction to Numpy, Pandas, Matplotlib </td>
+    <td class="tg-65iu">
+    <a href="/assets/courses/quant_2024/lec2/np_pd_plot.ipynb" target="_blank" rel="noopener noreferrer">np_pd_plot.ipynb</a> <br>
+    <a href="/assets/courses/quant_2024/lec2/np_pd_plot.html" target="_blank" rel="noopener noreferrer">np_pd_plot.html</a> <br>
+     <a href="https://nankai.feishu.cn/drive/folder/JYBGf2s4flxTHCdtS1jcb8VxnCc?from=from_copylink" target="_blank" rel="noopener noreferrer">stk_df_2015_2021.zip</a> <br>
+    </td>
+    <td class="tg-65iu">
+    <a href="https://pandas.pydata.org/docs/user_guide/index.html" target="_blank" rel="noopener noreferrer">pandas' user guide</a> <br>
+    </td>
+    <td class="tg-65iu">
+    <a href="/assets/courses/quant_2024/exercises/ex1.zip" target="_blank" rel="noopener noreferrer">ex1.zip</a> (截止日期: Mar 25)
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-v16d">3</td>
+    <td class="tg-v16d">Mar 18</td>
+    <td class="tg-v16d">1. Introduction to Uqer (优矿) <br> 2. Exploratory data analysis </td>
+    <td class="tg-v16d">
+    </td>
+    <td class="tg-v16d">
+    </td>
+    <td class="tg-v16d"></td>
+  </tr>
+  <tr>
+    <td class="tg-65iu">4</td>
+    <td class="tg-65iu">Mar 25</td>
+    <td class="tg-65iu"> Introduction to factor models and related econometrics </td>
+    <td class="tg-65iu">
+    </td>
+    <td class="tg-65iu">
+    </td>
+    <td class="tg-65iu">
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-v16d">5</td>
+    <td class="tg-v16d">Apr 1</td>
+    <td class="tg-v16d">Fama-French factors
+    </td>
+    <td class="tg-v16d">
+    </td>
+    <td class="tg-v16d">
+    </td>
+    <td class="tg-v16d"></td>
+  </tr>
+  <tr>
+    <td class="tg-65iu">6</td>
+    <td class="tg-65iu">Apr 8</td>
+    <td class="tg-65iu">1. Other common factors: Momentum, Reversal, Liquidity, Volatility <br>
+    2. Applications of factor models
+    </td>
+    <td class="tg-65iu">
+    </td>
+    <td class="tg-65iu">
+    </td>
+    <td class="tg-65iu">
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-v16d">7</td>
+    <td class="tg-v16d">Apr 15</td>
+    <td class="tg-v16d">1. Introduction to technical analysis and related econometrics</td>
+    <td class="tg-v16d">
+    </td>
+    <td class="tg-v16d">
+    </td>
+    <td class="tg-v16d">
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-65iu">8</td>
+    <td class="tg-65iu">Apr 22</td>
+    <td class="tg-65iu">2. Statistical tests of technical analysis indicators</td>
+    <td class="tg-65iu">
+    </td>
+    <td class="tg-65iu">
+    </td>
+    <td class="tg-65iu">
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-v16d">9</td>
+    <td class="tg-v16d">Apr 29</td>
+    <td class="tg-v16d">Introduction to Machine Learning methods </td>
+    <td class="tg-v16d"> </td>
+    <td class="tg-v16d"> </td>
+    <td class="tg-v16d"> </td>
+  </tr>
+  <tr>
+    <td class="tg-v16d">10</td>
+    <td class="tg-v16d">May 6</td>
+    <td class="tg-v16d">Applications of Machine Learning to factor models and technical analysis </td>
+    <td class="tg-v16d"> </td>
+    <td class="tg-v16d"> </td>
+    <td class="tg-v16d"> </td>
+  </tr>
+  <tr>
+    <td class="tg-v16d">11</td>
+    <td class="tg-v16d">May 13</td>
+    <td class="tg-v16d"> To be determined </td>
+    <td class="tg-v16d"> </td>
+    <td class="tg-v16d"> </td>
+    <td class="tg-v16d"> </td>
+  </tr>
+  <tr>
+    <td class="tg-v16d"> </td>
+    <td class="tg-v16d"> </td>
+    <td class="tg-v16d"> </td>
+    <td class="tg-v16d"> </td>
+    <td class="tg-v16d"> </td>
+    <td class="tg-v16d"> </td>
   </tr>
 </tbody>
 </table>
