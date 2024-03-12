@@ -15,7 +15,7 @@ category: Quant
 - [2. 课程内容 Contents](#2-课程内容-contents)
 
 # ❗️通知 Announcement❗️
-
+- 3月11日: 作业1已布置。请于3月25日前提交。
 
 # 1. 课程大纲 Syllabus
 
