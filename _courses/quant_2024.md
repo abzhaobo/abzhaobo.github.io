@@ -129,7 +129,7 @@ The following references are useful:
     <td class="tg-65iu">
     <a href="/assets/courses/quant_2024/lec2/np_pd_plot.ipynb" target="_blank" rel="noopener noreferrer">np_pd_plot.ipynb</a> <br>
     <a href="/assets/courses/quant_2024/lec2/np_pd_plot.html" target="_blank" rel="noopener noreferrer">np_pd_plot.html</a> <br>
-     <a href="https://nankai.feishu.cn/drive/folder/JYBGf2s4flxTHCdtS1jcb8VxnCc?from=from_copylink" target="_blank" rel="noopener noreferrer">stk_df_2015_2021.zip</a> <br>
+     <a href="https://nankai.feishu.cn/file/FAzXbMtEDo8zv6xpWCzcpdGmnlh" target="_blank" rel="noopener noreferrer">stk_df_2015_2021.zip</a> <br>
     </td>
     <td class="tg-65iu">
     <a href="https://pandas.pydata.org/docs/user_guide/index.html" target="_blank" rel="noopener noreferrer">pandas' user guide</a> <br>
@@ -143,8 +143,14 @@ The following references are useful:
     <td class="tg-v16d">Mar 18</td>
     <td class="tg-v16d">1. Introduction to Uqer (优矿) <br> 2. Exploratory data analysis </td>
     <td class="tg-v16d">
+     <a href="/assets/courses/quant_2024/lec3/strategy_example_202403.pdf" target="_blank" rel="noopener noreferrer">strategy_example_202403.pdf</a> <br>
+    <a href="/assets/courses/quant_2024/lec3/1-EDA.html" target="_blank" rel="noopener noreferrer">1-EDA.html</a> <br>
+    <a href="/assets/courses/quant_2024/lec3/1-EDA.ipynb" target="_blank" rel="noopener noreferrer">1-EDA.ipynb</a> <br>
+    <a href="https://nankai.feishu.cn/file/WDImbTQ0BoWQ7ExVZVVcTlqWnF1" target="_blank" rel="noopener noreferrer">stk_df_2016_2024.zip</a> <br>
     </td>
     <td class="tg-v16d">
+    <a href="https://uqer.datayes.com/pro/pro_download.html" target="_blank" rel="noopener noreferrer">优矿客户端下载地址</a> <br>
+    优矿帮助文档
     </td>
     <td class="tg-v16d"></td>
   </tr>
@@ -174,7 +180,7 @@ The following references are useful:
     <td class="tg-65iu">6</td>
     <td class="tg-65iu">Apr 8</td>
     <td class="tg-65iu">1. Other common factors: Momentum, Reversal, Liquidity, Volatility <br>
-    2. Applications of factor models
+    1. Applications of factor models
     </td>
     <td class="tg-65iu">
     </td>
