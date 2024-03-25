@@ -63,7 +63,6 @@ The following references are useful:
 - 3到4次作业 (60%)
 - 家庭考试 (40%)。大致形式为在规定时间内完成策略构建。
 
-(preliminary, may be subject to changes)
 - 3 or 4 homework exercises (60%)
 - take-home exam (40%)
 
@@ -159,8 +158,13 @@ The following references are useful:
     <td class="tg-65iu">Mar 25</td>
     <td class="tg-65iu"> Introduction to factor models and related econometrics </td>
     <td class="tg-65iu">
+    <a href="/assets/courses/quant_2024/lec4/Newey_West.pdf" target="_blank" rel="noopener noreferrer">Newey_West.pdf</a> <br>
+    <a href="/assets/courses/quant_2024/lec4/econometrics_summary.pdf" target="_blank" rel="noopener noreferrer">econometrics_summary.pdf</a>
     </td>
     <td class="tg-65iu">
+    <a href="https://www.jstor.org/stable/1913610?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3A0a291a66dc09884f01c5730c91489cfe" target="_blank" rel="noopener noreferrer">Newey & West (1987)</a> <br>
+    Cochrane (2005), Ch. 12 <br>
+    石川, 刘洋溢, & 连祥斌. (2020). 因子投资：方法与实践, Ch. 2
     </td>
     <td class="tg-65iu">
     </td>
