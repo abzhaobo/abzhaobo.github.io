@@ -15,6 +15,7 @@ category: Quant
 - [2. 课程内容 Contents](#2-课程内容-contents)
 
 # ❗️通知 Announcement❗️
+- 4月1日: 作业2已布置。请于4月22日前提交。
 - 3月11日: 作业1已布置。请于3月25日前提交。
 
 # 1. 课程大纲 Syllabus
@@ -110,7 +111,7 @@ The following references are useful:
 <tbody>
   <tr>
     <td class="tg-v16d">1</td>
-    <td class="tg-v16d">Mar 4</td>
+    <td class="tg-v16d">3月4日</td>
     <td class="tg-v16d">1. General introduction <br>2. Introduction to Python</td>
     <td class="tg-v16d">
     <a href="/assets/courses/quant_2024/lec1/lec1.zip" target="_blank" rel="noopener noreferrer">lec1.zip</a> <br>
@@ -123,7 +124,7 @@ The following references are useful:
   </tr>
   <tr>
     <td class="tg-65iu">2</td>
-    <td class="tg-65iu">Mar 11</td>
+    <td class="tg-65iu">3月11日</td>
     <td class="tg-65iu">1. Introduction to Python <br>2. Introduction to Numpy, Pandas, Matplotlib </td>
     <td class="tg-65iu">
     <a href="/assets/courses/quant_2024/lec2/np_pd_plot.ipynb" target="_blank" rel="noopener noreferrer">np_pd_plot.ipynb</a> <br>
@@ -134,12 +135,12 @@ The following references are useful:
     <a href="https://pandas.pydata.org/docs/user_guide/index.html" target="_blank" rel="noopener noreferrer">pandas' user guide</a> <br>
     </td>
     <td class="tg-65iu">
-    <a href="/assets/courses/quant_2024/exercises/ex1.zip" target="_blank" rel="noopener noreferrer">ex1.zip</a> (截止日期: Mar 25)
+    <a href="/assets/courses/quant_2024/exercises/ex1.zip" target="_blank" rel="noopener noreferrer">ex1.zip</a> (截止日期: 3月25日)
     </td>
   </tr>
   <tr>
     <td class="tg-v16d">3</td>
-    <td class="tg-v16d">Mar 18</td>
+    <td class="tg-v16d">3月18日</td>
     <td class="tg-v16d">1. Introduction to Uqer (优矿) <br> 2. Exploratory data analysis </td>
     <td class="tg-v16d">
      <a href="/assets/courses/quant_2024/lec3/strategy_example_202403.pdf" target="_blank" rel="noopener noreferrer">strategy_example_202403.pdf</a> <br>
@@ -155,7 +156,7 @@ The following references are useful:
   </tr>
   <tr>
     <td class="tg-65iu">4</td>
-    <td class="tg-65iu">Mar 25</td>
+    <td class="tg-65iu">3月25日</td>
     <td class="tg-65iu"> Introduction to factor models and related econometrics </td>
     <td class="tg-65iu">
     <a href="/assets/courses/quant_2024/lec4/Newey_West.pdf" target="_blank" rel="noopener noreferrer">Newey_West.pdf</a> <br>
@@ -171,20 +172,32 @@ The following references are useful:
   </tr>
   <tr>
     <td class="tg-v16d">5</td>
-    <td class="tg-v16d">Apr 1</td>
-    <td class="tg-v16d">Fama-French factors
+    <td class="tg-v16d">4月1日</td>
+    <td class="tg-v16d">
+    1. Econometrics continued <br>
+    2. Sorting on Beta and Size
     </td>
     <td class="tg-v16d">
+    <a href="/assets/courses/quant_2024/lec5/2-sort_FMreg_on_beta_size.html" target="_blank" rel="noopener noreferrer">2-sort_FMreg_on_beta_size.html</a> <br>
+    <a href="/assets/courses/quant_2024/lec5/2-sort_FMreg_on_beta_size.ipynb" target="_blank" rel="noopener noreferrer">2-sort_FMreg_on_beta_size.ipynb</a> <br>
+    <a href="https://nankai.feishu.cn/file/B9E9b1Dcoo6nzPxWIRqcn9LVn9d" target="_blank" rel="noopener noreferrer">beta_rf_stk.zip</a>
     </td>
     <td class="tg-v16d">
+    <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1992.tb04398.x" target="_blank" rel="noopener noreferrer">Fama & French (1992)</a> <br>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/0304405X93900235" target="_blank" rel="noopener noreferrer">Fama & French (1993)</a> <br>
+    石川, 刘洋溢, & 连祥斌. (2020). 因子投资：方法与实践, Ch. 2, Ch. 3
     </td>
-    <td class="tg-v16d"></td>
+    <td class="tg-v16d">
+    <a href="/assets/courses/quant_2024/exercises/ex2.pdf" target="_blank" rel="noopener noreferrer">ex2.pdf</a> (截止日期: 4月22日)
+    </td>
   </tr>
   <tr>
     <td class="tg-65iu">6</td>
-    <td class="tg-65iu">Apr 8</td>
-    <td class="tg-65iu">1. Other common factors: Momentum, Reversal, Liquidity, Volatility <br>
-    1. Applications of factor models
+    <td class="tg-65iu">4月8日</td>
+    <td class="tg-65iu">
+    1. Fama-French 3 factors <br>
+    2. Other common factors: Momentum, Reversal, Liquidity, Volatility <br>
+    3. Applications of factor models
     </td>
     <td class="tg-65iu">
     </td>
@@ -195,7 +208,7 @@ The following references are useful:
   </tr>
   <tr>
     <td class="tg-v16d">7</td>
-    <td class="tg-v16d">Apr 15</td>
+    <td class="tg-v16d">4月15日</td>
     <td class="tg-v16d">1. Introduction to technical analysis and related econometrics</td>
     <td class="tg-v16d">
     </td>
@@ -206,7 +219,7 @@ The following references are useful:
   </tr>
   <tr>
     <td class="tg-65iu">8</td>
-    <td class="tg-65iu">Apr 22</td>
+    <td class="tg-65iu">4月22日</td>
     <td class="tg-65iu">2. Statistical tests of technical analysis indicators</td>
     <td class="tg-65iu">
     </td>
@@ -217,7 +230,7 @@ The following references are useful:
   </tr>
   <tr>
     <td class="tg-v16d">9</td>
-    <td class="tg-v16d">Apr 29</td>
+    <td class="tg-v16d">4月29日</td>
     <td class="tg-v16d">Introduction to Machine Learning methods </td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d"> </td>
@@ -225,7 +238,7 @@ The following references are useful:
   </tr>
   <tr>
     <td class="tg-v16d">10</td>
-    <td class="tg-v16d">May 6</td>
+    <td class="tg-v16d">5月6日</td>
     <td class="tg-v16d">Applications of Machine Learning to factor models and technical analysis </td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d"> </td>
@@ -233,7 +246,7 @@ The following references are useful:
   </tr>
   <tr>
     <td class="tg-v16d">11</td>
-    <td class="tg-v16d">May 13</td>
+    <td class="tg-v16d">5月13日</td>
     <td class="tg-v16d"> To be determined </td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d"> </td>
