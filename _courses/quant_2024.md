@@ -196,12 +196,17 @@ The following references are useful:
     <td class="tg-65iu">4月8日</td>
     <td class="tg-65iu">
     1. Fama-French 3 factors <br>
-    2. Other common factors: Momentum, Reversal, Liquidity, Volatility <br>
-    3. Applications of factor models
+    2. Other common factors: Momentum, Reversal, Liquidity, Volatility
     </td>
     <td class="tg-65iu">
+    <a href="/assets/courses/quant_2024/lec6/3-FF3.html" target="_blank" rel="noopener noreferrer">3-FF3.html</a> <br>
+    <a href="/assets/courses/quant_2024/lec6/3-FF3.ipynb" target="_blank" rel="noopener noreferrer">3-FF3.ipynb</a> <br>
+    <a href="https://nankai.feishu.cn/file/V9gcbDNa4oHhFNxvgn6cAJ44neh" target="_blank" rel="noopener noreferrer">data_0408.zip</a>
     </td>
     <td class="tg-65iu">
+    <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1992.tb04398.x" target="_blank" rel="noopener noreferrer">Fama & French (1992)</a> <br>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/0304405X93900235" target="_blank" rel="noopener noreferrer">Fama & French (1993)</a> <br>
+    石川, 刘洋溢, & 连祥斌. (2020). 因子投资：方法与实践, Ch. 2, Ch. 3
     </td>
     <td class="tg-65iu">
     </td>
@@ -209,7 +214,10 @@ The following references are useful:
   <tr>
     <td class="tg-v16d">7</td>
     <td class="tg-v16d">4月15日</td>
-    <td class="tg-v16d">1. Introduction to technical analysis and related econometrics</td>
+    <td class="tg-v16d">
+    1. Applications of factor models <br>
+    2. Introduction to technical analysis and related econometrics
+    </td>
     <td class="tg-v16d">
     </td>
     <td class="tg-v16d">
