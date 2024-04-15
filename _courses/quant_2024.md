@@ -2,7 +2,7 @@
 layout: page
 title: 量化投资/金融数据分析 Quantitative Investment (2024)
 description: Factor models, empirical tests of technical analysis indicators, applications of machine learning techniques
-img: assets/img/quant.png
+img: assets/img/quant2024.png
 importance: 1
 category: Quant
 ---
@@ -215,12 +215,19 @@ The following references are useful:
     <td class="tg-v16d">7</td>
     <td class="tg-v16d">4月15日</td>
     <td class="tg-v16d">
-    1. Applications of factor models <br>
-    2. Introduction to technical analysis and related econometrics
+    1. Momentum, reversal, liquidity, volatility factors <br>
+    2. Applications of factor models
     </td>
     <td class="tg-v16d">
+    <a href="/assets/courses/quant_2024/lec7/4-momentum_reversal.html" target="_blank" rel="noopener noreferrer">4-momentum_reversal.html</a> <br>
+    <a href="/assets/courses/quant_2024/lec7/5-daily_factors.html" target="_blank" rel="noopener noreferrer">5-daily_factors.html</a> <br>
+    <a href="/assets/courses/quant_2024/lec7/5-liquidity_volatility.html" target="_blank" rel="noopener noreferrer">5-liquidity_volatility.html</a> <br>
+    <a href="/assets/courses/quant_2024/lec7/6-factor_application.html" target="_blank" rel="noopener noreferrer">6-factor_application.html</a> <br>
+    <a href="/assets/courses/quant_2024/lec7/6-backtest.pdf" target="_blank" rel="noopener noreferrer">6-backtest.pdf</a> <br>
+    <a href="/assets/courses/quant_2024/lec7/ipynb_files.zip" target="_blank" rel="noopener noreferrer">ipynb_files.zip</a>
     </td>
     <td class="tg-v16d">
+    参考文献见课件中所列
     </td>
     <td class="tg-v16d">
     </td>
@@ -228,7 +235,10 @@ The following references are useful:
   <tr>
     <td class="tg-65iu">8</td>
     <td class="tg-65iu">4月22日</td>
-    <td class="tg-65iu">2. Statistical tests of technical analysis indicators</td>
+    <td class="tg-65iu">
+    1. Introduction to technical analysis and related econometrics
+    2. Statistical tests of technical analysis indicators
+    </td>
     <td class="tg-65iu">
     </td>
     <td class="tg-65iu">
