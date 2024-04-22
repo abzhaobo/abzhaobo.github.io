@@ -15,6 +15,7 @@ category: Quant
 - [2. 课程内容 Contents](#2-课程内容-contents)
 
 # ❗️通知 Announcement❗️
+- 4月22日: 作业3已布置。请于5月13日前提交。
 - 4月1日: 作业2已布置。请于4月22日前提交。
 - 3月11日: 作业1已布置。请于3月25日前提交。
 
@@ -236,14 +237,21 @@ The following references are useful:
     <td class="tg-65iu">8</td>
     <td class="tg-65iu">4月22日</td>
     <td class="tg-65iu">
-    1. Introduction to technical analysis and related econometrics
+    1. Introduction to technical analysis and related econometrics <br>
     2. Statistical tests of technical analysis indicators
     </td>
     <td class="tg-65iu">
+    <a href="/assets/courses/quant_2024/lec8/bootstrapping.pdf" target="_blank" rel="noopener noreferrer">bootstrapping.pdf</a> <br>
+    <a href="/assets/courses/quant_2024/lec8/bootstrap_code.zip" target="_blank" rel="noopener noreferrer">bootstrap_code.zip</a> <br>
+    <a href="/assets/courses/quant_2024/lec8/技术分析的基本思想和统计检验.pdf" target="_blank" rel="noopener noreferrer">技术分析的基本思想和统计检验.pdf</a> <br>
+    <a href="/assets/courses/quant_2024/lec8/7-ta_test.html" target="_blank" rel="noopener noreferrer">7-ta_test.html</a> <br>
+    <a href="/assets/courses/quant_2024/lec8/7-ta_test.ipynb" target="_blank" rel="noopener noreferrer">7-ta_test.ipynb</a> <br>
+    <a href="https://nankai.feishu.cn/file/Q7QrbKHfNo0AsrxUDeec6KCrnQe" target="_blank" rel="noopener noreferrer">stk_ta_df.zip</a>
     </td>
     <td class="tg-65iu">
     </td>
     <td class="tg-65iu">
+    <a href="/assets/courses/quant_2024/exercises/ex3.pdf" target="_blank" rel="noopener noreferrer">ex3.pdf</a> (截止日期: 5月13日)
     </td>
   </tr>
   <tr>
