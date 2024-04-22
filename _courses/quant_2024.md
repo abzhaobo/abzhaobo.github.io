@@ -249,6 +249,7 @@ The following references are useful:
     <a href="https://nankai.feishu.cn/file/Q7QrbKHfNo0AsrxUDeec6KCrnQe" target="_blank" rel="noopener noreferrer">stk_ta_df.zip</a>
     </td>
     <td class="tg-65iu">
+    参考文献见课件中所列
     </td>
     <td class="tg-65iu">
     <a href="/assets/courses/quant_2024/exercises/ex3.pdf" target="_blank" rel="noopener noreferrer">ex3.pdf</a> (截止日期: 5月13日)
