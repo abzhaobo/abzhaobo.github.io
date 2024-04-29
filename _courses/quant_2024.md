@@ -258,15 +258,26 @@ The following references are useful:
   <tr>
     <td class="tg-v16d">9</td>
     <td class="tg-v16d">4月29日</td>
-    <td class="tg-v16d">Introduction to Machine Learning methods </td>
-    <td class="tg-v16d"> </td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-v16d">
+    1. The data snooping problem <br>
+    2. Introduction to Machine Learning methods </td>
+    <td class="tg-v16d">
+    <a href="/assets/courses/quant_2024/lec9/7-crs_and_timing.pdf" target="_blank" rel="noopener noreferrer">7-crs_and_timing.pdf</a> <br>
+    <a href="/assets/courses/quant_2024/lec9/7-crs_and_timing.ipynb" target="_blank" rel="noopener noreferrer">7-crs_and_timing.ipynb</a> <br>
+    <a href="/assets/courses/quant_2024/lec9/ML.pdf" target="_blank" rel="noopener noreferrer">ML.pdf</a> <br>
+    </td>
+    <td class="tg-v16d">
+    参考文献见课件中所列
+    </td>
     <td class="tg-v16d"> </td>
   </tr>
   <tr>
     <td class="tg-v16d">10</td>
     <td class="tg-v16d">5月6日</td>
-    <td class="tg-v16d">Applications of Machine Learning to factor models and technical analysis </td>
+    <td class="tg-v16d">
+    1. Introduction to Machine Learning methods <br>
+    2. Applications of Machine Learning
+    </td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d"> </td>
@@ -274,7 +285,9 @@ The following references are useful:
   <tr>
     <td class="tg-v16d">11</td>
     <td class="tg-v16d">5月13日</td>
-    <td class="tg-v16d"> To be determined </td>
+    <td class="tg-v16d">
+    Applications of Machine Learning
+    </td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d"> </td>
