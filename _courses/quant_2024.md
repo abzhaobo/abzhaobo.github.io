@@ -278,8 +278,16 @@ The following references are useful:
     1. Introduction to Machine Learning methods <br>
     2. Applications of Machine Learning
     </td>
-    <td class="tg-v16d"> </td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-v16d">
+    <a href="/assets/courses/quant_2024/lec10/ML.pdf" target="_blank" rel="noopener noreferrer">ML.pdf</a> <br>
+    <a href="/assets/courses/quant_2024/lec10/ridge vs. lasso.pdf" target="_blank" rel="noopener noreferrer">ridge vs. lasso.pdf</a> <br>
+    <a href="/assets/courses/quant_2024/lec10/entropy.pdf" target="_blank" rel="noopener noreferrer">entropy.pdf</a> <br>
+    <a href="/assets/courses/quant_2024/lec10/8-ta_ML.ipynb" target="_blank" rel="noopener noreferrer">8-ta_ML.ipynb</a> <br>
+    <a href="/assets/courses/quant_2024/lec10/8-ta_ML.html" target="_blank" rel="noopener noreferrer">8-ta_ML.html</a>
+    </td>
+    <td class="tg-v16d">
+    <a href="https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B0BHCFNY9Q?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.HYk1fun9wcouHZdScULxJ5ZpV2FWtcUU2Nn8Gnh6ttoCQUnLJGJRfvoNVfq91dydUjgYHOrsctvc1sSG1iqUkZ0Qu9NkuqDYu-6_kKjn569c83lMzJBJ6axHHyqAzuf3_HoDS18FmBDBI6J336XOvDLlh1NDdZ_NFGC-K29YAn3OSuoy-uVTbJidkTkocifXTbhn2TMJ5m9Vpf9iDmcXQ6aJcTtxh5Ga8nmyee0zTYw.x7bQT7M7dVJaKd5o8bw0rL_Ib8dMiogFTAZJ9aaUh9k&dib_tag=AUTHOR" target="_blank" rel="noopener noreferrer">Geron (2022)</a>
+    </td>
     <td class="tg-v16d"> </td>
   </tr>
   <tr>
