@@ -296,14 +296,28 @@ The following references are useful:
     <td class="tg-v16d">
     Applications of Machine Learning
     </td>
-    <td class="tg-v16d"> </td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-v16d">
+    <a href="/assets/courses/quant_2024/lec11/吴 et al-机器学习视角下中国股票资产收益率可预测性研究.pdf" target="_blank" rel="noopener noreferrer">吴 et al-机器学习视角下中国股票资产收益率可预测性研究.pdf</a> <br>
+    <a href="/assets/courses/quant_2024/lec11/Principal Component Analysis.pdf" target="_blank" rel="noopener noreferrer">Principal Component Analysis.pdf</a> <br>
+    <a href="/assets/courses/quant_2024/lec11/8-factor_ML.ipynb" target="_blank" rel="noopener noreferrer">8-factor_ML.ipynb</a> <br>
+    <a href="/assets/courses/quant_2024/lec11/8-factor_ML.html" target="_blank" rel="noopener noreferrer">8-factor_ML.html</a>
+    </td>
+    <td class="tg-v16d">
+    <a href="https://academic.oup.com/rfs/article/33/5/2223/5758276?login=false" target="_blank" rel="noopener noreferrer">Gu et al. (2020) </a> <br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0304405X21003743" target="_blank" rel="noopener noreferrer">Leippold (2021) </a>
+    </td>
     <td class="tg-v16d"> </td>
   </tr>
   <tr>
-    <td class="tg-v16d"> </td>
-    <td class="tg-v16d"> </td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-v16d">
+    12
+    </td>
+    <td class="tg-v16d">
+    待定
+    </td>
+    <td class="tg-v16d">
+    考试
+    </td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d"> </td>
