@@ -15,6 +15,7 @@ category: Quant
 - [2. 课程内容 Contents](#2-课程内容-contents)
 
 # ❗️通知 Announcement❗️
+- 6月11日: 讲座：《中国可转债市场与投资实践》。主讲嘉宾：吴江宏，汇添富基金管理股份有限公司稳健收益部总经理。飞书会议： https://vc.feishu.cn/j/375316373
 - 4月22日: 作业3已布置。请于5月13日前提交。
 - 4月1日: 作业2已布置。请于4月22日前提交。
 - 3月11日: 作业1已布置。请于3月25日前提交。
@@ -306,20 +307,6 @@ The following references are useful:
     <a href="https://academic.oup.com/rfs/article/33/5/2223/5758276?login=false" target="_blank" rel="noopener noreferrer">Gu et al. (2020) </a> <br>
     <a href="https://www.sciencedirect.com/science/article/pii/S0304405X21003743" target="_blank" rel="noopener noreferrer">Leippold (2021) </a>
     </td>
-    <td class="tg-v16d"> </td>
-  </tr>
-  <tr>
-    <td class="tg-v16d">
-    12
-    </td>
-    <td class="tg-v16d">
-    待定
-    </td>
-    <td class="tg-v16d">
-    考试
-    </td>
-    <td class="tg-v16d"> </td>
-    <td class="tg-v16d"> </td>
     <td class="tg-v16d"> </td>
   </tr>
 </tbody>
