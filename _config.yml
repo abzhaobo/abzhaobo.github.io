@@ -247,6 +247,7 @@ exclude:
   - readme_preview/
   - vendor
   - update.sh
+  - assets/courses/
 keep_files:
   - CNAME
   - .nojekyll
