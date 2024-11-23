@@ -5,24 +5,6 @@ description: Methods in identifying (causal) relationships in social science
 img: assets/img/econometrics.jpeg
 importance: 3
 category: Econometrics
-
-# authors:
-#   - name: Albert Bo Zhao
-#     url:
-#     affiliations:
-#       name: SoF, Nankai U.
-
-# toc:
-#   - name: Syllabus
-#     # if a section has subsections, you can add them as follows:
-#     # subsections:
-#       - name: Text Book and Useful References
-#       - name: Grading
-#   - name: Citations
-#   - name: Footnotes
-#   - name: Code Blocks
-#   - name: Layouts
-#   - name: Other Typography?
 ---
 - [❗️Announcement❗️](#️announcement️)
 - [Syllabus](#syllabus)
