@@ -3,7 +3,7 @@ layout: page
 title: 量化投资/金融数据分析 Quantitative Investment (2022)
 description: Factor models, empirical tests of technical analysis indicators, applications of machine learning techniques
 img: assets/img/quant2022.png
-importance: 3
+importance: 4
 category: Quant
 ---
 - [❗️通知 Announcement❗️](#️通知-announcement️)
