@@ -79,14 +79,54 @@ The following references are useful:
 # 2. 课程内容 Contents
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-v16d{background-color:#f9f9f9;border-color:#cccccc;text-align:left;vertical-align:top}
-.tg .tg-65iu{border-color:#cccccc;text-align:left;vertical-align:top}
-.tg .tg-o57c{border-color:#cccccc;text-align:center;vertical-align:top}
+.tg  { 
+    border-collapse:collapse;
+    border-color:#ccc;
+    border-spacing:0;
+    width: 100%; /* Increase the width of the whole table */
+    table-layout: auto; /* Adjusts based on content */
+}
+.tg td {
+    background-color:#fff;
+    border-color:#ccc;
+    border-style:solid;
+    border-width:1px;
+    color:#333;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    overflow:hidden;
+    padding:10px 5px;
+    word-break:normal;
+}
+.tg th {
+    background-color:#f0f0f0;
+    border-color:#ccc;
+    border-style:solid;
+    border-width:1px;
+    color:#333;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    font-weight:normal;
+    overflow:hidden;
+    padding:10px 5px;
+    word-break:normal;
+}
+.tg .tg-v16d {
+    background-color:#f9f9f9;
+    border-color:#cccccc;
+    text-align:left;
+    vertical-align:top;
+}
+.tg .tg-65iu {
+    border-color:#cccccc;
+    text-align:left;
+    vertical-align:top;
+}
+.tg .tg-o57c {
+    border-color:#cccccc;
+    text-align:center;
+    vertical-align:top;
+}
 </style>
 <table class="tg">
 <colgroup>
@@ -215,16 +255,16 @@ The following references are useful:
     <td class="tg-v16d"> </td>
   </tr>
   <tr>
-    <td class="tg-v16d">10</td>
-    <td class="tg-v16d"> </td>
-    <td class="tg-v16d">
+    <td class="tg-65iu">10</td>
+    <td class="tg-65iu"> </td>
+    <td class="tg-65iu">
     机器学习模型的应用 Applications of machine learning models
     </td>
-    <td class="tg-v16d">
+    <td class="tg-65iu">
     </td>
-    <td class="tg-v16d">
+    <td class="tg-65iu">
     </td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-65iu"> </td>
   </tr>
   <tr>
     <td class="tg-v16d">11</td>
@@ -239,16 +279,16 @@ The following references are useful:
     <td class="tg-v16d"> </td>
   </tr>
   <tr>
-    <td class="tg-v16d">12</td>
-    <td class="tg-v16d"> </td>
-    <td class="tg-v16d">
-    课程总结 Summary
+    <td class="tg-65iu">12</td>
+    <td class="tg-65iu"> </td>
+    <td class="tg-65iu">
+    课程总结/讲座 Summary/Guest lecture
     </td>
-    <td class="tg-v16d">
+    <td class="tg-65iu">
     </td>
-    <td class="tg-v16d">
+    <td class="tg-65iu">
     </td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-65iu"> </td>
   </tr>
 </tbody>
 </table>
