@@ -93,7 +93,7 @@ The following references are useful:
     border-width:1px;
     color:#333;
     font-family:Arial, sans-serif;
-    font-size:14px;
+    font-size:16px;
     overflow:hidden;
     padding:10px 5px;
     word-break:normal;
@@ -105,7 +105,7 @@ The following references are useful:
     border-width:1px;
     color:#333;
     font-family:Arial, sans-serif;
-    font-size:14px;
+    font-size:16px;
     font-weight:normal;
     overflow:hidden;
     padding:10px 5px;
