@@ -3,8 +3,8 @@ layout: page
 title: 量化投资/金融数据分析 Quantitative Investment (2025)
 description: Factor models, empirical tests of technical analysis indicators, applications of machine learning techniques
 img: assets/img/quant2024.png
-importance: 1
-category: Quant
+importance: 2
+category: 2025
 ---
 
 - [❗️通知 Announcement❗️](#️通知-announcement️)
@@ -154,6 +154,8 @@ The following references are useful:
     <td class="tg-v16d">1. 方法论简介 General introduction to the methodology <br>2. Python和相关库介绍 Introduction to Python and related packages</td>
     <td class="tg-v16d">
     <a href="/assets/courses/quant_2025/lec1/lec1.zip" target="_blank" rel="noopener noreferrer">lec1.zip</a>
+    <br>
+    <a href="https://nankai.feishu.cn/minutes/obcns72ypxsgqt9iugm89hq9?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-1]</a>
     </td>
     <td class="tg-v16d">
     <a href="https://www.liaoxuefeng.com/wiki/1016959663602400" target="_blank" rel="noopener noreferrer">廖雪峰的Python教程</a>

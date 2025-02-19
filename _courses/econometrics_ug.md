@@ -4,7 +4,7 @@ title: 计量经济学 I (2025)
 description: 
 img: assets/img/econometrics_ug.png
 importance: 1
-category: Econometrics
+category: 2025
 ---
 
 # ❗️通知❗️
@@ -124,7 +124,9 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-v16d">2月19日</td>
     <td class="tg-v16d"> 计量经济学方法论、简史 </td>
     <td class="tg-v16d">
-    <a href="/assets/courses/econometrics_ug/lec1.zip" target="_blank" rel="noopener noreferrer">lec1.zip</a>
+    <a href="/assets/courses/econometrics_ug/lec1.zip" target="_blank" rel="noopener noreferrer">lec1.zip </a>
+    <br>
+    <a href="https://nankai.feishu.cn/minutes/obcnthb369h1bh4p5b3kye49?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-1] </a>
     </td>
     <td class="tg-v16d">
       课本第一章 <br>

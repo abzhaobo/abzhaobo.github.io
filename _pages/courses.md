@@ -5,7 +5,7 @@ permalink: /courses/
 description:
 nav: true
 nav_order: 2
-display_categories: [Quant, Econometrics]
+display_categories: [2025, Earlier]
 horizontal: false
 ---
 
