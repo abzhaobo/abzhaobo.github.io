@@ -34,7 +34,7 @@ category: Econometrics
 Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
 
 参考书:
-- 墙裂推荐：Kennedy, Peter (2008). A Guide to Econometrics. 6 edition. Malden, MA: Wiley-Blackwell
+- 墙裂推荐 (简称AGE)：Kennedy, Peter (2008). A Guide to Econometrics. 6 edition. Malden, MA: Wiley-Blackwell
 - Hayashi, F. (2000). Econometrics. Princeton University Press.
 - Wooldridge, J. M. (2010). Econometric Analysis of Cross Section and Panel Data, 2nd ed.
 - Angrist, J. D., and J. Pischke, 2009, Mostly Harmless Econometrics: An Empiricist's Companion. 1 edition. (Princeton University Press).
@@ -103,7 +103,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
 <colgroup>
 <col style="width: 56px">
 <col style="width: 114px">
-<col style="width: 298px">
+<col style="width: 190px">
 <col style="width: 108px">
 <col style="width: 142px">
 <col style="width: 78px">
@@ -127,6 +127,8 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <a href="/assets/courses/econometrics_ug/lec1.zip" target="_blank" rel="noopener noreferrer">lec1.zip</a>
     </td>
     <td class="tg-v16d">
+      课本第一章 <br>
+      AGE Ch.1, Appendix A
     </td>
     <td class="tg-v16d"></td>
   </tr>
