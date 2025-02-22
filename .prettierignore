@@ -3,3 +3,6 @@
 assets/css/main.scss
 assets/plotly/demo.html
 assets/courses/**
+**/*.yml
+**/*.scss
+**/*.md
