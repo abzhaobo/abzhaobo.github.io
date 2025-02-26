@@ -102,9 +102,9 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
 <table class="tg">
 <colgroup>
 <col style="width: 56px">
-<col style="width: 114px">
+<col style="width: 70px">
 <col style="width: 190px">
-<col style="width: 108px">
+<col style="width: 130px">
 <col style="width: 142px">
 <col style="width: 78px">
 </colgroup>
@@ -139,7 +139,9 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-65iu"> </td>
     <td class="tg-65iu"> 线性回归模型：单变量 </td>
     <td class="tg-65iu">
-    <a href="/assets/courses/econometrics_ug/Chapter2.pdf" target="_blank" rel="noopener noreferrer">Ch2.pdf </a>
+    <a href="/assets/courses/econometrics_ug/Chapter2.pdf" target="_blank" rel="noopener noreferrer">Ch2.pdf </a> <br>
+    <a href="/assets/courses/econometrics_ug/上课笔记_Chapter2.pdf" target="_blank" rel="noopener noreferrer">笔记_Ch2.pdf </a> <br>
+    <a href="https://nankai.feishu.cn/minutes/obcnya21q76o6wf718953bh8?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-2] </a>
     </td>
     <td class="tg-65iu">
     课本第二章、附录A、B、C
