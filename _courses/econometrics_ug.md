@@ -139,8 +139,10 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-65iu"> </td>
     <td class="tg-65iu"> 线性回归模型：单变量 </td>
     <td class="tg-65iu">
+    <a href="/assets/courses/econometrics_ug/Chapter2.pdf" target="_blank" rel="noopener noreferrer">Ch2.pdf </a>
     </td>
     <td class="tg-65iu">
+    课本第二章、附录A、B、C
     </td>
     <td class="tg-65iu">
     </td>
