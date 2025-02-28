@@ -168,7 +168,8 @@ The following references are useful:
     <td class="tg-65iu">1. Python 介绍 <br> 2. 量化平台（优矿）介绍 Introduction to quant platform <br>3. 探索数据 Exploratory data analysis </td>
     <td class="tg-65iu">
       <a href="/assets/courses/quant_2025/lec2/lec2.zip" target="_blank" rel="noopener noreferrer">lec2.zip</a> <br>
-      <a href="https://nankai.feishu.cn/file/FAzXbMtEDo8zv6xpWCzcpdGmnlh" target="_blank" rel="noopener noreferrer">数据：stk_df_2015_2021.zip</a> 
+      <a href="https://nankai.feishu.cn/file/FAzXbMtEDo8zv6xpWCzcpdGmnlh" target="_blank" rel="noopener noreferrer">数据：stk_df_2015_2021.zip</a> <br>
+      <a href="https://nankai.feishu.cn/minutes/obcnxzth348q11595elg3257?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-2]</a> <br>
     </td>
     <td class="tg-65iu">
     </td>
