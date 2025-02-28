@@ -250,6 +250,9 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {% if entry.mytake %}
+        <a class="mytake btn btn-sm z-depth-0" role="button">My Thoughts</a>
+      {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
@@ -347,6 +350,13 @@
       <!-- Hidden abstract block -->
       <div class="abstract hidden">
         <p>{{ entry.abstract }}</p>
+      </div>
+    {% endif %}
+
+    {% if entry.mytake %}
+      <!-- Hidden My Take block -->
+      <div class="mytake hidden">
+        <p>{{ entry.mytake | markdownify }}</p>
       </div>
     {% endif %}
 
