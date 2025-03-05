@@ -9,6 +9,7 @@ category: 2025
 
 # ❗️通知❗️
 
+<!-- - **2025年3月5日：[作业1](href="/assets/courses/econometrics_ug/ex1.pdf) 已布置。请于2025年3月20日前提交。助教谢佳桐邮箱：2210968@mail.nankai.edu.cn** -->
 
 # 1. 课程大纲
 
@@ -140,7 +141,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-65iu"> 线性回归模型：单变量 </td>
     <td class="tg-65iu">
     <a href="/assets/courses/econometrics_ug/Chapter2.pdf" target="_blank" rel="noopener noreferrer">Ch2.pdf </a> <br>
-    <a href="/assets/courses/econometrics_ug/上课笔记_Chapter2.pdf" target="_blank" rel="noopener noreferrer">笔记_Ch2.pdf </a> <br>
+    <a href="/assets/courses/econometrics_ug/Ch2_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch2_课件笔记.pdf </a> <br>
     <a href="https://nankai.feishu.cn/minutes/obcnya21q76o6wf718953bh8?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-2] </a>
     </td>
     <td class="tg-65iu">
@@ -152,10 +153,17 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
   <tr>
     <td class="tg-v16d">3</td>
     <td class="tg-v16d"> </td>
-    <td class="tg-v16d"> 线性回归模型：单变量 </td>
+    <td class="tg-v16d"> 1. 线性回归模型：单变量 <br> 2. 线性回归模型：多变量 </td>
     <td class="tg-v16d">
+      <a href="/assets/courses/econometrics_ug/Ch2_课件笔记(完整).pdf" target="_blank" rel="noopener noreferrer">Ch2_课件笔记(完整) </a> <br>
+      <a href="/assets/courses/econometrics_ug/Ch2_书上笔记.pdf" target="_blank" rel="noopener noreferrer">Ch2_书上笔记.pdf </a> <br>
+      <a href="/assets/courses/econometrics_ug/Ch3_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch3_课件笔记.pdf </a> <br>
+      <a href="https://nankai.feishu.cn/minutes/obcn332pc2x4z4z233by68r3?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-3] </a>
     </td>
     <td class="tg-v16d">
+<!--       <a href="/assets/courses/econometrics_ug/ex1.pdf" target="_blank" rel="noopener noreferrer">ex1.pdf </a> <br>
+      提交截止时间：2025年3月20日 <br>
+      助教谢佳桐邮箱：2210968@mail.nankai.edu.cn -->
     </td>
     <td class="tg-v16d"></td>
   </tr>
