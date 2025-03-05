@@ -9,7 +9,7 @@ category: 2025
 
 # ❗️通知❗️
 
-<!-- - **2025年3月5日：[作业1](href="/assets/courses/econometrics_ug/ex1.pdf) 已布置。请于2025年3月20日前提交。助教谢佳桐邮箱：2210968@mail.nankai.edu.cn** -->
+- **2025年3月5日：[作业1](/assets/courses/econometrics_ug/ex1.pdf) 已布置。请于2025年3月20日前提交至助教谢佳桐邮箱：2210968@mail.nankai.edu.cn**
 
 # 1. 课程大纲
 
@@ -161,9 +161,9 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
       <a href="https://nankai.feishu.cn/minutes/obcn332pc2x4z4z233by68r3?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-3] </a>
     </td>
     <td class="tg-v16d">
-<!--       <a href="/assets/courses/econometrics_ug/ex1.pdf" target="_blank" rel="noopener noreferrer">ex1.pdf </a> <br>
+      <a href="/assets/courses/econometrics_ug/ex1.pdf" target="_blank" rel="noopener noreferrer">ex1.pdf </a> <br>
       提交截止时间：2025年3月20日 <br>
-      助教谢佳桐邮箱：2210968@mail.nankai.edu.cn -->
+      助教谢佳桐邮箱：2210968@mail.nankai.edu.cn
     </td>
     <td class="tg-v16d"></td>
   </tr>
