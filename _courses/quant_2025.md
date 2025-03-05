@@ -169,7 +169,7 @@ The following references are useful:
     <td class="tg-65iu">
       <a href="/assets/courses/quant_2025/lec2/lec2.zip" target="_blank" rel="noopener noreferrer">lec2.zip</a> <br>
       <a href="https://nankai.feishu.cn/file/FAzXbMtEDo8zv6xpWCzcpdGmnlh" target="_blank" rel="noopener noreferrer">数据：stk_df_2015_2021.zip</a> <br>
-      <a href="https://nankai.feishu.cn/minutes/obcnxzth348q11595elg3257?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-2]</a> <br>
+      <a href="https://nankai.feishu.cn/minutes/obcnxzth348q11595elg3257?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-2]</a>
     </td>
     <td class="tg-65iu">
     </td>
@@ -183,8 +183,11 @@ The following references are useful:
         2. 因子模型 Introduction to factor models and related econometrics </td>
     <td class="tg-v16d">
       <a href="/assets/courses/quant_2025/lec3/lec3.zip" target="_blank" rel="noopener noreferrer">lec3.zip</a> <br>
+      <a href="https://nankai.feishu.cn/file/AaxRbBHc4oCUWZxZ4dvc2bNPnle?from=from_copylink" target="_blank" rel="noopener noreferrer">stk_df.pkl</a> <br>
+      <a href="https://nankai.feishu.cn/minutes/obcn3s1b4i7u713i9h4w57v8?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-3]</a>
     </td>
     <td class="tg-v16d">
+    <a href="/assets/courses/quant_2025/exercises/ex1.pdf" target="_blank" rel="noopener noreferrer">ex1.pdf</a>
     </td>
     <td class="tg-v16d"></td>
   </tr>
