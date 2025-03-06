@@ -106,8 +106,8 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
 <col style="width: 70px">
 <col style="width: 190px">
 <col style="width: 130px">
-<col style="width: 142px">
-<col style="width: 78px">
+<col style="width: 100px">
+<col style="width: 140px">
 </colgroup>
 <thead>
   <tr>
@@ -161,11 +161,14 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
       <a href="https://nankai.feishu.cn/minutes/obcn332pc2x4z4z233by68r3?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-3] </a>
     </td>
     <td class="tg-v16d">
+      课本第三章 <br>
+      附录D、E
+    </td>
+    <td class="tg-v16d">
       <a href="/assets/courses/econometrics_ug/ex1.pdf" target="_blank" rel="noopener noreferrer">ex1.pdf </a> <br>
       提交截止时间：2025年3月20日 <br>
       助教谢佳桐邮箱：2210968@mail.nankai.edu.cn
     </td>
-    <td class="tg-v16d"></td>
   </tr>
   <tr>
     <td class="tg-65iu">4</td>
