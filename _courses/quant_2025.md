@@ -15,7 +15,7 @@ category: 2025
 - [2. 课程内容 Contents](#2-课程内容-contents)
 
 # ❗️通知 Announcement❗️
-- **2025.03.05: 第一次作业已布置，请于2025年3月19日前提交。**
+- **2025.03.05: 第一次[作业](/assets/courses/quant_2025/exercises/ex1.pdf)已布置，请于2025年3月19日前提交至 zhaobo@nankai.edu.cn 。**
 - 请分组，组长需提供姓名、手机号、邮箱，以便开通优矿平台账号
 - 课前问卷调察：[https://www.wjx.cn/vm/YlnrbHM.aspx](https://www.wjx.cn/vm/YlnrbHM.aspx)
 
@@ -188,10 +188,11 @@ The following references are useful:
       <a href="https://nankai.feishu.cn/minutes/obcn3s1b4i7u713i9h4w57v8?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-3]</a>
     </td>
     <td class="tg-v16d">
-    <a href="/assets/courses/quant_2025/exercises/ex1.pdf" target="_blank" rel="noopener noreferrer">ex1.pdf</a> <br>
-    此日期前提交: 2025.03.19
     </td>
-    <td class="tg-v16d"></td>
+    <td class="tg-v16d">
+      <a href="/assets/courses/quant_2025/exercises/ex1.pdf" target="_blank" rel="noopener noreferrer">ex1.pdf</a> <br>
+      此日期前提交: 2025.03.19
+    </td>
   </tr>
   <tr>
     <td class="tg-65iu">4</td>
