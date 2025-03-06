@@ -179,7 +179,7 @@ The following references are useful:
   </tr>
   <tr>
     <td class="tg-v16d">3</td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-v16d">3月4, 5日 </td>
     <td class="tg-v16d">1. 探索数据 Exploratory data analysis <br>
         2. 因子模型 Introduction to factor models and related econometrics </td>
     <td class="tg-v16d">
