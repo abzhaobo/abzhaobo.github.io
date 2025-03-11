@@ -195,8 +195,23 @@ The following references are useful:
     </td>
   </tr>
   <tr>
-    <td class="tg-65iu">4</td>
-    <td class="tg-65iu"> </td>
+    <td class="tg-v16d">4</td>
+    <td class="tg-v16d">3月11,12日 </td>
+    <td class="tg-v16d">
+        因子模型及相关计量经济学概述 </td>
+    <td class="tg-v16d">
+      <a href="/assets/courses/quant_2025/lec4/因子模型及相关计量经济学概述.pdf" target="_blank" rel="noopener noreferrer">因子模型及相关计量经济学概述.pdf</a>
+    </td>
+    <td class="tg-v16d">
+      Cochrane (2005), Ch. 12 <br>
+      石川, 刘洋溢, & 连祥斌. (2020). 因子投资：方法与实践, Ch. 2
+    </td>
+    <td class="tg-v16d">
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-65iu">5</td>
+    <td class="tg-65iu">3月18，19日 </td>
     <td class="tg-65iu"> 排序法：Beta 和 市值 Sorting on Beta and Size </td>
     <td class="tg-65iu">
     </td>
@@ -206,7 +221,7 @@ The following references are useful:
     </td>
   </tr>
   <tr>
-    <td class="tg-v16d">5</td>
+    <td class="tg-v16d">6</td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d"> 1. Fama-French 三因子 Fama-French 3 factors <br> 2. 动量、反转、流动性、波动率因子 Other common factors: Momentum, Reversal, Liquidity, Volatility </td>
     <td class="tg-v16d">
@@ -217,7 +232,7 @@ The following references are useful:
     </td>
   </tr>
   <tr>
-    <td class="tg-65iu">6</td>
+    <td class="tg-65iu">7</td>
     <td class="tg-65iu"> </td>
     <td class="tg-65iu">
     因子模型总结和应用 Applications of factor models
@@ -230,7 +245,7 @@ The following references are useful:
     </td>
   </tr>
   <tr>
-    <td class="tg-v16d">7</td>
+    <td class="tg-v16d">8</td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d">
     技术分析介绍和相关的计量经济学 Introduction to technical analysis and related econometrics
@@ -243,7 +258,7 @@ The following references are useful:
     </td>
   </tr>
   <tr>
-    <td class="tg-65iu">8</td>
+    <td class="tg-65iu">9</td>
     <td class="tg-65iu"> </td>
     <td class="tg-65iu">
     技术指标的量化分析 Statistical analysis of technical indicators
@@ -256,7 +271,7 @@ The following references are useful:
     </td>
   </tr>
   <tr>
-    <td class="tg-v16d">9</td>
+    <td class="tg-v16d">10</td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d">
     实践导向的机器学习入门 A practical introduction to machine learning 
@@ -268,7 +283,7 @@ The following references are useful:
     <td class="tg-v16d"> </td>
   </tr>
   <tr>
-    <td class="tg-65iu">10</td>
+    <td class="tg-65iu">11</td>
     <td class="tg-65iu"> </td>
     <td class="tg-65iu">
     机器学习模型的应用 Applications of machine learning models
@@ -280,7 +295,7 @@ The following references are useful:
     <td class="tg-65iu"> </td>
   </tr>
   <tr>
-    <td class="tg-v16d">11</td>
+    <td class="tg-v16d">12</td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d">
     深度学习模型的应用 Applications of deep learning models
@@ -291,7 +306,7 @@ The following references are useful:
     </td>
     <td class="tg-v16d"> </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td class="tg-65iu">12</td>
     <td class="tg-65iu"> </td>
     <td class="tg-65iu">
@@ -302,7 +317,7 @@ The following references are useful:
     <td class="tg-65iu">
     </td>
     <td class="tg-65iu"> </td>
-  </tr>
+  </tr> -->
 </tbody>
 </table>
 
