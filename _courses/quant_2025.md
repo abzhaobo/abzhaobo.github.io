@@ -200,7 +200,8 @@ The following references are useful:
     <td class="tg-v16d">
         因子模型及相关计量经济学概述 </td>
     <td class="tg-v16d">
-      <a href="/assets/courses/quant_2025/lec4/因子模型及相关计量经济学概述.pdf" target="_blank" rel="noopener noreferrer">因子模型及相关计量经济学概述.pdf</a>
+      <a href="/assets/courses/quant_2025/lec4/因子模型及相关计量经济学概述.pdf" target="_blank" rel="noopener noreferrer">因子模型及相关计量经济学概述.pdf</a> <br>
+      <a href="https://nankai.feishu.cn/minutes/obcn8lst14r156c8krge1gvm?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-4]</a>
     </td>
     <td class="tg-v16d">
       Cochrane (2005), Ch. 12 <br>

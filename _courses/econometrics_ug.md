@@ -157,7 +157,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-v16d">
       <a href="/assets/courses/econometrics_ug/Ch2_课件笔记(完整).pdf" target="_blank" rel="noopener noreferrer">Ch2_课件笔记(完整) </a> <br>
       <a href="/assets/courses/econometrics_ug/Ch2_书上笔记.pdf" target="_blank" rel="noopener noreferrer">Ch2_书上笔记.pdf </a> <br>
-      <a href="/assets/courses/econometrics_ug/Ch3_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch3_课件笔记.pdf </a> <br>
+      <a href="/assets/courses/econometrics_ug/Ch3_0305_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch3_0305_课件笔记.pdf </a> <br>
       <a href="https://nankai.feishu.cn/minutes/obcn332pc2x4z4z233by68r3?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-3] </a>
     </td>
     <td class="tg-v16d">
@@ -172,11 +172,14 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
   </tr>
   <tr>
     <td class="tg-65iu">4</td>
-    <td class="tg-65iu"> </td>
-    <td class="tg-65iu"> 线性回归模型：多变量 </td>
+    <td class="tg-65iu">3月12日</td>
+    <td class="tg-65iu"> 线性回归模型：多变量估计 </td>
     <td class="tg-65iu">
+      <a href="/assets/courses/econometrics_ug/Ch3_0312_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch3_0312_课件笔记.pdf </a> <br>
+      <a href="https://nankai.feishu.cn/minutes/obcn8v136689v4lhijan7p91?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-4] </a>
     </td>
     <td class="tg-65iu">
+      课本第三章
     </td>
     <td class="tg-65iu">
     </td>
@@ -184,7 +187,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
   <tr>
     <td class="tg-v16d">5</td>
     <td class="tg-v16d"> </td>
-    <td class="tg-v16d"> 线性回归模型：估计 </td>
+    <td class="tg-v16d"> 线性回归模型：多变量估计 </td>
     <td class="tg-v16d">
     </td>
     <td class="tg-v16d">
@@ -195,7 +198,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
   <tr>
     <td class="tg-65iu">6</td>
     <td class="tg-65iu"> </td>
-    <td class="tg-65iu"> 线性回归模型：估计 </td>
+    <td class="tg-65iu"> 线性回归模型：统计推断 </td>
     <td class="tg-65iu">
     </td>
     <td class="tg-65iu">
