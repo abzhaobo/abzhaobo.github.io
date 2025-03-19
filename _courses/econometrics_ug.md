@@ -15,6 +15,9 @@ category: 2025
 
 # 1. 课程大纲
 
+<details markdown="1">
+  <summary> 详细内容 </summary>
+
 这门课是计量经济学入门。本课程旨在帮助学生掌握使用统计方法分析经济数据的基本技能。课程内容涵盖经济学理论与实际数据之间的关系，重点介绍如何运用回归分析、假设检验等基本计量方法来理解经济现象。学生将学习如何构建和估计经济模型，分析经济变量之间的关系，检验模型的有效性。课程主要内容如下：
 
 - 计量经济学方法论、简史
@@ -50,6 +53,9 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
 **PLAGIARISM IS STRICTLY PROHIBITED. You may immediately fail the course if copy-pasting other's work.** Discussion is, of course, permitted.
 
 **抄袭作业零容忍。抄袭他人作业可能会直接挂科。** 讨论、交流没有问题，但仍需自己完成。
+
+</details>
+
 
 # 2. 课程内容
 <style type="text/css">
@@ -188,11 +194,14 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
   </tr>
   <tr>
     <td class="tg-v16d">5</td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-v16d">3月19日 </td>
     <td class="tg-v16d"> 线性回归模型：多变量估计 </td>
     <td class="tg-v16d">
+      <a href="/assets/courses/econometrics_ug/Ch3_0319_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch3_0319_课件笔记.pdf </a> （已添加黑板内容） <br>
+      <a href="https://nankai.feishu.cn/minutes/obcndoah5z89tbhzks1c3zuc?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-5] </a>
     </td>
     <td class="tg-v16d">
+      课本第三章。附录E。
     </td>
     <td class="tg-v16d">
     </td>
