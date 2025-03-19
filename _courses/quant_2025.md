@@ -216,7 +216,8 @@ The following references are useful:
     <td class="tg-65iu"> 排序法：Beta 和 市值 Sorting on Beta and Size </td>
     <td class="tg-65iu">
       <a href="/assets/courses/quant_2025/lec5/lec5.zip" target="_blank" rel="noopener noreferrer">lec5.zip</a> <br>
-      <a href="https://nankai.feishu.cn/file/L4Bqbsvz8o2FATxVarmcSpeOnIh?from=from_copylink" target="_blank" rel="noopener noreferrer">lec5_data.zip</a>
+      <a href="https://nankai.feishu.cn/file/L4Bqbsvz8o2FATxVarmcSpeOnIh?from=from_copylink" target="_blank" rel="noopener noreferrer">lec5_data.zip</a> <br>
+      <a href="https://nankai.feishu.cn/minutes/obcnde7h64gsztk6g7gcn335?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-5]</a>
     </td>
     <td class="tg-65iu">
        <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1992.tb04398.x" target="_blank" rel="noopener noreferrer">Fama & French (1992)</a> <br>
