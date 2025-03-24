@@ -230,8 +230,10 @@ The following references are useful:
   <tr>
     <td class="tg-v16d">6</td>
     <td class="tg-v16d"> </td>
-    <td class="tg-v16d"> 1. Fama-French 三因子 Fama-French 3 factors <br> 2. 动量、反转、流动性、波动率因子 Other common factors: Momentum, Reversal, Liquidity, Volatility </td>
+    <td class="tg-v16d"> Fama-French 三因子 Fama-French 3 factors </td>
     <td class="tg-v16d">
+      <a href="/assets/courses/quant_2025/lec6/lec6.zip" target="_blank" rel="noopener noreferrer">lec6.zip</a> <br>
+      <a href="https://nankai.feishu.cn/file/GUPobDpjdoBk2yx4dVvcV7JIn9g?from=from_copylink" target="_blank" rel="noopener noreferrer">FF3_data.zip</a> 
     </td>
     <td class="tg-v16d">
     </td>
@@ -242,7 +244,8 @@ The following references are useful:
     <td class="tg-65iu">7</td>
     <td class="tg-65iu"> </td>
     <td class="tg-65iu">
-    因子模型总结和应用 Applications of factor models
+    1. 动量、反转、流动性、波动率因子 Other common factors: Momentum, Reversal, Liquidity, Volatility <br>
+    2. 因子模型总结和应用 Applications of factor models
     </td>
     <td class="tg-65iu">
     </td>
