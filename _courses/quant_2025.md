@@ -229,11 +229,12 @@ The following references are useful:
   </tr>
   <tr>
     <td class="tg-v16d">6</td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-v16d">3月25，26日</td>
     <td class="tg-v16d"> Fama-French 三因子 Fama-French 3 factors </td>
     <td class="tg-v16d">
       <a href="/assets/courses/quant_2025/lec6/lec6.zip" target="_blank" rel="noopener noreferrer">lec6.zip</a> <br>
-      <a href="https://nankai.feishu.cn/file/GUPobDpjdoBk2yx4dVvcV7JIn9g?from=from_copylink" target="_blank" rel="noopener noreferrer">FF3_data.zip</a> 
+      <a href="https://nankai.feishu.cn/file/GUPobDpjdoBk2yx4dVvcV7JIn9g?from=from_copylink" target="_blank" rel="noopener noreferrer">FF3_data.zip</a> <br>
+      <a href="https://nankai.feishu.cn/minutes/obcnh777y498f2zk174mg472?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-6]</a>
     </td>
     <td class="tg-v16d">
     </td>

@@ -211,8 +211,11 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-65iu"> </td>
     <td class="tg-65iu"> 线性回归模型：统计推断 </td>
     <td class="tg-65iu">
+      <a href="/assets/courses/econometrics_ug/Ch4.pdf" target="_blank" rel="noopener noreferrer">Ch4.pdf </a> 
     </td>
     <td class="tg-65iu">
+      课本第四章 <br>
+      附录E
     </td>
     <td class="tg-65iu">
     </td>
