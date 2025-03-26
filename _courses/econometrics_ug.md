@@ -113,9 +113,9 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
 <col style="width: 56px">
 <col style="width: 70px">
 <col style="width: 190px">
-<col style="width: 130px">
-<col style="width: 100px">
-<col style="width: 140px">
+<col style="width: 180px">
+<col style="width: 120px">
+<col style="width: 80px">
 </colgroup>
 <thead>
   <tr>
@@ -153,7 +153,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <a href="https://nankai.feishu.cn/minutes/obcnya21q76o6wf718953bh8?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-2] </a>
     </td>
     <td class="tg-65iu">
-    课本第二章、附录A、B、C
+    课本第二章 <br> 附录A、B、C
     </td>
     <td class="tg-65iu">
     </td>
@@ -201,17 +201,19 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
       <a href="https://nankai.feishu.cn/minutes/obcndoah5z89tbhzks1c3zuc?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-5] </a>
     </td>
     <td class="tg-v16d">
-      课本第三章。附录E。
+      课本第三章 <br> 附录E
     </td>
     <td class="tg-v16d">
     </td>
   </tr>
   <tr>
     <td class="tg-65iu">6</td>
-    <td class="tg-65iu"> </td>
+    <td class="tg-65iu">3月26日 </td>
     <td class="tg-65iu"> 线性回归模型：统计推断 </td>
     <td class="tg-65iu">
-      <a href="/assets/courses/econometrics_ug/Ch4.pdf" target="_blank" rel="noopener noreferrer">Ch4.pdf </a> 
+      <a href="/assets/courses/econometrics_ug/Ch4.pdf" target="_blank" rel="noopener noreferrer">Ch4.pdf </a> <br>
+      <a href="/assets/courses/econometrics_ug/Ch4_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch4_课件笔记.pdf </a> <br>
+      <a href="https://nankai.feishu.cn/minutes/obcnih643ebe19o233h18646?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-6] </a> 
     </td>
     <td class="tg-65iu">
       课本第四章 <br>
