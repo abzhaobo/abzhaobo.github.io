@@ -24,6 +24,8 @@ category: Earlier
 
 # ❗️通知 Announcement❗️
 
+2022.04.24 讲座：戴嵩 长江养老保险基金经理。腾讯会议号：902 133 587
+
 2022.04.05 清明节放假，停课一次。
 
 2022.03.30 (递交截止时间：2022.04.13 上午12:00): 作业3：[ex3.pdf](/assets/courses/quant/exercises/ex3.pdf)
