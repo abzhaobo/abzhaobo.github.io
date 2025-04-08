@@ -2,7 +2,7 @@
 layout: page
 title: 量化投资/金融数据分析 Quantitative Investment (2025)
 description: Factor models, empirical tests of technical analysis indicators, applications of machine learning techniques
-img: assets/img/quant2024.png
+img: assets/img/quant2025.png
 importance: 2
 category: 2025
 ---
@@ -243,14 +243,16 @@ The following references are useful:
   </tr>
   <tr>
     <td class="tg-65iu">7</td>
-    <td class="tg-65iu"> </td>
+    <td class="tg-65iu">4月8，9日</td>
     <td class="tg-65iu">
     1. 动量、反转、流动性、波动率因子 Other common factors: Momentum, Reversal, Liquidity, Volatility <br>
     2. 因子模型总结和应用 Applications of factor models
     </td>
     <td class="tg-65iu">
+        <a href="/assets/courses/quant_2025/lec7/lec7.zip" target="_blank" rel="noopener noreferrer">lec7.zip</a>
     </td>
     <td class="tg-65iu">
+    参考文献见课件
     </td>
     <td class="tg-65iu">
     </td>
