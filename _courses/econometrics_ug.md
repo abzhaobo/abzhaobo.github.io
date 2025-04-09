@@ -227,7 +227,8 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-v16d">4月9日 </td>
     <td class="tg-v16d"> 线性回归模型：大样本性质 </td>
     <td class="tg-v16d">
-    <a href="/assets/courses/econometrics_ug/Ch5.pdf" target="_blank" rel="noopener noreferrer">Ch5.pdf </a> 
+    <a href="/assets/courses/econometrics_ug/Ch5.pdf" target="_blank" rel="noopener noreferrer">Ch5.pdf </a> <br>
+    <a href="/assets/courses/econometrics_ug/Ch5_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch5_课件笔记.pdf </a>
     </td>
     <td class="tg-v16d">
     课本第5章
