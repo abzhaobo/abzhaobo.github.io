@@ -11,6 +11,7 @@ category: 2025
 
 ❗️❗️❗️：中文版公用课件有一些错误。自学请务必以上课时讲解为准。
 
+- **2025年3月5日：[作业2](/assets/courses/econometrics_ug/ex2.pdf) 已布置。请于2025年4月24日前提交至助教谢佳桐邮箱：2210968@mail.nankai.edu.cn**
 - **2025年3月5日：[作业1](/assets/courses/econometrics_ug/ex1.pdf) 已布置。请于2025年3月20日前提交至助教谢佳桐邮箱：2210968@mail.nankai.edu.cn**
 
 # 1. 课程大纲
@@ -228,12 +229,17 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-v16d"> 线性回归模型：大样本性质 </td>
     <td class="tg-v16d">
     <a href="/assets/courses/econometrics_ug/Ch5.pdf" target="_blank" rel="noopener noreferrer">Ch5.pdf </a> <br>
-    <a href="/assets/courses/econometrics_ug/Ch5_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch5_课件笔记.pdf </a>
+    <a href="/assets/courses/econometrics_ug/Ch5_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch5_课件笔记.pdf </a> <br>
+    <a href="https://nankai.feishu.cn/minutes/obcnr3pb7y477b56t1g326u1?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-7] </a> <br>
+    <a href="https://nankai.feishu.cn/minutes/obcnr56j1118o16cum6n1j8j?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-7 作业] </a>
     </td>
     <td class="tg-v16d">
     课本第5章
     </td>
     <td class="tg-v16d">
+    <a href="/assets/courses/econometrics_ug/ex2.pdf" target="_blank" rel="noopener noreferrer">ex2.pdf </a> <br>
+    提交截止时间：2025年4月24日 <br>
+      助教谢佳桐邮箱：2210968@mail.nankai.edu.cn
     </td>
   </tr>
   <tr>
