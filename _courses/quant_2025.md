@@ -15,6 +15,7 @@ category: 2025
 - [2. 课程内容 Contents](#2-课程内容-contents)
 
 # ❗️通知 Announcement❗️
+- **2025.04.09: 第二次[作业](/assets/courses/quant_2025/exercises/ex2.pdf)已布置，请于2025年4月23日前提交至 zhaobo@nankai.edu.cn 。**
 - **2025.03.05: 第一次[作业](/assets/courses/quant_2025/exercises/ex1.pdf)已布置，请于2025年3月19日前提交至 zhaobo@nankai.edu.cn 。**
 - 请分组，组长需提供姓名、手机号、邮箱，以便开通优矿平台账号
 - 课前问卷调察：[https://www.wjx.cn/vm/YlnrbHM.aspx](https://www.wjx.cn/vm/YlnrbHM.aspx)
@@ -245,16 +246,21 @@ The following references are useful:
     <td class="tg-65iu">7</td>
     <td class="tg-65iu">4月8，9日</td>
     <td class="tg-65iu">
-    1. 动量、反转、流动性、波动率因子 Other common factors: Momentum, Reversal, Liquidity, Volatility <br>
-    2. 因子模型总结和应用 Applications of factor models
+    动量、反转、流动性、波动率因子；回测 Other common factors: Momentum, Reversal, Liquidity, Volatility <br>
     </td>
     <td class="tg-65iu">
-        <a href="/assets/courses/quant_2025/lec7/lec7.zip" target="_blank" rel="noopener noreferrer">lec7.zip</a>
+        已更新。前两次课件对应错误也已更新。 <br>
+        <a href="/assets/courses/quant_2025/lec7/lec7.zip" target="_blank" rel="noopener noreferrer">lec7.zip</a> <br>
+        <a href="https://nankai.feishu.cn/file/X7kKbgiUGoqMx2x7149cprfrngh?from=from_copylink" target="_blank" rel="noopener noreferrer">lec7_data.zip</a> <br>
+        <a href="https://nankai.feishu.cn/file/QHkYbXNaQoiDLgxVT7jcTnKRnDb?from=from_copylink" target="_blank" rel="noopener noreferrer">factor_exposure.zip</a> <br>
+        <a href="https://nankai.feishu.cn/minutes/obcnrei3pp91972a244j6v47?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-7]</a>
     </td>
     <td class="tg-65iu">
     参考文献见课件
     </td>
     <td class="tg-65iu">
+    <a href="/assets/courses/quant_2025/exercises/ex2.pdf" target="_blank" rel="noopener noreferrer">ex2.pdf</a> <br>
+      此日期前提交: 2025.04.23
     </td>
   </tr>
   <tr>
