@@ -138,7 +138,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <a href="https://nankai.feishu.cn/minutes/obcnthb369h1bh4p5b3kye49?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-1] </a>
     </td>
     <td class="tg-v16d">
-      课本第一章 <br>
+      课本第1章 <br>
       AGE Ch.1, Appendix A
     </td>
     <td class="tg-v16d"></td>
@@ -153,7 +153,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <a href="https://nankai.feishu.cn/minutes/obcnya21q76o6wf718953bh8?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-2] </a>
     </td>
     <td class="tg-65iu">
-    课本第二章 <br> 附录A、B、C
+    课本第2章 <br> 附录A、B、C
     </td>
     <td class="tg-65iu">
     </td>
@@ -169,7 +169,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
       <a href="https://nankai.feishu.cn/minutes/obcn332pc2x4z4z233by68r3?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-3] </a>
     </td>
     <td class="tg-v16d">
-      课本第三章 <br>
+      课本第3章 <br>
       附录D、E
     </td>
     <td class="tg-v16d">
@@ -187,7 +187,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
       <a href="https://nankai.feishu.cn/minutes/obcn8v136689v4lhijan7p91?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-4] </a>
     </td>
     <td class="tg-65iu">
-      课本第三章
+      课本第3章
     </td>
     <td class="tg-65iu">
     </td>
@@ -201,7 +201,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
       <a href="https://nankai.feishu.cn/minutes/obcndoah5z89tbhzks1c3zuc?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-5] </a>
     </td>
     <td class="tg-v16d">
-      课本第三章 <br> 附录E
+      课本第3章 <br> 附录E
     </td>
     <td class="tg-v16d">
     </td>
@@ -216,7 +216,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
       <a href="https://nankai.feishu.cn/minutes/obcnih643ebe19o233h18646?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-6] </a> 
     </td>
     <td class="tg-65iu">
-      课本第四章 <br>
+      课本第4章 <br>
       附录E
     </td>
     <td class="tg-65iu">
@@ -224,11 +224,13 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
   </tr>
   <tr>
     <td class="tg-v16d">7</td>
-    <td class="tg-v16d"> </td>
-    <td class="tg-v16d"> 线性回归模型：统计推断 </td>
+    <td class="tg-v16d">4月9日 </td>
+    <td class="tg-v16d"> 线性回归模型：大样本性质 </td>
     <td class="tg-v16d">
+    <a href="/assets/courses/econometrics_ug/Ch5.pdf" target="_blank" rel="noopener noreferrer">Ch5.pdf </a> 
     </td>
     <td class="tg-v16d">
+    课本第5章
     </td>
     <td class="tg-v16d">
     </td>
@@ -237,7 +239,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-65iu">8</td>
     <td class="tg-65iu"> </td>
     <td class="tg-65iu">
-    线性回归模型：统计推断 
+    数据选择、函数形式选择 
     </td>
     <td class="tg-65iu">
     </td>
@@ -250,7 +252,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-v16d">9</td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d">
-    线性回归模型：大样本性质
+    二值变量模型
     </td>
     <td class="tg-v16d">
     </td>
@@ -262,7 +264,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-65iu">10</td>
     <td class="tg-65iu"> </td>
     <td class="tg-65iu">
-    线性回归模型：大样本性质
+    异方差、自相关问题
     </td>
     <td class="tg-65iu">
     </td>
@@ -274,7 +276,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-v16d">11</td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d">
-    数据选择、函数形式选择
+    异方差、自相关问题
     </td>
     <td class="tg-v16d">
     </td>
@@ -286,7 +288,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-65iu">12</td>
     <td class="tg-65iu"> </td>
     <td class="tg-65iu">
-    二值变量模型
+    工具变量法
     </td>
     <td class="tg-65iu">
     </td>
@@ -298,7 +300,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-v16d">13</td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d">
-    二值变量模型
+    工具变量法
     </td>
     <td class="tg-v16d">
     </td>
@@ -310,7 +312,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-65iu">14</td>
     <td class="tg-65iu"> </td>
     <td class="tg-65iu">
-    异方差、自相关问题
+    工具变量法
     </td>
     <td class="tg-65iu">
     </td>
@@ -322,7 +324,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-v16d">15</td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d">
-    工具变量法
+
     </td>
     <td class="tg-v16d">
     </td>
@@ -334,7 +336,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-65iu">16</td>
     <td class="tg-65iu"> </td>
     <td class="tg-65iu">
-    工具变量法
+    
     </td>
     <td class="tg-65iu">
     </td>
