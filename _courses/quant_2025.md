@@ -153,7 +153,7 @@ The following references are useful:
   <tr>
     <td class="tg-v16d">1</td>
     <td class="tg-v16d">2月18, 19日</td>
-    <td class="tg-v16d">1. 方法论简介 General introduction to the methodology <br>2. Python和相关库介绍 Introduction to Python and related packages</td>
+    <td class="tg-v16d">1. 方法论简介 <br>2. Python和相关库介绍 </td>
     <td class="tg-v16d">
     <a href="/assets/courses/quant_2025/lec1/lec1.zip" target="_blank" rel="noopener noreferrer">lec1.zip</a>
     <br>
@@ -167,7 +167,7 @@ The following references are useful:
   <tr>
     <td class="tg-65iu">2</td>
     <td class="tg-65iu">2月25, 26日</td>
-    <td class="tg-65iu">1. Python 介绍 <br> 2. 量化平台（优矿）介绍 Introduction to quant platform </td>
+    <td class="tg-65iu">1. Python 介绍 <br> 2. 量化平台（优矿）介绍  </td>
     <td class="tg-65iu">
       <a href="/assets/courses/quant_2025/lec2/lec2.zip" target="_blank" rel="noopener noreferrer">lec2.zip</a> <br>
       <a href="https://nankai.feishu.cn/file/FAzXbMtEDo8zv6xpWCzcpdGmnlh" target="_blank" rel="noopener noreferrer">数据：stk_df_2015_2021.zip</a> <br>
@@ -181,8 +181,8 @@ The following references are useful:
   <tr>
     <td class="tg-v16d">3</td>
     <td class="tg-v16d">3月4, 5日 </td>
-    <td class="tg-v16d">1. 探索数据 Exploratory data analysis <br>
-        2. 因子模型 Introduction to factor models and related econometrics </td>
+    <td class="tg-v16d">1. 探索数据  <br>
+        2. 因子模型 </td>
     <td class="tg-v16d">
       <a href="/assets/courses/quant_2025/lec3/lec3.zip" target="_blank" rel="noopener noreferrer">lec3.zip</a> <br>
       <a href="https://nankai.feishu.cn/file/AaxRbBHc4oCUWZxZ4dvc2bNPnle?from=from_copylink" target="_blank" rel="noopener noreferrer">stk_df.pkl</a> <br>
@@ -214,7 +214,7 @@ The following references are useful:
   <tr>
     <td class="tg-65iu">5</td>
     <td class="tg-65iu">3月18，19日 </td>
-    <td class="tg-65iu"> 排序法：Beta 和 市值 Sorting on Beta and Size </td>
+    <td class="tg-65iu"> 排序法：Beta 和 市值  </td>
     <td class="tg-65iu">
       <a href="/assets/courses/quant_2025/lec5/lec5.zip" target="_blank" rel="noopener noreferrer">lec5.zip</a> <br>
       <a href="https://nankai.feishu.cn/file/L4Bqbsvz8o2FATxVarmcSpeOnIh?from=from_copylink" target="_blank" rel="noopener noreferrer">lec5_data.zip</a> <br>
@@ -231,7 +231,7 @@ The following references are useful:
   <tr>
     <td class="tg-v16d">6</td>
     <td class="tg-v16d">3月25，26日</td>
-    <td class="tg-v16d"> Fama-French 三因子 Fama-French 3 factors </td>
+    <td class="tg-v16d"> Fama-French 三因子 </td>
     <td class="tg-v16d">
       <a href="/assets/courses/quant_2025/lec6/lec6.zip" target="_blank" rel="noopener noreferrer">lec6.zip</a> <br>
       <a href="https://nankai.feishu.cn/file/GUPobDpjdoBk2yx4dVvcV7JIn9g?from=from_copylink" target="_blank" rel="noopener noreferrer">FF3_data.zip</a> <br>
@@ -246,7 +246,7 @@ The following references are useful:
     <td class="tg-65iu">7</td>
     <td class="tg-65iu">4月8，9日</td>
     <td class="tg-65iu">
-    动量、反转、流动性、波动率因子；回测 Other common factors: Momentum, Reversal, Liquidity, Volatility <br>
+    动量、反转、流动性、波动率因子；回测 <br>
     </td>
     <td class="tg-65iu">
         已更新。前两次课件对应错误也已更新。 <br>
@@ -265,13 +265,19 @@ The following references are useful:
   </tr>
   <tr>
     <td class="tg-v16d">8</td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-v16d">4月15，16日 </td>
     <td class="tg-v16d">
-    技术分析介绍和相关的计量经济学 Introduction to technical analysis and related econometrics
+    1. 因子模型的应用 <br>
+    2. 技术分析介绍和相关的计量经济学
     </td>
     <td class="tg-v16d">
+    <a href="/assets/courses/quant_2025/lec8/bootstrap.zip" target="_blank" rel="noopener noreferrer">bootstrap.zip</a> <br>
+    <a href="/assets/courses/quant_2025/lec8/factor_application.zip" target="_blank" rel="noopener noreferrer">factor_application.zip</a> <br>
+    <a href="/assets/courses/quant_2025/lec8/tech_analys.zip" target="_blank" rel="noopener noreferrer">tech_analys.zip</a> <br>
+    <a href="https://nankai.feishu.cn/file/J6ceb8hVNoNWqMxZrRocWYplnxg?from=from_copylink" target="_blank" rel="noopener noreferrer">stk_df_ta.zip</a> 
     </td>
     <td class="tg-v16d">
+    参考文献见课件中所列
     </td>
     <td class="tg-v16d">
     </td>
