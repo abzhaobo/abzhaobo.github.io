@@ -244,11 +244,12 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
   </tr>
   <tr>
     <td class="tg-65iu">8</td>
-    <td class="tg-65iu"> </td>
+    <td class="tg-65iu">4月16日 </td>
     <td class="tg-65iu">
     数据选择、函数形式选择 
     </td>
     <td class="tg-65iu">
+    <a href="/assets/courses/econometrics_ug/Ch6.pdf" target="_blank" rel="noopener noreferrer">Ch6.pdf </a>
     </td>
     <td class="tg-65iu">
     </td>

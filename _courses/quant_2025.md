@@ -274,7 +274,8 @@ The following references are useful:
     <a href="/assets/courses/quant_2025/lec8/bootstrap.zip" target="_blank" rel="noopener noreferrer">bootstrap.zip</a> <br>
     <a href="/assets/courses/quant_2025/lec8/factor_application.zip" target="_blank" rel="noopener noreferrer">factor_application.zip</a> <br>
     <a href="/assets/courses/quant_2025/lec8/tech_analys.zip" target="_blank" rel="noopener noreferrer">tech_analys.zip</a> <br>
-    <a href="https://nankai.feishu.cn/file/J6ceb8hVNoNWqMxZrRocWYplnxg?from=from_copylink" target="_blank" rel="noopener noreferrer">stk_df_ta.zip</a> 
+    <a href="https://nankai.feishu.cn/file/J6ceb8hVNoNWqMxZrRocWYplnxg?from=from_copylink" target="_blank" rel="noopener noreferrer">stk_df_ta.zip</a> <br>
+    <a href="https://nankai.feishu.cn/minutes/obcnwlm76dt838797enhemiy?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-8]</a> <br>
     </td>
     <td class="tg-v16d">
     参考文献见课件中所列
