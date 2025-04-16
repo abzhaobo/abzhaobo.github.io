@@ -249,9 +249,12 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     数据选择、函数形式选择 
     </td>
     <td class="tg-65iu">
-    <a href="/assets/courses/econometrics_ug/Ch6.pdf" target="_blank" rel="noopener noreferrer">Ch6.pdf </a>
+    <a href="/assets/courses/econometrics_ug/Ch6.pdf" target="_blank" rel="noopener noreferrer">Ch6.pdf </a> <br>
+    <a href="/assets/courses/econometrics_ug/Ch6_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch6_课件笔记.pdf </a> <br>
+    <a href="https://nankai.feishu.cn/minutes/obcnwyjdp132s3x8um5iortq?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-8] </a>
     </td>
     <td class="tg-65iu">
+    课本第6章
     </td>
     <td class="tg-65iu">
     </td>
