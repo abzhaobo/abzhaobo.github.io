@@ -287,9 +287,11 @@ The following references are useful:
     <td class="tg-65iu">9</td>
     <td class="tg-65iu"> </td>
     <td class="tg-65iu">
-    技术指标的量化分析 Statistical analysis of technical indicators
+    1. 技术指标的量化分析 <br>
+    2. 实践导向的机器学习入门
     </td>
     <td class="tg-65iu">
+    <a href="/assets/courses/quant_2025/lec9/lec9.zip" target="_blank" rel="noopener noreferrer">lec9.zip</a>
     </td>
     <td class="tg-65iu">
     </td>
@@ -300,7 +302,8 @@ The following references are useful:
     <td class="tg-v16d">10</td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d">
-    实践导向的机器学习入门 A practical introduction to machine learning 
+    1. 实践导向的机器学习入门 <br>
+    2. 机器学习应用：技术分析
     </td>
     <td class="tg-v16d">
     </td>
@@ -312,7 +315,7 @@ The following references are useful:
     <td class="tg-65iu">11</td>
     <td class="tg-65iu"> </td>
     <td class="tg-65iu">
-    机器学习模型的应用 Applications of machine learning models
+    机器学习应用：因子模型
     </td>
     <td class="tg-65iu">
     </td>
@@ -324,7 +327,7 @@ The following references are useful:
     <td class="tg-v16d">12</td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d">
-    深度学习模型的应用 Applications of deep learning models
+    深度学习简介和应用
     </td>
     <td class="tg-v16d">
     </td>
