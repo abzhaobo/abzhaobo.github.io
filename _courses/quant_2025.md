@@ -273,7 +273,7 @@ The following references are useful:
     <td class="tg-v16d">
     <a href="/assets/courses/quant_2025/lec8/bootstrap.zip" target="_blank" rel="noopener noreferrer">bootstrap.zip</a> <br>
     <a href="/assets/courses/quant_2025/lec8/factor_application.zip" target="_blank" rel="noopener noreferrer">factor_application.zip</a> <br>
-    <a href="/assets/courses/quant_2025/lec8/tech_analys.zip" target="_blank" rel="noopener noreferrer">tech_analys.zip</a> <br>
+    <a href="/assets/courses/quant_2025/lec8/ta_test.zip" target="_blank" rel="noopener noreferrer">ta_test.zip</a> <br>
     <a href="https://nankai.feishu.cn/file/J6ceb8hVNoNWqMxZrRocWYplnxg?from=from_copylink" target="_blank" rel="noopener noreferrer">stk_df_ta.zip</a> <br>
     <a href="https://nankai.feishu.cn/minutes/obcnwlm76dt838797enhemiy?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-8]</a> <br>
     </td>
@@ -287,13 +287,15 @@ The following references are useful:
     <td class="tg-65iu">9</td>
     <td class="tg-65iu"> </td>
     <td class="tg-65iu">
-    1. 技术指标的量化分析 <br>
-    2. 实践导向的机器学习入门
+    技术指标的量化分析 <br>
     </td>
     <td class="tg-65iu">
-    <a href="/assets/courses/quant_2025/lec9/lec9.zip" target="_blank" rel="noopener noreferrer">lec9.zip</a>
+    <a href="/assets/courses/quant_2025/lec8/ta_test.zip" target="_blank" rel="noopener noreferrer">ta_test.zip</a> <br>
+    <a href="/assets/courses/quant_2025/lec9/7-crs_timing.zip" target="_blank" rel="noopener noreferrer">7-crs_timing.zip</a> 
+    <a href="https://nankai.feishu.cn/minutes/obcn2e39cn3vx7497mky2kxj?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-9]</a>
     </td>
     <td class="tg-65iu">
+    参考文献见课件中所列
     </td>
     <td class="tg-65iu">
     </td>
