@@ -263,12 +263,16 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-v16d">9</td>
     <td class="tg-v16d">4月23日</td>
     <td class="tg-v16d">
-    二值变量模型
+    1. 二值变量模型 <br>
+    2. 自举法 Bootstrap
     </td>
     <td class="tg-v16d">
-    <a href="/assets/courses/econometrics_ug/Ch7.pdf" target="_blank" rel="noopener noreferrer">Ch7.pdf </a> 
+    <a href="/assets/courses/econometrics_ug/Ch7.pdf" target="_blank" rel="noopener noreferrer">Ch7.pdf </a> <br>
+    <a href="/assets/courses/quant_2025/lec8/bootstrap.zip" target="_blank" rel="noopener noreferrer">bootstrap.zip</a> 
     </td>
     <td class="tg-v16d">
+    课本第7章 <br>
+    课本第6章附录
     </td>
     <td class="tg-v16d"> </td>
   </tr>
