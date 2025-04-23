@@ -261,11 +261,12 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
   </tr>
   <tr>
     <td class="tg-v16d">9</td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-v16d">4月23日</td>
     <td class="tg-v16d">
     二值变量模型
     </td>
     <td class="tg-v16d">
+    <a href="/assets/courses/econometrics_ug/Ch7.pdf" target="_blank" rel="noopener noreferrer">Ch7.pdf </a> 
     </td>
     <td class="tg-v16d">
     </td>
