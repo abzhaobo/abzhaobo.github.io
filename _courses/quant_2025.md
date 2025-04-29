@@ -302,12 +302,15 @@ The following references are useful:
   </tr>
   <tr>
     <td class="tg-v16d">10</td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-v16d">4月29、30日</td>
     <td class="tg-v16d">
     1. 实践导向的机器学习入门 <br>
     2. 机器学习应用：技术分析
     </td>
     <td class="tg-v16d">
+    <a href="/assets/courses/quant_2025/lec10/ML.pdf" target="_blank" rel="noopener noreferrer">ML.pdf</a> <br>
+    <a href="/assets/courses/quant_2025/lec10/approx_Sin.ipynb" target="_blank" rel="noopener noreferrer">approx_Sin.ipynb</a> <br>
+    <a href="/assets/courses/quant_2025/lec10/8-ta_ML.zip" target="_blank" rel="noopener noreferrer">8-ta_ML.zip</a> 
     </td>
     <td class="tg-v16d">
     </td>
@@ -326,29 +329,17 @@ The following references are useful:
     <td class="tg-65iu"> </td>
   </tr>
   <tr>
-    <td class="tg-v16d">12</td>
-    <td class="tg-v16d"> </td>
-    <td class="tg-v16d">
-    深度学习简介和应用
-    </td>
-    <td class="tg-v16d">
-    </td>
-    <td class="tg-v16d">
-    </td>
-    <td class="tg-v16d"> </td>
-  </tr>
-  <!-- <tr>
     <td class="tg-65iu">12</td>
-    <td class="tg-65iu"> </td>
+    <td class="tg-65iu"> 待定 </td>
     <td class="tg-65iu">
-    课程总结/讲座 Summary/Guest lecture
+    课程总结/讲座 
     </td>
     <td class="tg-65iu">
     </td>
     <td class="tg-65iu">
     </td>
     <td class="tg-65iu"> </td>
-  </tr> -->
+  </tr>
 </tbody>
 </table>
 
