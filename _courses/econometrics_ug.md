@@ -268,6 +268,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     </td>
     <td class="tg-v16d">
     <a href="/assets/courses/econometrics_ug/Ch7.pdf" target="_blank" rel="noopener noreferrer">Ch7.pdf </a> <br>
+    <a href="/assets/courses/econometrics_ug/Ch7_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch7_课件笔记.pdf </a> <br>
     <a href="/assets/courses/quant_2025/lec8/bootstrap.zip" target="_blank" rel="noopener noreferrer">bootstrap.zip</a> <br>
     <a href="https://nankai.feishu.cn/minutes/obcn2o2g1ux1a7jyweac8p64?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-9]</a> 
     </td>
@@ -279,11 +280,13 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
   </tr>
   <tr>
     <td class="tg-65iu">10</td>
-    <td class="tg-65iu"> </td>
+    <td class="tg-65iu">4月30日</td>
     <td class="tg-65iu">
     异方差、自相关问题
     </td>
     <td class="tg-65iu">
+    <a href="/assets/courses/econometrics_ug/Ch8.pdf" target="_blank" rel="noopener noreferrer">Ch8.pdf </a> <br>
+    <a href="/assets/courses/econometrics_ug/Ch8_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch8_课件笔记.pdf </a>
     </td>
     <td class="tg-65iu">
     </td>
