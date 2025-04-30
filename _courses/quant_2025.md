@@ -311,7 +311,8 @@ The following references are useful:
     <a href="/assets/courses/quant_2025/lec10/ML.pdf" target="_blank" rel="noopener noreferrer">ML.pdf</a> <br>
     <a href="/assets/courses/quant_2025/lec10/entropy.pdf" target="_blank" rel="noopener noreferrer">entropy.pdf</a> <br>
     <a href="/assets/courses/quant_2025/lec10/approx_Sin.ipynb" target="_blank" rel="noopener noreferrer">approx_Sin.ipynb</a> <br>
-    <a href="/assets/courses/quant_2025/lec10/8-ta_ML.zip" target="_blank" rel="noopener noreferrer">8-ta_ML.zip</a> 
+    <a href="/assets/courses/quant_2025/lec10/8-ta_ML.zip" target="_blank" rel="noopener noreferrer">8-ta_ML.zip</a> <br>
+    <a href="https://nankai.feishu.cn/minutes/obcn6781u221996628ao3ehh?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-10]</a>
     </td>
     <td class="tg-v16d">
     </td>

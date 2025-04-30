@@ -286,7 +286,8 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     </td>
     <td class="tg-65iu">
     <a href="/assets/courses/econometrics_ug/Ch8.pdf" target="_blank" rel="noopener noreferrer">Ch8.pdf </a> <br>
-    <a href="/assets/courses/econometrics_ug/Ch8_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch8_课件笔记.pdf </a>
+    <a href="/assets/courses/econometrics_ug/Ch8_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch8_课件笔记.pdf </a> <br>
+    <a href="https://nankai.feishu.cn/minutes/obcn7h668j4dz46nsavy82a9?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-10]</a>
     </td>
     <td class="tg-65iu">
     </td>
