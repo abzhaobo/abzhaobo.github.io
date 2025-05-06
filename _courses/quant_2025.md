@@ -304,14 +304,11 @@ The following references are useful:
     <td class="tg-v16d">10</td>
     <td class="tg-v16d">4月29、30日</td>
     <td class="tg-v16d">
-    1. 实践导向的机器学习入门 <br>
-    2. 机器学习应用：技术分析
+    实践导向的机器学习入门 <br>
     </td>
     <td class="tg-v16d">
     <a href="/assets/courses/quant_2025/lec10/ML.pdf" target="_blank" rel="noopener noreferrer">ML.pdf</a> <br>
     <a href="/assets/courses/quant_2025/lec10/entropy.pdf" target="_blank" rel="noopener noreferrer">entropy.pdf</a> <br>
-    <a href="/assets/courses/quant_2025/lec10/approx_Sin.ipynb" target="_blank" rel="noopener noreferrer">approx_Sin.ipynb</a> <br>
-    <a href="/assets/courses/quant_2025/lec10/8-ta_ML.zip" target="_blank" rel="noopener noreferrer">8-ta_ML.zip</a> <br>
     <a href="https://nankai.feishu.cn/minutes/obcn6781u221996628ao3ehh?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-10]</a>
     </td>
     <td class="tg-v16d">
@@ -320,21 +317,27 @@ The following references are useful:
   </tr>
   <tr>
     <td class="tg-65iu">11</td>
-    <td class="tg-65iu"> </td>
+    <td class="tg-65iu">5月6、7日</td>
     <td class="tg-65iu">
-    机器学习应用：因子模型
+    机器学习应用
     </td>
     <td class="tg-65iu">
+    <a href="/assets/courses/quant_2025/lec10/ML.pdf" target="_blank" rel="noopener noreferrer">ML.pdf</a> <br>
+    <a href="/assets/courses/quant_2025/lec11/approx_NN.ipynb" target="_blank" rel="noopener noreferrer">approx_NN.ipynb</a> <br>
+    <a href="/assets/courses/quant_2025/lec11/8-ML.zip" target="_blank" rel="noopener noreferrer">8-ML.zip</a> <br>
+    <a href="/assets/courses/quant_2024/lec11/吴 et al-机器学习视角下中国股票资产收益率可预测性研究.pdf" target="_blank" rel="noopener noreferrer">吴 et al-机器学习视角下中国股票资产收益率可预测性研究.pdf</a> <br>
     </td>
     <td class="tg-65iu">
+    <a href="https://academic.oup.com/rfs/article/33/5/2223/5758276?login=false" target="_blank" rel="noopener noreferrer">Gu et al. (2020) </a> <br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0304405X21003743" target="_blank" rel="noopener noreferrer">Leippold (2021) </a>
     </td>
     <td class="tg-65iu"> </td>
   </tr>
   <tr>
     <td class="tg-65iu">12</td>
-    <td class="tg-65iu"> 待定 </td>
+    <td class="tg-65iu"> 暂定：5月29日 </td>
     <td class="tg-65iu">
-    课程总结/讲座 
+    讲座
     </td>
     <td class="tg-65iu">
     </td>
