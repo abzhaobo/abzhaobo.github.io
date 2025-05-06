@@ -15,6 +15,7 @@ category: 2025
 - [2. 课程内容 Contents](#2-课程内容-contents)
 
 # ❗️通知 Announcement❗️
+- **2025.05.07: [期末考题](/assets/courses/quant_2025/exam.pdf)已布置，请于2025年6月30日前提交至 zhaobo@nankai.edu.cn 。**
 - **2025.04.09: 第二次[作业](/assets/courses/quant_2025/exercises/ex2.pdf)已布置，请于2025年4月23日前提交至 zhaobo@nankai.edu.cn 。**
 - **2025.03.05: 第一次[作业](/assets/courses/quant_2025/exercises/ex1.pdf)已布置，请于2025年3月19日前提交至 zhaobo@nankai.edu.cn 。**
 - 请分组，组长需提供姓名、手机号、邮箱，以便开通优矿平台账号
@@ -331,7 +332,10 @@ The following references are useful:
     <a href="https://academic.oup.com/rfs/article/33/5/2223/5758276?login=false" target="_blank" rel="noopener noreferrer">Gu et al. (2020) </a> <br>
     <a href="https://www.sciencedirect.com/science/article/pii/S0304405X21003743" target="_blank" rel="noopener noreferrer">Leippold (2021) </a>
     </td>
-    <td class="tg-65iu"> </td>
+    <td class="tg-65iu"> 
+    <a href="/assets/courses/quant_2025/exam.pdf" target="_blank" rel="noopener noreferrer">exam.pdf</a> <br>
+    请于2025.06.30日前提交
+    </td>
   </tr>
   <tr>
     <td class="tg-65iu">12</td>
