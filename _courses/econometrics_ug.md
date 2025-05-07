@@ -10,7 +10,7 @@ category: 2025
 # ❗️通知❗️
 
 ❗️❗️❗️：中文版公用课件有一些错误。自学请务必以上课时讲解为准。
-
+- **2025年5月7日：[作业3](/assets/courses/econometrics_ug/ex3.pdf) 已布置。请于2025年5月22日前提交至助教谢佳桐邮箱：2210968@mail.nankai.edu.cn**
 - **2025年4月9日：[作业2](/assets/courses/econometrics_ug/ex2.pdf) 已布置。请于2025年4月24日前提交至助教谢佳桐邮箱：2210968@mail.nankai.edu.cn**
 - **2025年3月5日：[作业1](/assets/courses/econometrics_ug/ex1.pdf) 已布置。请于2025年3月20日前提交至助教谢佳桐邮箱：2210968@mail.nankai.edu.cn**
 
@@ -274,7 +274,8 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     </td>
     <td class="tg-v16d">
     课本第7章 <br>
-    课本第6章附录
+    课本第6章附录 <br>
+    <a href="https://link.springer.com/chapter/10.1007/978-1-4612-4380-9_41" target="_blank" rel="noopener noreferrer">Efron (1979), Bootstrap</a> 
     </td>
     <td class="tg-v16d"> </td>
   </tr>
@@ -290,22 +291,32 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <a href="https://nankai.feishu.cn/minutes/obcn7h668j4dz46nsavy82a9?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-10]</a>
     </td>
     <td class="tg-65iu">
+    课本第8章 <br>
+    <a href="https://www.jstor.org/stable/1912934" target="_blank" rel="noopener noreferrer">White (1980)</a>
     </td>
     <td class="tg-65iu"> </td>
   </tr>
   <tr>
     <td class="tg-v16d">11</td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-v16d">5月7日</td>
     <td class="tg-v16d">
     自相关，工具变量法
     </td>
     <td class="tg-v16d">
     <a href="/assets/courses/econometrics_ug/Newey_West.pdf" target="_blank" rel="noopener noreferrer">Newey_West.pdf </a> <br>
-    <a href="/assets/courses/econometrics_ug/Ch15 copy.pdf" target="_blank" rel="noopener noreferrer">Ch15.pdf </a> 
+    <a href="/assets/courses/econometrics_ug/Ch15.pdf" target="_blank" rel="noopener noreferrer">Ch15.pdf </a> <br>
+    <a href="/assets/courses/econometrics_ug/Ch15_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch15_课件笔记.pdf </a> <br>
+    <a href="https://nankai.feishu.cn/minutes/obcnca9udn6v6by4ei71ty23?from=from_copylink" rel="noopener noreferrer"> [Video-11] </a> 
     </td>
     <td class="tg-v16d">
+    课本第15章 <br>
+    <a href="https://www.jstor.org/stable/1913610" rel="noopener noreferrer"> Newey and West (1987) </a> 
     </td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-v16d"> 
+    <a href="/assets/courses/econometrics_ug/ex3.pdf" target="_blank" rel="noopener noreferrer">ex3.pdf </a> <br>
+    提交截止时间：2025年5月22日 <br>
+      助教谢佳桐邮箱：2210968@mail.nankai.edu.cn
+    </td>
   </tr>
   <tr>
     <td class="tg-65iu">12</td>
