@@ -282,7 +282,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-65iu">10</td>
     <td class="tg-65iu">4月30日</td>
     <td class="tg-65iu">
-    异方差、自相关问题
+    异方差
     </td>
     <td class="tg-65iu">
     <a href="/assets/courses/econometrics_ug/Ch8.pdf" target="_blank" rel="noopener noreferrer">Ch8.pdf </a> <br>
@@ -297,9 +297,11 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-v16d">11</td>
     <td class="tg-v16d"> </td>
     <td class="tg-v16d">
-    异方差、自相关问题
+    自相关，工具变量法
     </td>
     <td class="tg-v16d">
+    <a href="/assets/courses/econometrics_ug/Newey_West.pdf" target="_blank" rel="noopener noreferrer">Newey_West.pdf </a> <br>
+    <a href="/assets/courses/econometrics_ug/Ch15 copy.pdf" target="_blank" rel="noopener noreferrer">Ch15.pdf </a> 
     </td>
     <td class="tg-v16d">
     </td>

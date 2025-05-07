@@ -327,6 +327,7 @@ The following references are useful:
     <a href="/assets/courses/quant_2025/lec11/approx_NN.ipynb" target="_blank" rel="noopener noreferrer">approx_NN.ipynb</a> <br>
     <a href="/assets/courses/quant_2025/lec11/8-ML.zip" target="_blank" rel="noopener noreferrer">8-ML.zip</a> <br>
     <a href="/assets/courses/quant_2024/lec11/吴 et al-机器学习视角下中国股票资产收益率可预测性研究.pdf" target="_blank" rel="noopener noreferrer">吴 et al-机器学习视角下中国股票资产收益率可预测性研究.pdf</a> <br>
+    <a href="https://nankai.feishu.cn/minutes/obcnbzrbvhl42oc93iqp6224?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-11]</a> 
     </td>
     <td class="tg-65iu">
     <a href="https://academic.oup.com/rfs/article/33/5/2223/5758276?login=false" target="_blank" rel="noopener noreferrer">Gu et al. (2020) </a> <br>
