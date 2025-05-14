@@ -300,7 +300,7 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-v16d">11</td>
     <td class="tg-v16d">5月7日</td>
     <td class="tg-v16d">
-    自相关，工具变量法
+    自相关，工具变量法（来源）
     </td>
     <td class="tg-v16d">
     <a href="/assets/courses/econometrics_ug/Newey_West.pdf" target="_blank" rel="noopener noreferrer">Newey_West.pdf </a> <br>
@@ -320,11 +320,14 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
   </tr>
   <tr>
     <td class="tg-65iu">12</td>
-    <td class="tg-65iu"> </td>
+    <td class="tg-65iu">5月14日</td>
     <td class="tg-65iu">
-    工具变量法
+    工具变量法（性质）
     </td>
     <td class="tg-65iu">
+    <a href="/assets/courses/econometrics_ug/Ch15.pdf" target="_blank" rel="noopener noreferrer">Ch15.pdf </a> <br>
+    <a href="/assets/courses/econometrics_ug/Ch15_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch15_课件笔记.pdf </a> <br>
+    <a href="https://nankai.feishu.cn/minutes/obcng4347ulz9u9e26vs53hj?from=from_copylink" rel="noopener noreferrer"> [Video-12] (第一段缺失) </a> 
     </td>
     <td class="tg-65iu">
     </td>
