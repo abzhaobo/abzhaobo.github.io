@@ -335,13 +335,16 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
   </tr>
   <tr>
     <td class="tg-v16d">13</td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-v16d">5月21日</td>
     <td class="tg-v16d">
-    工具变量法
+    工具变量法（检验、应用）
     </td>
     <td class="tg-v16d">
+    <a href="/assets/courses/econometrics_ug/Ch15.pdf" target="_blank" rel="noopener noreferrer">Ch15.pdf </a> <br>
+    <a href="/assets/courses/econometrics_ug/Ch15_课件笔记.pdf" target="_blank" rel="noopener noreferrer">Ch15_课件笔记.pdf </a> <br>
     </td>
     <td class="tg-v16d">
+    <a href="https://www.aeaweb.org/articles?id=10.1257%2Faer.91.5.1369&ref=marionomics-economia-y-ciencia-de-datos" rel="noopener noreferrer"> Acemoglu, Johnson, Robinson (2001) </a> 
     </td>
     <td class="tg-v16d"> </td>
   </tr>
