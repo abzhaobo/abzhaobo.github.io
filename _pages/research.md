@@ -9,6 +9,8 @@ nav_order: 1
 
 <!-- _pages/publications.md -->
 
+Topics that always interest me: political (institutional) economics; methodological issues (science of science); machine learning and deep learning; asset pricing. 
+
 ---
 <h2>Publications</h2>
 

@@ -10,6 +10,7 @@ category: 2025
 # ❗️通知❗️
 
 ❗️❗️❗️：中文版公用课件有一些错误。自学请务必以上课时讲解为准。
+- 🎉🎉讲座：《逆向思维在投资和就业上的应用》。嘉宾：翟效华，曾任东方财富证券副总经理，资产管理部总监。**时间：5月29日下午3点**。地点：金融学院。
 - **2025年5月7日：[作业3](/assets/courses/econometrics_ug/ex3.pdf) 已布置。请于2025年5月22日前提交至助教谢佳桐邮箱：2210968@mail.nankai.edu.cn**
 - **2025年4月9日：[作业2](/assets/courses/econometrics_ug/ex2.pdf) 已布置。请于2025年4月24日前提交至助教谢佳桐邮箱：2210968@mail.nankai.edu.cn**
 - **2025年3月5日：[作业1](/assets/courses/econometrics_ug/ex1.pdf) 已布置。请于2025年3月20日前提交至助教谢佳桐邮箱：2210968@mail.nankai.edu.cn**
