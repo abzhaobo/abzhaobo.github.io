@@ -10,7 +10,8 @@ category: 2025
 # ❗️通知❗️
 
 ❗️❗️❗️：中文版公用课件有一些错误。自学请务必以上课时讲解为准。
-- 🎉🎉讲座：《逆向思维在投资和就业上的应用》。嘉宾：翟效华，曾任东方财富证券副总经理，资产管理部总监。**时间：5月29日下午3点**。地点：金融学院。
+- 🎉🎉讲座：《逆向思维在投资和就业上的应用》。嘉宾：翟效华，曾任东方财富证券副总经理，资产管理部总监。**时间：5月29日下午3点**。地点：金融学院203。
+- **2025年5月28日：[作业4](/assets/courses/econometrics_ug/ex4.pdf) 已布置。请于2025年6月11日前提交至助教谢佳桐邮箱：2210968@mail.nankai.edu.cn**
 - **2025年5月7日：[作业3](/assets/courses/econometrics_ug/ex3.pdf) 已布置。请于2025年5月22日前提交至助教谢佳桐邮箱：2210968@mail.nankai.edu.cn**
 - **2025年4月9日：[作业2](/assets/courses/econometrics_ug/ex2.pdf) 已布置。请于2025年4月24日前提交至助教谢佳桐邮箱：2210968@mail.nankai.edu.cn**
 - **2025年3月5日：[作业1](/assets/courses/econometrics_ug/ex1.pdf) 已布置。请于2025年3月20日前提交至助教谢佳桐邮箱：2210968@mail.nankai.edu.cn**
@@ -347,21 +348,27 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <a href="https://nankai.feishu.cn/minutes/obcnlv529744529kshg4lud7?from=from_copylink" rel="noopener noreferrer"> [Video-13] </a> 
     </td>
     <td class="tg-v16d">
-    <a href="https://www.aeaweb.org/articles?id=10.1257%2Faer.91.5.1369&ref=marionomics-economia-y-ciencia-de-datos" rel="noopener noreferrer"> Acemoglu, Johnson, Robinson (2001) </a> 
     </td>
     <td class="tg-v16d"> </td>
   </tr>
   <tr>
     <td class="tg-65iu">14</td>
-    <td class="tg-65iu"> </td>
+    <td class="tg-65iu">5月28日</td>
     <td class="tg-65iu">
-    工具变量法
+    工具变量法、GMM
     </td>
     <td class="tg-65iu">
+    <a href="/assets/courses/econometrics_ug/GMM.pdf" target="_blank" rel="noopener noreferrer">GMM.pdf </a> <br>
+    <a href="/assets/courses/econometrics_ug/GMM_课件笔记.pdf" target="_blank" rel="noopener noreferrer">GMM_课件笔记.pdf </a> 
     </td>
     <td class="tg-65iu">
+    <a href="https://www.aeaweb.org/articles?id=10.1257%2Faer.91.5.1369&ref=marionomics-economia-y-ciencia-de-datos" rel="noopener noreferrer"> Acemoglu, Johnson, Robinson (2001) </a> 
     </td>
-    <td class="tg-65iu"> </td>
+    <td class="tg-65iu"> 
+    <a href="/assets/courses/econometrics_ug/ex4.pdf" target="_blank" rel="noopener noreferrer">ex4.pdf </a> <br>
+    提交截止时间：2025年6月11日 <br>
+      助教谢佳桐邮箱：2210968@mail.nankai.edu.cn
+    </td>
   </tr>
   <tr>
     <td class="tg-v16d">15</td>
