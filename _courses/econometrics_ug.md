@@ -359,7 +359,8 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     </td>
     <td class="tg-65iu">
     <a href="/assets/courses/econometrics_ug/GMM.pdf" target="_blank" rel="noopener noreferrer">GMM.pdf </a> <br>
-    <a href="/assets/courses/econometrics_ug/GMM_课件笔记.pdf" target="_blank" rel="noopener noreferrer">GMM_课件笔记.pdf </a> 
+    <a href="/assets/courses/econometrics_ug/GMM_课件笔记.pdf" target="_blank" rel="noopener noreferrer">GMM_课件笔记.pdf </a> <br>
+    <a href="https://nankai.feishu.cn/minutes/obcnqs2vz5suq5s4y94oyi5i?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-14]</a>
     </td>
     <td class="tg-65iu">
     <a href="https://www.aeaweb.org/articles?id=10.1257%2Faer.91.5.1369&ref=marionomics-economia-y-ciencia-de-datos" rel="noopener noreferrer"> Acemoglu, Johnson, Robinson (2001) </a> 
