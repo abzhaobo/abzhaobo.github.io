@@ -380,7 +380,8 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
     <td class="tg-v16d">
     <a href="/assets/courses/econometrics_ug/Rubin's causal model.pdf" target="_blank" rel="noopener noreferrer">Rubin.pdf </a> <br>
     <a href="/assets/courses/econometrics_ug/第24章-联立方程模型 pages 1 - 14.pdf" target="_blank" rel="noopener noreferrer">联立方程.pdf </a> <br>
-    <a href="/assets/courses/econometrics_ug/方法论回顾.pdf" target="_blank" rel="noopener noreferrer">计量经济学方法论回顾.pdf </a> 
+    <a href="/assets/courses/econometrics_ug/方法论回顾.pdf" target="_blank" rel="noopener noreferrer">计量经济学方法论回顾.pdf </a> <br>
+    <a href="https://nankai.feishu.cn/minutes/obcnvh1g5sgximw14c21m2dr?from=from_copylink" target="_blank" rel="noopener noreferrer">[Video-15]</a>
     </td>
     <td class="tg-v16d">
     </td>
