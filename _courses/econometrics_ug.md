@@ -373,11 +373,14 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
   </tr>
   <tr>
     <td class="tg-v16d">15</td>
-    <td class="tg-v16d"> </td>
+    <td class="tg-v16d">6月4日</td>
     <td class="tg-v16d">
-
+    Rubin因果模型；联立方程简介；方法论回顾
     </td>
     <td class="tg-v16d">
+    <a href="/assets/courses/econometrics_ug/Rubin's causal model.pdf" target="_blank" rel="noopener noreferrer">Rubin.pdf </a> <br>
+    <a href="/assets/courses/econometrics_ug/第24章-联立方程模型 pages 1 - 14.pdf" target="_blank" rel="noopener noreferrer">联立方程.pdf </a> <br>
+    <a href="/assets/courses/econometrics_ug/方法论回顾.pdf" target="_blank" rel="noopener noreferrer">计量经济学方法论回顾.pdf </a> 
     </td>
     <td class="tg-v16d">
     </td>
@@ -385,9 +388,9 @@ Introductory econometrics: A modern approach (6th ed.). Cengage Learning.
   </tr>
   <tr>
     <td class="tg-65iu">16</td>
-    <td class="tg-65iu"> </td>
+    <td class="tg-65iu">6月11日</td>
     <td class="tg-65iu">
-    
+    课程回顾、习题解答
     </td>
     <td class="tg-65iu">
     </td>
