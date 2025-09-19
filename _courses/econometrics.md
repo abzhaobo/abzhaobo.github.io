@@ -5,6 +5,7 @@ description: Methods in identifying (causal) relationships in social science
 img: assets/img/econometrics.jpeg
 importance: 4
 category: Earlier
+giscus_comments: false
 ---
 - [❗️Announcement❗️](#️announcement️)
 - [Syllabus](#syllabus)

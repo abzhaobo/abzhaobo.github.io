@@ -5,6 +5,7 @@ description:
 img: assets/img/econometrics_ug.png
 importance: 1
 category: 2025
+giscus_comments: true
 ---
 
 # ❗️通知❗️

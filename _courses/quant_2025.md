@@ -5,6 +5,7 @@ description: Factor models, empirical tests of technical analysis indicators, ap
 img: assets/img/quant2025.png
 importance: 2
 category: 2025
+giscus_comments: true
 ---
 
 - [❗️通知 Announcement❗️](#️通知-announcement️)

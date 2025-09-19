@@ -5,6 +5,7 @@ description:
 img: 
 importance: 1
 category: Under development
+giscus_comments: true
 ---
 
 # 1. 课程介绍
