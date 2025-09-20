@@ -9,6 +9,8 @@ display_categories: [Under development, 2025, Earlier]
 horizontal: false
 ---
 
+You're very welcome to leave comments or questions at the bottom of each course page. Your feedback not only helps me improve the course, but also gives me the motivation to keep going. Knowing that these courses matter to you means more to me than words can express.
+
 <!-- pages/courses.md -->
 <div class="courses">
 {% if site.enable_course_categories and page.display_categories %}
