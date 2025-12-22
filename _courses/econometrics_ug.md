@@ -4,7 +4,7 @@ title: 计量经济学 I (2025)
 description: 
 img: assets/img/econometrics_ug.png
 importance: 1
-category: 2025
+category: Earlier
 giscus_comments: true
 ---
 

@@ -5,7 +5,7 @@ permalink: /courses/
 description:
 nav: true
 nav_order: 2
-display_categories: [Under development, 2025, Earlier]
+display_categories: [2026, Earlier]
 horizontal: false
 ---
 
