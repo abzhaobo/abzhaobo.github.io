@@ -9,7 +9,9 @@ display_categories: [2026, Earlier]
 horizontal: false
 ---
 
-The comment system went live in September 2025 (a bit late). You're very welcome to leave comments or questions at the bottom of each course page. Your feedback not only helps me improve the course, but also gives me the motivation to keep going. Knowing that these courses matter to you means more to me than words can express.
+<script src="https://unpkg.com/@lyket/widget@latest/dist/lyket.js?apiKey=pt_54ecdd669c2e2012baf37c34c2a22e"></script>
+
+Questions, corrections, or suggestions? Feel free to leave a comment on the course pages. Your feedback is essential for refining these course materials.
 
 <!-- pages/courses.md -->
 <div class="courses">

@@ -1,34 +1,72 @@
 <div class="col mb-4">
-  <a href="{% if course.redirect %}{{ course.redirect }}{% else %}{{ course.url | relative_url }}{% endif %}">
-    <div class="card h-100 hoverable">
-      <div class="row no-gutters">
-        {% if course.img %}
-          <div class="col-md-6">
-            {% include figure.liquid loading="eager" path=course.img sizes="(min-width: 768px) 156px, 50vw" alt="course thumbnail" class="card-img" %}
-          </div>
-        {% endif %}
-        <div class="{% if course.img %}col-md-6{% else %}col-md-12{% endif %}">
-          <div class="card-body">
-            <h3 class="card-title">{{ course.title }}</h3>
-            <p class="card-text">{{ course.description }}</p>
-            <div class="row ml-1 mr-1 p-0">
+  <div class="card h-100 hoverable">
+    
+    {% if course.redirect %}
+      {% assign course_url = course.redirect %}
+    {% else %}
+      {% assign course_url = course.url | relative_url %}
+    {% endif %}
+
+    <div class="row no-gutters">
+      
+      {% if course.img %}
+        <div class="col-md-6">
+          <a href="{{ course_url }}">
+            {% include figure.liquid 
+               loading="eager" 
+               path=course.img 
+               sizes="(min-width: 768px) 156px, 50vw" 
+               alt="course thumbnail" 
+               class="card-img" 
+            %}
+          </a>
+        </div>
+      {% endif %}
+
+      <div class="{% if course.img %}col-md-6{% else %}col-md-12{% endif %}">
+        
+        <div class="card-body d-flex flex-column" style="padding-bottom: 0 !important;">
+          
+          <h3 class="card-title">
+            <a href="{{ course_url }}" class="stretched-link text-decoration-none" style="color: inherit;">
+              {{ course.title }}
+            </a>
+          </h3>
+          
+          <p class="card-text mb-3">{{ course.description }}</p>
+
+          <div class="d-flex justify-content-between align-items-end mt-auto pb-1" style="position: relative; z-index: 2; min-height: 24px;">
+            
+            <div class="github-icon" style="line-height: 1;">
               {% if course.github %}
-                <div class="github-icon">
-                  <div class="icon" data-toggle="tooltip" title="Code Repository">
-                    <a href="{{ course.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
-                  </div>
-                  {% if course.github_stars %}
-                    <span class="stars" data-toggle="tooltip" title="GitHub Stars">
-                      <i class="fa-solid fa-star"></i>
-                      <span id="{{ course.github_stars }}-stars"></span>
-                    </span>
-                  {% endif %}
+                <div class="icon" data-toggle="tooltip" title="Code Repository" style="display: inline-block;">
+                  <a href="{{ course.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
                 </div>
+                {% if course.github_stars %}
+                  <span class="stars" data-toggle="tooltip" title="GitHub Stars" style="display: inline-block;">
+                    <i class="fa-solid fa-star"></i>
+                    <span id="{{ course.github_stars }}-stars"></span>
+                  </span>
+                {% endif %}
+              {% else %}
+                &nbsp;
               {% endif %}
             </div>
-          </div>
-        </div>
+
+            {% assign safe_id = course.url | relative_url | replace: '/', '-' | remove_first: '-' | remove_last: '-' %}
+            
+            <div class="lyket-wrapper" style="transform: scale(0.85); transform-origin: right bottom; margin-bottom: -2px;">
+              <div 
+                data-lyket-type="updown" 
+                data-lyket-id="course-{{ safe_id }}" 
+                data-lyket-namespace="courses"
+                data-lyket-template="simple"
+              >
+              </div>
+            </div>
+
+          </div> </div>
       </div>
     </div>
-  </a>
+  </div>
 </div>
