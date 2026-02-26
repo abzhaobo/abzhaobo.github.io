@@ -24,3 +24,104 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss",
   "course-table"
 ;
+
+/* ==========================================================================
+   TOC 全局自定义样式 (强制展开子层级 & 层级字体排版)
+   ========================================================================== */
+
+/* 1. 一级目录 (h2) 样式：字体变大、加粗 */
+#toc-sidebar > .nav > li > a.nav-link {
+    font-size: 1.0rem !important;    /* 一级字号调大 */
+    font-weight: 700 !important;     /* 字体加粗 */
+    color: var(--global-text-color) !important;
+    margin-top: 0.2rem !important;
+    margin-bottom: 0.2rem !important;
+}
+
+/* 一级目录高亮状态 */
+#toc-sidebar > .nav > li > a.nav-link.active {
+    color: var(--global-theme-color) !important;
+}
+
+/* 2. 强制展开侧边栏子目录 */
+#toc-sidebar .nav .nav {
+    display: block !important;
+}
+
+/* 3. 二级目录 (h3) 样式：字体变小、缩进、颜色变浅 */
+#toc-sidebar .nav .nav .nav-link {
+    padding-left: 1.5rem !important; /* 子菜单缩进 */
+    font-size: 0.85rem !important;   /* 二级字号较小，形成对比 */
+    font-weight: 400 !important;     /* 字体变细 */
+    color: var(--global-text-color-light) !important; /* 适配黑夜模式的浅灰色 */
+    margin-top: 0.1rem !important;
+    margin-bottom: 0.1rem !important;
+}
+
+/* 二级目录高亮状态 */
+#toc-sidebar .nav .nav .nav-link.active {
+    color: var(--global-theme-color) !important;
+    font-weight: 600 !important;
+}
+
+/* ==========================================================================
+   自动生成章节序号 (仅在开启了 numbering: true 的页面生效)
+   ========================================================================== */
+
+/* 1. 正文 (Article) 自动编号 */
+article.numbered-content {
+    counter-reset: h2-counter;
+}
+article.numbered-content h2 {
+    counter-reset: h3-counter;
+}
+article.numbered-content h2::before {
+    counter-increment: h2-counter;
+    content: counter(h2-counter) ". ";
+}
+article.numbered-content h3::before {
+    counter-increment: h3-counter;
+    content: counter(h2-counter) "." counter(h3-counter) " ";
+}
+
+/* 2. 侧边栏 TOC 自动编号 */
+#toc-sidebar.numbered-toc > ul.nav {
+    counter-reset: toc-h2-counter;
+}
+#toc-sidebar.numbered-toc > ul.nav > li {
+    counter-reset: toc-h3-counter;
+}
+#toc-sidebar.numbered-toc > ul.nav > li > a.nav-link::before {
+    counter-increment: toc-h2-counter;
+    content: counter(toc-h2-counter) ". ";
+}
+#toc-sidebar.numbered-toc ul.nav ul.nav > li > a.nav-link::before {
+    counter-increment: toc-h3-counter;
+    content: counter(toc-h2-counter) "." counter(toc-h3-counter) " ";
+}
+
+/* ==========================================================================
+   侧边栏宽屏模式 (防止 TOC 挤压正文)
+   ========================================================================== */
+@media (min-width: 992px) {
+    /* 仅在大屏幕下生效，手机端依然保持默认流式布局 */
+    .container-wide {
+        max-width: 1150px !important; 
+    }
+}
+
+
+/* ==========================================================================
+   终极解决 TOC 高亮滞后：物理垫片法 (Anchor Padding Hack)
+   ========================================================================== */
+article {
+    padding-bottom: 30vh !important; 
+}
+
+/* 物理垫片法：解决 TOC 判定线偏移和导航栏遮挡 */
+article h2, article h3, article h4 {
+    scroll-margin-top: 0 !important;
+    padding-top: 120px !important;
+    margin-top: calc(1.5rem - 120px) !important;
+    background-clip: padding-box;
+}
