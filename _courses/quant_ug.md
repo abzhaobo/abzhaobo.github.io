@@ -9,6 +9,7 @@ giscus_comments: true
 numbering: true
 toc: 
   sidebar: left
+no_number: ["通知"]
 ---
 
 ## ❗️通知 Announcement❗️

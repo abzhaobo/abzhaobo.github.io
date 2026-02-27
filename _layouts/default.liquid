@@ -13,6 +13,20 @@
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
+    {% if page.no_number %}
+    <style>
+      {% for title in page.no_number %}
+      /* 抹掉正文标题的编号 */
+      article.numbered-content h2[id*="{{ title }}"]::before,
+      article.numbered-content h3[id*="{{ title }}"]::before,
+      /* 抹掉左侧 TOC 的编号 */
+      #toc-sidebar.numbered-toc a.nav-link[href*="{{ title }}"]::before {
+          content: none !important;
+          counter-increment: none !important;
+      }
+      {% endfor %}
+    </style>
+    {% endif %}
   </head>
 
   <!-- Body -->
