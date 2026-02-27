@@ -1,30 +1,26 @@
 ---
 layout: page
-title: 量化投资/金融数据分析 (硕士，2026)
+title: 量化投资/金融数据分析 (硕士、博士，2026)
 description: 因子模型；技术分析的统计检验；机器学习
 img: assets/img/quant2025.png
 importance: 2
 category: 2026
 giscus_comments: true
+numbering: true
+toc:
+  sidebar: left
 ---
 
-- [❗️通知 Announcement❗️](#️通知-announcement️)
-- [1. 课程大纲 Syllabus](#1-课程大纲-syllabus)
-  - [1.1 知识储备 Prerequisites](#11-知识储备-prerequisites)
-  - [1.2 课本和参考书 Textbook and References](#12-课本和参考书-textbook-and-references)
-  - [1.3 评分方式 Grading](#13-评分方式-grading)
-- [2. 课程内容 Contents](#2-课程内容-contents)
-
-# ❗️通知 Announcement❗️
+## ❗️通知 Announcement❗️
 
 
 
-# 1. 课程大纲 Syllabus
+## 课程大纲 Syllabus
 
 <!-- &nbsp; -->
 
-<details markdown="1">
-  <summary> 详细内容 Details </summary>
+<!-- <details markdown="1">
+  <summary> 详细内容 Details </summary> -->
 
 这门课程在教学计划上有两个不同的名称：《量化投资》(学硕)，《金融数据分析和Python应用》(专硕)。主要讨论用数量方法探索金融数据以及构建交易策略。课程内容是应用导向的，但相关的理论也会有涉及。课程目标：掌握基本的工具以及用数据分析的思维方式。这门课主要包含以下内容：
 - Python 基础以及数据处理相关库(numpy, pandas, SKlearn, Pytorch等)
@@ -43,12 +39,12 @@ This is a course about constructing trading strategies by quantitative methods. 
 This course does not contain high-frequency (intraday) strategies, or strategies involving derivatives. Please refer to other courses provided by the school if these are what you need. Our main data is from A shares of China's stock markets.
 
 
-## 1.1 知识储备 Prerequisites
+### 知识储备 Prerequisites
 应当知道基本的计量经济学(我们会进行简短的复习)。无需具备编程知识，所有的编程相关的内容都会在课程中介绍，但如果有编程经验更好。面对大量的编程应当有心理准备。
 
 Students should know basic econometrics (I'll give short review lectures if necessary). Students must also be comfortable, or inclined to do lots of programming. No prior knowledge of programming is required, though it is surely a big plus if you have some experiences.
 
-## 1.2 课本和参考书 Textbook and References
+### 课本和参考书 Textbook and References
 暂无课本。课件和相关资料会上传到这个网页，请每次上课前进行下载。我们采用的平台是[优矿](https://uqer.datayes.com/)，请至相关网页下载客户端。优矿有免费版但分配的计算资源很少，学院会提供一些共享账号。参考书目见下方。
 
 There is no required textbook. Lecture notes will be uploaded here and please download the latest version before class. We'll be using [Uqer](https://uqer.datayes.com/), a quant platform, for retrieving data, programming and backtesting. Please download and install it on your laptop. The platform is not free, but we'll give you several shared accounts.
@@ -61,7 +57,7 @@ The following references are useful:
 - Grinold, Richard, and Ronald Kahn, 1999, *Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk*. 2 edition. (McGraw-Hill Education, New York).
 - Geron, Aurelien, 2021, *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow*. 3rd Edition (O'Reilly).
 
-## 1.3 评分方式 Grading
+### 评分方式 Grading
 - 3次作业 (70%)
 - 开放式项目 (30%)
 
@@ -72,11 +68,11 @@ The following references are useful:
 
 **PLAGIARISM IS STRICTLY PROHIBITED. You may immediately fail the course if copy-pasting other's work.** It will be normal to meet obstacles during the course, especially for students with less exposure to programming. I'll share all relevant codes and you'll surely complete the course successfully if you read and try the provided codes with some care. Please trust yourself and hang on.
 
-</details>
+<!-- </details> -->
 
 &nbsp;
 
-# 2. 课程内容 Contents
+## 课程内容 Contents
 
 <table class="course-table">
   <thead>

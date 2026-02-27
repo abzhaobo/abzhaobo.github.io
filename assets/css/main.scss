@@ -99,6 +99,29 @@ article.numbered-content h3::before {
     counter-increment: toc-h3-counter;
     content: counter(toc-h2-counter) "." counter(toc-h3-counter) " ";
 }
+/* ==========================================================================
+   取消特定标题的自动编号 (正文与 TOC 同步)
+   ========================================================================== */
+
+/* 1. 取消正文中的编号 (通过底层生成的 ID 模糊匹配，无视 Markdown 解析限制) */
+/* 【说明】：把你想免编号的标题的“关键词”填在 id*="" 里面即可。
+   比如 "通知" 就能匹配 "❗通知 Announcement ❗" */
+// article.numbered-content h2[id*="参考文献"]::before,
+// article.numbered-content h2[id*="课程介绍"]::before,
+// article.numbered-content h2[id*="致谢"]::before,
+article.numbered-content h2[id*="通知"]::before {
+    content: none !important;
+    counter-increment: none !important; 
+}
+
+/* 2. 取消左侧 TOC 中的编号 (通过链接锚点 href 模糊匹配) */
+// #toc-sidebar.numbered-toc a.nav-link[href*="参考文献"]::before,
+// #toc-sidebar.numbered-toc a.nav-link[href*="课程介绍"]::before,
+// #toc-sidebar.numbered-toc a.nav-link[href*="致谢"]::before,
+#toc-sidebar.numbered-toc a.nav-link[href*="通知"]::before {
+    content: none !important;
+    counter-increment: none !important;
+}
 
 /* ==========================================================================
    侧边栏宽屏模式 (防止 TOC 挤压正文)
