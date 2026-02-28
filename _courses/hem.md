@@ -123,6 +123,26 @@ no_number: ["通知"]
 
 我希望这门课能帮助我们构建一张更清晰的“方法地图”，为理解经济学的结构提供一种新的视角。
 
+## 知识储备
+
+无需特殊的知识储备，但微观经济学、宏观经济学、计量经济学、统计学、逻辑学的知识会有帮助。
+
+## 参考书目
+
+我们会一起阅读大量书的章节和文献。大部分参考文献会随着课程的进行逐步展开。经济思想史类的书对于本课程都是有帮助的，例如：
+- Landreth and Colander (2001), History of Economic Thought. 4th edition. South-Western College Pub.
+- Robbins (2000), A History of Economic Thought: The LSE Lectures. Princeton Univ. Press.
+- 汪丁丁 (2015), 经济学思想史进阶讲义. 上海人民出版社.
+- Schumpeter (1996), History of Economic Analysis: With a New Introduction. Revised edition. Oxford University Press.
+
+我喜欢的另外几本书：
+- Kennedy (2008), A Guide to Econometrics. 6 edition. Wiley-Blackwell.
+- 张五常 (2015), 经济解释. 中信出版社.
+- Alchian and Allen (1974), University Economics. Prentice-Hall International. 
+  - 现代版本：Alchian and Allen (2018), Universal Economics. Liberty Fund.
+- Horwitz (2020), Austrian Economics: An Introduction. Libertarianism.org Press.
+
+
 ## 考核方式
 - 平时成绩（课堂讨论，小测验）70%
   - 我们会有广泛的课堂讨论。**请确认愿意在课堂发言后再选课**。
