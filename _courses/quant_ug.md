@@ -13,6 +13,7 @@ no_number: ["通知"]
 ---
 
 ## ❗️通知 Announcement❗️
+- 2026.03.02: 课程问卷调查：https://v.wjx.cn/vm/YTorWSN.aspx
 
 ## 课程大纲 Syllabus
 
