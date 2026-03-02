@@ -170,13 +170,20 @@ no_number: ["通知"]
         2026.03.02
       </td>
       <td>
-        关于判断标准的讨论
+      1. 课程介绍 <br>
+      2. 关于判断标准的讨论
       </td>
       <td>
-        
+      <a href="/assets/courses/hem/lec1/1-Intro.pdf" target="_blank" rel="noopener noreferrer">1-Intro.pdf</a> <br>
+      <a href="/assets/courses/hem/lec1/1-introspection.pdf" target="_blank" rel="noopener noreferrer">1-introspection.pdf</a>
       </td>
       <td>
-        
+      <a href="https://paulromer.net/mathiness/Mathiness.pdf">
+      Mathiness in the Theory of Economic Growth
+      </a> <br>
+      <a href="https://paulromer.net/trouble-with-macroeconomics-update/WP-Trouble.pdf">
+      The Trouble With Macroeconomics
+      </a>
       </td>
       <td>
         
