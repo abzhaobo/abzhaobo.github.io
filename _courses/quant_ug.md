@@ -102,7 +102,8 @@ no_number: ["通知"]
     课程介绍
     </td>
     <td>
-    <a href="/assets/courses/quant_ug/lec1/Intro.pdf" target="_blank" rel="noopener noreferrer">Intro.pdf</a>
+    <a href="/assets/courses/quant_ug/lec1/Intro.pdf" target="_blank" rel="noopener noreferrer">Intro.pdf</a> <br>
+    <a href="/assets/courses/quant_ug/lec1/Python_intro.ipynb" target="_blank" rel="noopener noreferrer">Python_intro.ipynb</a> 
     </td>
     <td></td>
     <td></td>
