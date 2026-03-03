@@ -13,7 +13,7 @@ no_number: ["通知"]
 ---
 
 ## ❗️通知❗️
-
+- 3.3: 课程内容调查问卷：[https://v.wjx.cn/vm/h9eRD9e.aspx#](https://v.wjx.cn/vm/h9eRD9e.aspx#)
 
 ## 课程大纲
 
@@ -75,15 +75,154 @@ no_number: ["通知"]
   <tbody>
     <tr>
       <td>1</td>
-      <td> </td>
+      <td>3.3 </td>
       <td>
-        方法论简介<br>
-        Python 和相关库介绍
+        1. 课程介绍 <br>
+        2. Python 介绍
+      </td>
+      <td>
+      <a href="/assets/courses/quant_2026/lec1/Intro.pdf" target="_blank" rel="noopener noreferrer">Intro.pdf</a> <br>
+    <a href="/assets/courses/quant_2026/lec1/Python_intro.ipynb" target="_blank" rel="noopener noreferrer">Python_intro.ipynb</a> 
+      </td>
+      <td>
+      <a href="https://liaoxuefeng.com/books/python/introduction/index.html">廖雪峰《Python 教程》</a>
+      </td>
+      <td></td>
+    </tr>
+        <tr>
+      <td>2</td>
+      <td>3.10 </td>
+      <td>
+        1. Python 的金融数据分析简介 <br>
+        2. 量化回测平台介绍
       </td>
       <td>
       </td>
       <td>
-        廖雪峰《Python 教程》
+      </td>
+      <td></td>
+    </tr>
+        <tr>
+      <td>3</td>
+      <td> 3.17 </td>
+      <td>
+        1. 探索数据 <br>
+        2. 简单回测策略编写
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+        <tr>
+      <td>4</td>
+      <td> 3.24 </td>
+      <td>
+        因子模型和相关计量经济学概述
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+        <tr>
+      <td>5</td>
+      <td>3.31 </td>
+      <td>
+        因子模型实践：Beta 和 市值
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+        <tr>
+      <td>6</td>
+      <td>4.7 </td>
+      <td>
+        Fama-French 三因子
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+        <tr>
+      <td>7</td>
+      <td>4.14 </td>
+      <td>
+       1. 动量、反转、流动性、波动率因子 <br>
+       2. 量化平台回测
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+        <tr>
+      <td>8</td>
+      <td>4.21 </td>
+      <td>
+        1. 因子模型的应用 <br>
+        2. 技术分析介绍和相关的统计分析
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+        <tr>
+      <td>9</td>
+      <td>4.28 </td>
+      <td>
+        1. 技术分析的量化分析 <br>
+        2. 机器学习介绍
+      </td>
+      <td> 
+      </td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+        <tr>
+      <td>10</td>
+      <td>5.5 </td>
+      <td>
+        量化策略的机器学习应用
+      </td>
+      <td> 
+      </td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+        <tr>
+      <td>11</td>
+      <td>5.12 </td>
+      <td>
+        量化策略的机器学习应用
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+        <tr>
+      <td>12</td>
+      <td>待定  </td>
+      <td>
+        讲座
+      </td>
+      <td>
+      </td>
+      <td>
       </td>
       <td></td>
     </tr>
