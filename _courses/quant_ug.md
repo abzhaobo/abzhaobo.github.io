@@ -17,8 +17,8 @@ no_number: ["通知"]
 
 ## 课程大纲 Syllabus
 
-<!-- <details markdown="1">
-  <summary> 详细内容 </summary> -->
+<details markdown="1">
+  <summary> 详细内容 </summary>
 
 ### 课程简介
 
@@ -77,7 +77,7 @@ no_number: ["通知"]
 
 本课程鼓励使用AI进行编程，但**严禁抄袭、复制他人作业。** 一经发现，将按照学校相关规定严肃处理，可能会直接挂科。对编程经验较少的同学而言，学习过程中遇到困难是正常的；课程将提供示例代码和必要的指导，只要认真完成练习，即可顺利完成课程要求。
 
-<!-- </details> -->
+</details>
 
 &nbsp;
 
@@ -99,7 +99,8 @@ no_number: ["通知"]
     <td>1</td>
     <td>3月2日</td>
     <td>
-    课程介绍
+    1. 课程介绍 <br>
+    2. Python 介绍
     </td>
     <td>
     <a href="/assets/courses/quant_ug/lec1/Intro.pdf" target="_blank" rel="noopener noreferrer">Intro.pdf</a> <br>
@@ -112,9 +113,13 @@ no_number: ["通知"]
     <td>2</td>
     <td>3月9日</td>
     <td>
-    Python与金融数据处理
+    1. Python与金融数据处理 <br>
+    2. 量化平台（优矿）介绍与回测代码构建
     </td>
-    <td></td>
+    <td>
+    <a href="/assets/courses/quant_ug/lec2/np_pd_plot.ipynb" target="_blank" rel="noopener noreferrer">np_pd_plot.ipynb</a> <br>
+    <a href="/assets/courses/quant_ug/lec2/strategy_example.ipynb" target="_blank" rel="noopener noreferrer">strategy_example.ipynb</a> 
+    </td>
     <td></td>
     <td></td>
   </tr>
@@ -122,7 +127,8 @@ no_number: ["通知"]
     <td>3</td>
     <td>3月16日</td>
     <td>
-    量化平台（优矿）介绍与回测代码构建
+    1. 探索性数据分析 <br>
+    2. 因子模型的技术和思想
     </td>
     <td></td>
     <td></td>
@@ -132,7 +138,7 @@ no_number: ["通知"]
     <td>4</td>
     <td>3月23日</td>
     <td>
-    探索性数据分析
+    单因子模型（CAPM，Beta因子）
     </td>
     <td></td>
     <td></td>
@@ -142,7 +148,7 @@ no_number: ["通知"]
     <td>5</td>
     <td>3月30日</td>
     <td>
-    因子模型的技术和思想
+    多因子模型：Fama-French 三因子模型理论与实现
     </td>
     <td></td>
     <td></td>
@@ -152,7 +158,7 @@ no_number: ["通知"]
     <td>6</td>
     <td>4月6日</td>
     <td>
-    单因子模型（CAPM，Beta因子）
+    经典因子拓展：动量、反转、流动性与波动率
     </td>
     <td></td>
     <td></td>
@@ -162,7 +168,8 @@ no_number: ["通知"]
     <td>7</td>
     <td>4月13日</td>
     <td>
-    多因子模型：Fama-French 三因子模型理论与实现
+    1. 因子模型的策略回测 <br>
+    2. 因子模型应用
     </td>
     <td></td>
     <td></td>
@@ -172,7 +179,7 @@ no_number: ["通知"]
     <td>8</td>
     <td>4月20日</td>
     <td>
-    经典因子拓展：动量、反转、流动性与波动率
+    技术分析的技术准备：Bootstrap检验
     </td>
     <td></td>
     <td></td>
@@ -182,7 +189,7 @@ no_number: ["通知"]
     <td>9</td>
     <td>4月27日</td>
     <td>
-    因子模型的量化策略回测框架与绩效评估指标
+    择时策略与技术指标的实证分析和量化检验
     </td>
     <td></td>
     <td></td>
@@ -192,7 +199,7 @@ no_number: ["通知"]
     <td>10</td>
     <td>5月4日</td>
     <td>
-    技术分析的技术准备：Bootstrap检验
+    选股和择时的综合应用
     </td>
     <td></td>
     <td></td>
@@ -202,7 +209,7 @@ no_number: ["通知"]
     <td>11</td>
     <td>5月11日</td>
     <td>
-    择时策略与技术指标的实证分析和量化检验
+    机器学习基础
     </td>
     <td></td>
     <td></td>
@@ -212,7 +219,7 @@ no_number: ["通知"]
     <td>12</td>
     <td>5月18日</td>
     <td>
-    选股和择时的综合应用
+    机器学习实践：传统方法
     </td>
     <td></td>
     <td></td>
@@ -222,7 +229,7 @@ no_number: ["通知"]
     <td>13</td>
     <td>5月25日</td>
     <td>
-    衍生品策略（或直接开始机器学习）
+    机器学习实践：深度学习
     </td>
     <td></td>
     <td></td>
@@ -232,7 +239,7 @@ no_number: ["通知"]
     <td>14</td>
     <td>6月1日</td>
     <td>
-    机器学习基础
+    衍生品策略
     </td>
     <td></td>
     <td></td>
@@ -242,7 +249,7 @@ no_number: ["通知"]
     <td>15</td>
     <td>6月8日</td>
     <td>
-    机器学习实践
+    综合案例
     </td>
     <td></td>
     <td></td>
@@ -252,7 +259,7 @@ no_number: ["通知"]
     <td>16</td>
     <td>6月15日</td>
     <td>
-    综合案例：机器学习视角下中国股票收益率可预测性分析
+    讲座
     </td>
     <td></td>
     <td></td>

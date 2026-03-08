@@ -16,6 +16,9 @@ no_number: ["通知"]
 
 ## 课程介绍
 
+<details markdown="1">
+  <summary> 详细内容 </summary>
+
 ### 动机
 
 一些观察到的现象：
@@ -149,6 +152,10 @@ no_number: ["通知"]
 - 期末考试（闭卷）30%
   - 闭卷是为了确保这些思维工具真正属于你，而非属于你的AI。考试有30%--40%的客观题，以及60%--70%主观题。主观题会提供具体的场景问题描述，只需选择你认为最有力、最适用的工具进行剖析。
 
+</details>
+
+&nbsp;
+
 ## 课程内容
 <table class="course-table">
   <thead>
@@ -198,23 +205,22 @@ no_number: ["通知"]
         2026.03.09
       </td>
       <td>
-
+      方法论提炼
       </td>
       <td>
-        
+        <a href="/assets/courses/hem/lec2/2-meta.pdf" target="_blank" rel="noopener noreferrer">2-meta.pdf</a>
       </td>
       <td>
-        
+        参考文献关键词见课件
       </td>
       <td>
-
       </td>
     </tr>
   </tbody>
   <tbody>
     <tr>
       <td>3</td>
-      <td>认识论</td>
+      <td>不用数学</td>
       <td>
         2026.03.16
       </td>
@@ -235,7 +241,7 @@ no_number: ["通知"]
   <tbody>
     <tr>
       <td>4</td>
-      <td>无数学</td>
+      <td>不用数学</td>
       <td>
         2026.03.23
       </td>
@@ -256,7 +262,7 @@ no_number: ["通知"]
   <tbody>
     <tr>
       <td>5</td>
-      <td>无数学</td>
+      <td>不用数学</td>
       <td>
         2026.03.30
       </td>
