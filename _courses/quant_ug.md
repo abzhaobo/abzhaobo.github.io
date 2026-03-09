@@ -103,22 +103,23 @@ no_number: ["通知"]
     2. Python 介绍
     </td>
     <td>
-    <a href="/assets/courses/quant_ug/lec1/Intro.pdf" target="_blank" rel="noopener noreferrer">Intro.pdf</a> <br>
-    <a href="/assets/courses/quant_ug/lec1/Python_intro.ipynb" target="_blank" rel="noopener noreferrer">Python_intro.ipynb</a> 
+    <a href="/assets/courses/quant_2026/Intro.pdf" target="_blank" rel="noopener noreferrer">Intro.pdf</a> <br>
+    <a href="/assets/courses/quant_2026/Python_intro.ipynb" target="_blank" rel="noopener noreferrer">Python_intro.ipynb</a> 
     </td>
-    <td></td>
+    <td>
+    <a href="https://liaoxuefeng.com/books/python/introduction/index.html">廖雪峰《Python 教程》</a>
+    </td>
     <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td>3月9日</td>
     <td>
-    1. Python与金融数据处理 <br>
-    2. 量化平台（优矿）介绍与回测代码构建
+   Python与金融数据处理(pandas, numpy, matplotlib) 
+    <!-- 讲到pandas groupby.apply；前面的 duplicated 没讲，下次可回头讲一下 -->
     </td>
     <td>
-    <a href="/assets/courses/quant_ug/lec2/np_pd_plot.ipynb" target="_blank" rel="noopener noreferrer">np_pd_plot.ipynb</a> <br>
-    <a href="/assets/courses/quant_ug/lec2/strategy_example.ipynb" target="_blank" rel="noopener noreferrer">strategy_example.ipynb</a> 
+    <a href="/assets/courses/quant_2026/np_pd_plot.ipynb" target="_blank" rel="noopener noreferrer">np_pd_plot.ipynb</a>
     </td>
     <td></td>
     <td></td>
@@ -127,10 +128,12 @@ no_number: ["通知"]
     <td>3</td>
     <td>3月16日</td>
     <td>
-    1. 探索性数据分析 <br>
-    2. 因子模型的技术和思想
+    1. 量化平台（优矿）介绍与回测代码构建 <br>
+    2. 探索数据
     </td>
-    <td></td>
+    <td>
+    <a href="/assets/courses/quant_2026/strategy_example.ipynb" target="_blank" rel="noopener noreferrer">strategy_example.ipynb</a>
+    </td>
     <td></td>
     <td></td>
   </tr>
@@ -138,7 +141,8 @@ no_number: ["通知"]
     <td>4</td>
     <td>3月23日</td>
     <td>
-    单因子模型（CAPM，Beta因子）
+    1. 因子模型的理论和检验 <br>
+    2. 单因子模型（CAPM，Beta因子）
     </td>
     <td></td>
     <td></td>
@@ -257,7 +261,7 @@ no_number: ["通知"]
   </tr>
   <tr>
     <td>16</td>
-    <td>6月15日</td>
+    <td>待定</td>
     <td>
     讲座
     </td>

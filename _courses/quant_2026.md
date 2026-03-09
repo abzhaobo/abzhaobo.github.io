@@ -19,8 +19,8 @@ no_number: ["通知"]
 
 <!-- &nbsp; -->
 
-<!-- <details markdown="1">
-  <summary> 详细内容 Details </summary> -->
+ <details markdown="1">
+  <summary> 详细内容 Details </summary>
 
 这门课程在教学计划上有两个不同的名称：《量化投资》(学硕)，《金融数据分析和Python应用》(专硕)。主要讨论用数量方法探索金融数据以及构建交易策略。课程内容是应用导向的，但相关的理论也会有涉及。课程目标：掌握基本的工具以及用数据分析的思维方式。这门课主要包含以下内容：
 - Python 基础以及数据处理相关库(numpy, pandas, SKlearn, Pytorch等)
@@ -55,7 +55,7 @@ no_number: ["通知"]
 
 **PLAGIARISM IS STRICTLY PROHIBITED. You may immediately fail the course if copy-pasting other's work.** It will be normal to meet obstacles during the course, especially for students with less exposure to programming. I'll share all relevant code and you'll surely complete the course successfully if you read and try the provided code with some care. Please trust yourself and hang on.
 
-<!-- </details> -->
+</details>
 
 &nbsp;
 
@@ -81,8 +81,8 @@ no_number: ["通知"]
         2. Python 介绍
       </td>
       <td>
-      <a href="/assets/courses/quant_2026/lec1/Intro.pdf" target="_blank" rel="noopener noreferrer">Intro.pdf</a> <br>
-    <a href="/assets/courses/quant_2026/lec1/Python_intro.ipynb" target="_blank" rel="noopener noreferrer">Python_intro.ipynb</a> 
+      <a href="/assets/courses/quant_2026/Intro.pdf" target="_blank" rel="noopener noreferrer">Intro.pdf</a> <br>
+    <a href="/assets/courses/quant_2026/Python_intro.ipynb" target="_blank" rel="noopener noreferrer">Python_intro.ipynb</a> 
       </td>
       <td>
       <a href="https://liaoxuefeng.com/books/python/introduction/index.html">廖雪峰《Python 教程》</a>
@@ -93,10 +93,12 @@ no_number: ["通知"]
       <td>2</td>
       <td>3.10 </td>
       <td>
-        1. Python 的金融数据分析简介 <br>
-        2. 量化回测平台介绍
+      1. Python 的金融数据分析简介(pandas, numpy, matplotlib) <br>
+      2. 量化回测平台介绍与回测代码构建
       </td>
       <td>
+      <a href="/assets/courses/quant_2026/np_pd_plot.ipynb" target="_blank" rel="noopener noreferrer">np_pd_plot.ipynb</a> <br>
+      <a href="/assets/courses/quant_2026/strategy_example.ipynb" target="_blank" rel="noopener noreferrer">strategy_example.ipynb</a> 
       </td>
       <td>
       </td>
@@ -106,8 +108,7 @@ no_number: ["通知"]
       <td>3</td>
       <td> 3.17 </td>
       <td>
-        1. 探索数据 <br>
-        2. 简单回测策略编写
+        探索数据
       </td>
       <td>
       </td>
@@ -119,7 +120,7 @@ no_number: ["通知"]
       <td>4</td>
       <td> 3.24 </td>
       <td>
-        因子模型和相关计量经济学概述
+       因子模型和相关计量经济学概述
       </td>
       <td>
       </td>
@@ -155,8 +156,8 @@ no_number: ["通知"]
       <td>7</td>
       <td>4.14 </td>
       <td>
-       1. 动量、反转、流动性、波动率因子 <br>
-       2. 量化平台回测
+       3. 动量、反转、流动性、波动率因子 <br>
+       4. 量化平台回测
       </td>
       <td>
       </td>
@@ -168,8 +169,8 @@ no_number: ["通知"]
       <td>8</td>
       <td>4.21 </td>
       <td>
-        1. 因子模型的应用 <br>
-        2. 技术分析介绍和相关的统计分析
+        5. 因子模型的应用 <br>
+        6. 技术分析介绍和相关的统计分析
       </td>
       <td>
       </td>
@@ -181,8 +182,8 @@ no_number: ["通知"]
       <td>9</td>
       <td>4.28 </td>
       <td>
-        1. 技术分析的量化分析 <br>
-        2. 机器学习介绍
+        7. 技术分析的量化分析 <br>
+        8. 机器学习介绍
       </td>
       <td> 
       </td>
