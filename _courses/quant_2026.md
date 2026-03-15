@@ -95,6 +95,8 @@ no_number: ["通知"]
       <td>
       1. Python 的金融数据分析简介(pandas, numpy, matplotlib) <br>
       2. 量化回测平台介绍与回测代码构建
+      <!-- 专硕讲到回测的基本逻辑，还未看具体代码构建的过程 -->
+      <!-- 学硕讲完第一个回测策略，动量策略 -->
       </td>
       <td>
       <a href="/assets/courses/quant_2026/np_pd_plot.ipynb" target="_blank" rel="noopener noreferrer">np_pd_plot.ipynb</a> <br>

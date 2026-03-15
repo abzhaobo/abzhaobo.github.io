@@ -13,8 +13,8 @@ no_number: ["通知"]
 ---
 
 ## ❗️通知 Announcement❗️
+- 2026.03.16: 第一次作业已布置，请于2026年3月30日前提交。助教于谨豪邮箱：2213609@mail.nankai.edu.cn
 - 2026.03.02: 课程问卷调查：https://v.wjx.cn/vm/YTorWSN.aspx
-
 ## 课程大纲 Syllabus
 
 <details markdown="1">
@@ -132,10 +132,16 @@ no_number: ["通知"]
     2. 探索数据
     </td>
     <td>
-    <a href="/assets/courses/quant_2026/strategy_example.ipynb" target="_blank" rel="noopener noreferrer">strategy_example.ipynb</a>
+    <a href="/assets/courses/quant_2026/strategy_example.ipynb" target="_blank" rel="noopener noreferrer">strategy_example.ipynb</a> <br>
+    <a href="/assets/courses/quant_2026/1-EDA.ipynb" target="_blank" rel="noopener noreferrer">1-EDA.ipynb</a> <br>
+    <a href="https://nankai.feishu.cn/file/LaUybViOwo8D6ex4NWXchKOGnWg?from=from_copylink" target="_blank" rel="noopener noreferrer">stk_df_2025.zip</a>
     </td>
     <td></td>
-    <td></td>
+    <td>
+    <a href="https://nankai.feishu.cn/file/Hfg4bG3MloalXdxRHoEcPBClnmh?from=from_copylink" target="_blank" rel="noopener noreferrer">hw1.zip</a> <br>
+      此日期前提交: 2025.03.30 <br>
+      助教于谨豪邮箱：2213609@mail.nankai.edu.cn
+    </td>
   </tr>
   <tr>
     <td>4</td>
