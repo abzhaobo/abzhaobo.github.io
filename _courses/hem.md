@@ -181,8 +181,8 @@ no_number: ["通知"]
       2. 关于判断标准的讨论
       </td>
       <td>
-      <a href="/assets/courses/hem/lec1/1-Intro.pdf" target="_blank" rel="noopener noreferrer">1-Intro.pdf</a> <br>
-      <a href="/assets/courses/hem/lec1/1-introspection.pdf" target="_blank" rel="noopener noreferrer">1-introspection.pdf</a>
+      <a href="/assets/courses/hem/1-Intro.pdf" target="_blank" rel="noopener noreferrer">1-Intro.pdf</a> <br>
+      <a href="/assets/courses/hem/1-introspection.pdf" target="_blank" rel="noopener noreferrer">1-introspection.pdf</a>
       </td>
       <td>
       <a href="https://paulromer.net/mathiness/Mathiness.pdf">
@@ -208,7 +208,7 @@ no_number: ["通知"]
       方法论提炼
       </td>
       <td>
-        <a href="/assets/courses/hem/lec2/2-meta.pdf" target="_blank" rel="noopener noreferrer">2-meta.pdf</a>
+        <a href="/assets/courses/hem/2-meta.pdf" target="_blank" rel="noopener noreferrer">2-meta.pdf</a>
       </td>
       <td>
         参考文献关键词见课件
@@ -225,10 +225,11 @@ no_number: ["通知"]
         2026.03.16
       </td>
       <td>
-        
+        1. 框架 <br>
+        2. 亚当斯密
       </td>
       <td>
-        
+        <a href="/assets/courses/hem/3-nonmath.pdf" target="_blank" rel="noopener noreferrer">3-nonmath.pdf</a>
       </td>
       <td>
         

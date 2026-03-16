@@ -130,6 +130,7 @@ no_number: ["通知"]
     <td>
     1. 量化平台（优矿）介绍与回测代码构建 <br>
     2. 探索数据
+    <!-- 1-EDA index 筛选 duplicates 讲完 -->
     </td>
     <td>
     <a href="/assets/courses/quant_2026/strategy_example.ipynb" target="_blank" rel="noopener noreferrer">strategy_example.ipynb</a> <br>
