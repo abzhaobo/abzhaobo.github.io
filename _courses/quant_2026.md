@@ -13,6 +13,7 @@ no_number: ["通知"]
 ---
 
 ## ❗️通知❗️
+- 2026.03.17: 第一次作业已布置，请于2026年3月31日前提交。助教于谨豪邮箱：2213609@mail.nankai.edu.cn
 - 3.3: 课程内容调查问卷：[https://v.wjx.cn/vm/h9eRD9e.aspx#](https://v.wjx.cn/vm/h9eRD9e.aspx#)
 
 ## 课程大纲
@@ -110,13 +111,22 @@ no_number: ["通知"]
       <td>3</td>
       <td> 3.17 </td>
       <td>
-        探索数据
+        1. 探索数据 <br>
+        2. 因子模型和相关计量经济学概述
       </td>
       <td>
+      <a href="/assets/courses/quant_2026/1-EDA.ipynb" target="_blank" rel="noopener noreferrer">1-EDA.ipynb</a> <br>
+      <a href="/assets/courses/quant_2026/因子模型及相关计量经济学概述.pdf" target="_blank" rel="noopener noreferrer">因子模型讨论</a> <br>
+      <a href="https://nankai.feishu.cn/file/LaUybViOwo8D6ex4NWXchKOGnWg?from=from_copylink" target="_blank" rel="noopener noreferrer">stk_df_2025.zip</a>
       </td>
       <td>
+      参考文献见课件
       </td>
-      <td></td>
+      <td>
+      <a href="https://nankai.feishu.cn/file/Hfg4bG3MloalXdxRHoEcPBClnmh?from=from_copylink" target="_blank" rel="noopener noreferrer">hw1.zip</a> <br>
+      此日期前提交: 2025.03.31 <br>
+      助教于谨豪邮箱：2213609@mail.nankai.edu.cn
+      </td>
     </tr>
         <tr>
       <td>4</td>

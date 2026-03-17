@@ -137,7 +137,9 @@ no_number: ["通知"]
     <a href="/assets/courses/quant_2026/1-EDA.ipynb" target="_blank" rel="noopener noreferrer">1-EDA.ipynb</a> <br>
     <a href="https://nankai.feishu.cn/file/LaUybViOwo8D6ex4NWXchKOGnWg?from=from_copylink" target="_blank" rel="noopener noreferrer">stk_df_2025.zip</a>
     </td>
-    <td></td>
+    <td>
+    参考文献见课件
+    </td>
     <td>
     <a href="https://nankai.feishu.cn/file/Hfg4bG3MloalXdxRHoEcPBClnmh?from=from_copylink" target="_blank" rel="noopener noreferrer">hw1.zip</a> <br>
       此日期前提交: 2025.03.30 <br>
