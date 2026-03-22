@@ -113,6 +113,7 @@ no_number: ["通知"]
       <td>
         1. 探索数据 <br>
         2. 因子模型和相关计量经济学概述
+        <!-- 专硕讲完时序检验，未讲两步法。学硕讲完两步法，未讲 Fama-MacBeth  -->
       </td>
       <td>
       <a href="/assets/courses/quant_2026/1-EDA.ipynb" target="_blank" rel="noopener noreferrer">1-EDA.ipynb</a> <br>

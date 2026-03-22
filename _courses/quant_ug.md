@@ -150,10 +150,12 @@ no_number: ["通知"]
     <td>4</td>
     <td>3月23日</td>
     <td>
-    1. 因子模型的理论和检验 <br>
-    2. 单因子模型（CAPM，Beta因子）
+    1. 探索数据 <br>
+    2. 因子模型
     </td>
-    <td></td>
+    <td>
+    <a href="/assets/courses/quant_2026/因子模型及相关计量经济学概述.pdf" target="_blank" rel="noopener noreferrer">因子模型讨论</a> <br>
+    </td>
     <td></td>
     <td></td>
   </tr>
@@ -161,7 +163,8 @@ no_number: ["通知"]
     <td>5</td>
     <td>3月30日</td>
     <td>
-    多因子模型：Fama-French 三因子模型理论与实现
+    1. 单因子模型（CAPM，Beta因子）<br>
+    2. 多因子模型：Fama-French 三因子模型理论与实现
     </td>
     <td></td>
     <td></td>

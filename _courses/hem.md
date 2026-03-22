@@ -229,7 +229,7 @@ no_number: ["通知"]
         2. 亚当斯密
       </td>
       <td>
-        <a href="/assets/courses/hem/3-nonmath.pdf" target="_blank" rel="noopener noreferrer">3-nonmath.pdf</a>
+        <a href="/assets/courses/hem/3-nonmath_map_Smith.pdf" target="_blank" rel="noopener noreferrer">3-nonmath1.pdf</a>
       </td>
       <td>
         
@@ -247,10 +247,11 @@ no_number: ["通知"]
         2026.03.23
       </td>
       <td>
-        
+        1. 亚当斯密 <br>
+        2. 马尔萨斯和李嘉图
       </td>
       <td>
-        
+        <a href="/assets/courses/hem/4-nonmath_Malthus_Ricardo.pdf" target="_blank" rel="noopener noreferrer">4-nonmath2.pdf</a>
       </td>
       <td>
         
