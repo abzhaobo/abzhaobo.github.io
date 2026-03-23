@@ -155,6 +155,7 @@ no_number: ["通知"]
     </td>
     <td>
     <a href="/assets/courses/quant_2026/因子模型及相关计量经济学概述.pdf" target="_blank" rel="noopener noreferrer">因子模型讨论</a> <br>
+    <a href="/assets/courses/quant_2026/Newey_West.pdf" target="_blank" rel="noopener noreferrer">Newey_West.pdf</a>
     </td>
     <td></td>
     <td></td>
