@@ -133,9 +133,11 @@ no_number: ["通知"]
       <td>4</td>
       <td> 3.24 </td>
       <td>
-       因子模型和相关计量经济学概述
+       1. 因子模型和相关计量经济学概述 <br>
+       2. 因子模型实践：Beta 和 市值
       </td>
       <td>
+      <a href="https://nankai.feishu.cn/file/IALCbV2fnoM30zxtLn3cC0hinng?from=from_copylink" target="_blank" rel="noopener noreferrer">lec4.zip</a>
       </td>
       <td>
       </td>
