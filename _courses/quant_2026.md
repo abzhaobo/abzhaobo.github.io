@@ -135,6 +135,7 @@ no_number: ["通知"]
       <td>
        1. 因子模型和相关计量经济学概述 <br>
        2. 因子模型实践：Beta 和 市值
+       <!-- 专硕讲到beta排序之前（好像）；学硕讲完beta排序 -->
       </td>
       <td>
       <a href="https://nankai.feishu.cn/file/IALCbV2fnoM30zxtLn3cC0hinng?from=from_copylink" target="_blank" rel="noopener noreferrer">lec4.zip</a>

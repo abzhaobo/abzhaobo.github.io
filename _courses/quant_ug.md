@@ -152,10 +152,10 @@ no_number: ["通知"]
     <td>
     1. 探索数据 <br>
     2. 因子模型
+    <!-- 讲完时序法检验 -->
     </td>
     <td>
-    <a href="/assets/courses/quant_2026/因子模型及相关计量经济学概述.pdf" target="_blank" rel="noopener noreferrer">因子模型讨论</a> <br>
-    <a href="/assets/courses/quant_2026/Newey_West.pdf" target="_blank" rel="noopener noreferrer">Newey_West.pdf</a>
+    <a href="/assets/courses/quant_2026/因子模型及相关计量经济学概述.pdf" target="_blank" rel="noopener noreferrer">因子模型讨论</a>
     </td>
     <td></td>
     <td></td>
@@ -164,10 +164,12 @@ no_number: ["通知"]
     <td>5</td>
     <td>3月30日</td>
     <td>
-    1. 单因子模型（CAPM，Beta因子）<br>
-    2. 多因子模型：Fama-French 三因子模型理论与实现
+    单因子模型（CAPM，Beta因子）
     </td>
-    <td></td>
+    <td>
+    <a href="/assets/courses/quant_2026/Newey_West.pdf" target="_blank" rel="noopener noreferrer">Newey_West.pdf</a> <br>
+    <a href="https://nankai.feishu.cn/file/IALCbV2fnoM30zxtLn3cC0hinng?from=from_copylink" target="_blank" rel="noopener noreferrer">beta_size.zip</a> 
+    </td>
     <td></td>
     <td></td>
   </tr>
@@ -175,7 +177,8 @@ no_number: ["通知"]
     <td>6</td>
     <td>4月6日</td>
     <td>
-    经典因子拓展：动量、反转、流动性与波动率
+    1. 多因子模型：Fama-French 三因子模型理论与实现 <br>
+    2. 经典因子拓展：动量、反转、流动性与波动率
     </td>
     <td></td>
     <td></td>
