@@ -165,6 +165,7 @@ no_number: ["通知"]
     <td>3月30日</td>
     <td>
     单因子模型（CAPM，Beta因子）
+    <!-- 讲完因子模型理论部分 -->
     </td>
     <td>
     <a href="/assets/courses/quant_2026/Newey_West.pdf" target="_blank" rel="noopener noreferrer">Newey_West.pdf</a> <br>
