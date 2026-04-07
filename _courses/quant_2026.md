@@ -2,7 +2,7 @@
 layout: page
 title: 量化投资/金融数据分析 (硕士、博士，2026)
 description: 因子模型；技术分析的统计检验；机器学习
-img: assets/img/quant2025.png
+img: assets/img/quant2026.png
 importance: 2
 category: 2026
 giscus_comments: true
@@ -162,9 +162,10 @@ no_number: ["通知"]
       <td>6</td>
       <td>4.7 </td>
       <td>
-        Fama-French 三因子
+        动量、反转、流动性、波动率因子
       </td>
       <td>
+      <a href="https://nankai.feishu.cn/file/BYo5b7geToQo2gxxl4YcA7gHn5e?from=from_copylink" target="_blank" rel="noopener noreferrer">other_factors.zip</a>
       </td>
       <td>
       </td>
