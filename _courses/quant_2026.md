@@ -165,7 +165,7 @@ no_number: ["通知"]
         动量、反转、流动性、波动率因子
       </td>
       <td>
-      <a href="https://nankai.feishu.cn/file/BYo5b7geToQo2gxxl4YcA7gHn5e?from=from_copylink" target="_blank" rel="noopener noreferrer">other_factors.zip</a>
+      <a href="https://nankai.feishu.cn/file/MWEjbdoivoekHkx21AAcYUYdnbe?from=from_copylink" target="_blank" rel="noopener noreferrer">other_factors.zip</a>
       </td>
       <td>
       </td>
