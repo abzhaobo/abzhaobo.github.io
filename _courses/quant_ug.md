@@ -168,29 +168,28 @@ no_number: ["通知"]
     <!-- 讲完因子模型理论部分 -->
     </td>
     <td>
-    <a href="/assets/courses/quant_2026/Newey_West.pdf" target="_blank" rel="noopener noreferrer">Newey_West.pdf</a> <br>
-    <a href="https://nankai.feishu.cn/file/IALCbV2fnoM30zxtLn3cC0hinng?from=from_copylink" target="_blank" rel="noopener noreferrer">beta_size.zip</a> 
+    <a href="/assets/courses/quant_2026/Newey_West.pdf" target="_blank" rel="noopener noreferrer">Newey_West.pdf</a>
     </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>6</td>
-    <td>4月6日</td>
+    <td>4月13日</td>
     <td>
-    1. 多因子模型：Fama-French 三因子模型理论与实现 <br>
-    2. 经典因子拓展：动量、反转、流动性与波动率
+    单因子模型（CAPM，Beta因子）
     </td>
-    <td></td>
+    <td>
+    <a href="https://nankai.feishu.cn/file/IALCbV2fnoM30zxtLn3cC0hinng?from=from_copylink" target="_blank" rel="noopener noreferrer">beta_size.zip</a> 
+    </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>7</td>
-    <td>4月13日</td>
+    <td>4月20日</td>
     <td>
-    1. 因子模型的策略回测 <br>
-    2. 因子模型应用
+    Fama-French 三因子
     </td>
     <td></td>
     <td></td>
@@ -198,9 +197,9 @@ no_number: ["通知"]
   </tr>
   <tr>
     <td>8</td>
-    <td>4月20日</td>
+    <td>4月27日</td>
     <td>
-    技术分析的技术准备：Bootstrap检验
+    
     </td>
     <td></td>
     <td></td>
@@ -208,9 +207,9 @@ no_number: ["通知"]
   </tr>
   <tr>
     <td>9</td>
-    <td>4月27日</td>
+    <td>5月4日</td>
     <td>
-    择时策略与技术指标的实证分析和量化检验
+    
     </td>
     <td></td>
     <td></td>
@@ -218,9 +217,9 @@ no_number: ["通知"]
   </tr>
   <tr>
     <td>10</td>
-    <td>5月4日</td>
+    <td>5月11日</td>
     <td>
-    选股和择时的综合应用
+    
     </td>
     <td></td>
     <td></td>
@@ -228,9 +227,9 @@ no_number: ["通知"]
   </tr>
   <tr>
     <td>11</td>
-    <td>5月11日</td>
+    <td>5月18日</td>
     <td>
-    机器学习基础
+    
     </td>
     <td></td>
     <td></td>
@@ -238,9 +237,9 @@ no_number: ["通知"]
   </tr>
   <tr>
     <td>12</td>
-    <td>5月18日</td>
+    <td>5月25日</td>
     <td>
-    机器学习实践：传统方法
+    
     </td>
     <td></td>
     <td></td>
@@ -248,9 +247,9 @@ no_number: ["通知"]
   </tr>
   <tr>
     <td>13</td>
-    <td>5月25日</td>
+    <td>6月1日</td>
     <td>
-    机器学习实践：深度学习
+    
     </td>
     <td></td>
     <td></td>
@@ -258,9 +257,9 @@ no_number: ["通知"]
   </tr>
   <tr>
     <td>14</td>
-    <td>6月1日</td>
+    <td>6月8日</td>
     <td>
-    衍生品策略
+    
     </td>
     <td></td>
     <td></td>
@@ -268,9 +267,9 @@ no_number: ["通知"]
   </tr>
   <tr>
     <td>15</td>
-    <td>6月8日</td>
+    <td>6月15日</td>
     <td>
-    综合案例
+    
     </td>
     <td></td>
     <td></td>

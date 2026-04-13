@@ -283,6 +283,29 @@ no_number: ["通知"]
       </td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td>不用数学</td>
+      <td>
+        2026.04.13
+      </td>
+      <td>
+        1. 古典经济学的转折 <br>
+        2. 奥地利学派
+      </td>
+      <td>
+        <a href="/assets/courses/hem/6-nonmath_PreNeo.pdf" target="_blank" rel="noopener noreferrer">6-nonmath_PreNeo.pdf</a> <br>
+         <a href="/assets/courses/hem/6-Austrian.pdf" target="_blank" rel="noopener noreferrer">6-Austrian.pdf</a> 
+      </td>
+      <td>
+        
+      </td>
+      <td>
+        
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 -----
