@@ -13,7 +13,8 @@ no_number: ["通知"]
 ---
 
 ## ❗️通知❗️
-- 2026.03.17: 第一次作业已布置，请于2026年3月31日前提交。助教于谨豪邮箱：2213609@mail.nankai.edu.cn
+- 2026.04.14: [第2次作业](/assets/courses/quant_2026/ex2.pdf)已布置，请于2026年3月31日前提交。助教于谨豪邮箱：2213609@mail.nankai.edu.cn
+- 2026.03.17: [第1次作业](https://nankai.feishu.cn/file/Hfg4bG3MloalXdxRHoEcPBClnmh?from=from_copylink)已布置，请于2026年3月31日前提交。助教于谨豪邮箱：2213609@mail.nankai.edu.cn
 - 3.3: 课程内容调查问卷：[https://v.wjx.cn/vm/h9eRD9e.aspx#](https://v.wjx.cn/vm/h9eRD9e.aspx#)
 
 ## 课程大纲
@@ -162,7 +163,8 @@ no_number: ["通知"]
       <td>6</td>
       <td>4.7 </td>
       <td>
-        动量、反转、流动性、波动率因子
+        1. 动量、反转、流动性、波动率因子 <br>
+        2. 因子模型回测
       </td>
       <td>
       <a href="https://nankai.feishu.cn/file/MWEjbdoivoekHkx21AAcYUYdnbe?from=from_copylink" target="_blank" rel="noopener noreferrer">other_factors.zip</a>
@@ -175,21 +177,25 @@ no_number: ["通知"]
       <td>7</td>
       <td>4.14 </td>
       <td>
-       3. 动量、反转、流动性、波动率因子 <br>
-       4. 量化平台回测
+         1. 因子模型的应用 <br>
+         2. 技术分析介绍和相关的统计分析
+      </td>
+      <td>
+      <a href="https://nankai.feishu.cn/file/FK57bgjA2oFqLRxmpAXcMbslnWh?from=from_copylink" target="_blank" rel="noopener noreferrer">lec7.zip</a>
       </td>
       <td>
       </td>
       <td>
+      <a href="/assets/courses/quant_2026/ex2.pdf" target="_blank" rel="noopener noreferrer">ex2.pdf</a> <br>
+      此日期前提交: 2025.04.28 <br>
+      助教于谨豪邮箱：2213609@mail.nankai.edu.cn
       </td>
-      <td></td>
     </tr>
         <tr>
       <td>8</td>
       <td>4.21 </td>
       <td>
-        5. 因子模型的应用 <br>
-        6. 技术分析介绍和相关的统计分析
+       
       </td>
       <td>
       </td>
@@ -201,8 +207,8 @@ no_number: ["通知"]
       <td>9</td>
       <td>4.28 </td>
       <td>
-        7. 技术分析的量化分析 <br>
-        8. 机器学习介绍
+        3. 技术分析的量化分析 <br>
+        4. 机器学习介绍
       </td>
       <td> 
       </td>
