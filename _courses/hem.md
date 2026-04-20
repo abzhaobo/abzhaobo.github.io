@@ -285,7 +285,7 @@ no_number: ["通知"]
   </tbody>
   <tbody>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>不用数学</td>
       <td>
         2026.04.13
@@ -296,13 +296,34 @@ no_number: ["通知"]
       </td>
       <td>
         <a href="/assets/courses/hem/6-nonmath_PreNeo.pdf" target="_blank" rel="noopener noreferrer">6-nonmath_PreNeo.pdf</a> <br>
-         <a href="/assets/courses/hem/6-Austrian.pdf" target="_blank" rel="noopener noreferrer">6-Austrian.pdf</a> 
+         <a href="/assets/courses/hem/6-nonmath_Austrian.pdf" target="_blank" rel="noopener noreferrer">6-nonmath_Austrian.pdf</a> 
       </td>
       <td>
         
       </td>
       <td>
         
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>7</td>
+      <td>不用数学</td>
+      <td>
+        2026.04.20
+      </td>
+      <td>
+        1. 奥地利学派 <br>
+        2. Alfred Marshall
+      </td>
+      <td>
+         <a href="/assets/courses/hem/7-nonmath_Marshall.pdf" target="_blank" rel="noopener noreferrer">6-nonmath_Marshall.pdf</a> 
+      </td>
+      <td>
+        
+      </td>
+      <td>
       </td>
     </tr>
   </tbody>
