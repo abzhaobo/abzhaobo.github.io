@@ -191,7 +191,9 @@ no_number: ["通知"]
     <td>
     Fama-French 三因子
     </td>
-    <td></td>
+    <td>
+    <a href="https://nankai.feishu.cn/file/BB1pbWO2eox6VNx33lZcx261nac?from=from_copylink" target="_blank" rel="noopener noreferrer">FF3.zip</a>
+    </td>
     <td></td>
     <td></td>
   </tr>
