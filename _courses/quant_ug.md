@@ -201,9 +201,12 @@ no_number: ["通知"]
     <td>8</td>
     <td>4月27日</td>
     <td>
-    
+     1. 动量、反转、流动性、波动率 <br>
+     2. 因子回测、应用
     </td>
-    <td></td>
+    <td>
+    <a href="https://nankai.feishu.cn/file/MWEjbdoivoekHkx21AAcYUYdnbe?from=from_copylink" target="_blank" rel="noopener noreferrer">other_factors.zip</a>
+    </td>
     <td></td>
     <td></td>
   </tr>
