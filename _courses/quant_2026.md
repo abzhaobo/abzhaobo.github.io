@@ -195,9 +195,11 @@ no_number: ["通知"]
       <td>8</td>
       <td>4.21 </td>
       <td>
-       
+       1. 数据挖掘陷阱讨论 <br>
+       2. 技术分析的量化分析
       </td>
       <td>
+      <a href="https://nankai.feishu.cn/file/WBLLbOMuNoBs1WxSdh8ctZHnnod?from=from_copylink" target="_blank" rel="noopener noreferrer">7-ta_test.zip</a>
       </td>
       <td>
       </td>
@@ -207,8 +209,7 @@ no_number: ["通知"]
       <td>9</td>
       <td>4.28 </td>
       <td>
-        3. 技术分析的量化分析 <br>
-        4. 机器学习介绍
+        机器学习介绍
       </td>
       <td> 
       </td>
