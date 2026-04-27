@@ -70,7 +70,6 @@ no_number: ["通知"]
       <th>日期</th>
       <th>内容</th>
       <th>课件与资料</th>
-      <th>参考文献</th>
       <th>作业</th>
     </tr>
   </thead>
@@ -86,9 +85,6 @@ no_number: ["通知"]
       <a href="/assets/courses/quant_2026/Intro.pdf" target="_blank" rel="noopener noreferrer">Intro.pdf</a> <br>
     <a href="/assets/courses/quant_2026/Python_intro.ipynb" target="_blank" rel="noopener noreferrer">Python_intro.ipynb</a> 
       </td>
-      <td>
-      <a href="https://liaoxuefeng.com/books/python/introduction/index.html">廖雪峰《Python 教程》</a>
-      </td>
       <td></td>
     </tr>
         <tr>
@@ -103,8 +99,6 @@ no_number: ["通知"]
       <td>
       <a href="/assets/courses/quant_2026/np_pd_plot.ipynb" target="_blank" rel="noopener noreferrer">np_pd_plot.ipynb</a> <br>
       <a href="/assets/courses/quant_2026/strategy_example.ipynb" target="_blank" rel="noopener noreferrer">strategy_example.ipynb</a> 
-      </td>
-      <td>
       </td>
       <td></td>
     </tr>
@@ -122,9 +116,6 @@ no_number: ["通知"]
       <a href="https://nankai.feishu.cn/file/LaUybViOwo8D6ex4NWXchKOGnWg?from=from_copylink" target="_blank" rel="noopener noreferrer">stk_df_2025.zip</a>
       </td>
       <td>
-      参考文献见课件
-      </td>
-      <td>
       <a href="https://nankai.feishu.cn/file/Hfg4bG3MloalXdxRHoEcPBClnmh?from=from_copylink" target="_blank" rel="noopener noreferrer">hw1.zip</a> <br>
       此日期前提交: 2025.03.31 <br>
       助教于谨豪邮箱：2213609@mail.nankai.edu.cn
@@ -134,14 +125,12 @@ no_number: ["通知"]
       <td>4</td>
       <td> 3.24 </td>
       <td>
-       1. 因子模型和相关计量经济学概述 <br>
-       2. 因子模型实践：Beta 和 市值
+       3. 因子模型和相关计量经济学概述 <br>
+       4. 因子模型实践：Beta 和 市值
        <!-- 专硕讲到beta排序之前（好像）；学硕讲完beta排序 -->
       </td>
       <td>
       <a href="https://nankai.feishu.cn/file/IALCbV2fnoM30zxtLn3cC0hinng?from=from_copylink" target="_blank" rel="noopener noreferrer">beta_size.zip</a>
-      </td>
-      <td>
       </td>
       <td></td>
     </tr>
@@ -149,13 +138,11 @@ no_number: ["通知"]
       <td>5</td>
       <td>3.31 </td>
       <td>
-        1. 因子模型实践：Beta 和 市值 <br>
-        2. Fama-French 三因子
+        5. 因子模型实践：Beta 和 市值 <br>
+        6. Fama-French 三因子
       </td>
       <td>
       <a href="https://nankai.feishu.cn/file/BB1pbWO2eox6VNx33lZcx261nac?from=from_copylink" target="_blank" rel="noopener noreferrer">FF3.zip</a>
-      </td>
-      <td>
       </td>
       <td></td>
     </tr>
@@ -163,13 +150,11 @@ no_number: ["通知"]
       <td>6</td>
       <td>4.7 </td>
       <td>
-        1. 动量、反转、流动性、波动率因子 <br>
-        2. 因子模型回测
+        7. 动量、反转、流动性、波动率因子 <br>
+        8. 因子模型回测
       </td>
       <td>
       <a href="https://nankai.feishu.cn/file/MWEjbdoivoekHkx21AAcYUYdnbe?from=from_copylink" target="_blank" rel="noopener noreferrer">other_factors.zip</a>
-      </td>
-      <td>
       </td>
       <td></td>
     </tr>
@@ -177,13 +162,11 @@ no_number: ["通知"]
       <td>7</td>
       <td>4.14 </td>
       <td>
-         1. 因子模型的应用 <br>
-         2. 技术分析介绍和相关的统计分析
+         9. 因子模型的应用 <br>
+         10. 技术分析介绍和相关的统计分析
       </td>
       <td>
-      <a href="https://nankai.feishu.cn/file/FK57bgjA2oFqLRxmpAXcMbslnWh?from=from_copylink" target="_blank" rel="noopener noreferrer">lec7.zip</a>
-      </td>
-      <td>
+      <a href="https://nankai.feishu.cn/file/FK57bgjA2oFqLRxmpAXcMbslnWh?from=from_copylink" target="_blank" rel="noopener noreferrer">factor_app-TA_intro.zip</a>
       </td>
       <td>
       <a href="/assets/courses/quant_2026/ex2.pdf" target="_blank" rel="noopener noreferrer">ex2.pdf</a> <br>
@@ -195,13 +178,11 @@ no_number: ["通知"]
       <td>8</td>
       <td>4.21 </td>
       <td>
-       1. 数据挖掘陷阱讨论 <br>
-       2. 技术分析的量化分析
+       5. 数据挖掘陷阱讨论 <br>
+       6. 技术分析的量化分析
       </td>
       <td>
       <a href="https://nankai.feishu.cn/file/WBLLbOMuNoBs1WxSdh8ctZHnnod?from=from_copylink" target="_blank" rel="noopener noreferrer">7-ta_test.zip</a>
-      </td>
-      <td>
       </td>
       <td></td>
     </tr>
@@ -213,8 +194,6 @@ no_number: ["通知"]
       </td>
       <td> 
       </td>
-      <td>
-      </td>
       <td></td>
     </tr>
         <tr>
@@ -224,8 +203,6 @@ no_number: ["通知"]
         量化策略的机器学习应用
       </td>
       <td> 
-      </td>
-      <td>
       </td>
       <td></td>
     </tr>
@@ -237,8 +214,6 @@ no_number: ["通知"]
       </td>
       <td>
       </td>
-      <td>
-      </td>
       <td></td>
     </tr>
         <tr>
@@ -246,8 +221,6 @@ no_number: ["通知"]
       <td>待定  </td>
       <td>
         讲座
-      </td>
-      <td>
       </td>
       <td>
       </td>

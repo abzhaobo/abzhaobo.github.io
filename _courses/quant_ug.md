@@ -90,7 +90,6 @@ no_number: ["通知"]
       <th>日期</th>
       <th>内容</th>
       <th>课件与资料</th>
-      <th>参考文献</th>
       <th>作业</th>
     </tr>
   </thead>
@@ -106,9 +105,6 @@ no_number: ["通知"]
     <a href="/assets/courses/quant_2026/Intro.pdf" target="_blank" rel="noopener noreferrer">Intro.pdf</a> <br>
     <a href="/assets/courses/quant_2026/Python_intro.ipynb" target="_blank" rel="noopener noreferrer">Python_intro.ipynb</a> 
     </td>
-    <td>
-    <a href="https://liaoxuefeng.com/books/python/introduction/index.html">廖雪峰《Python 教程》</a>
-    </td>
     <td></td>
   </tr>
   <tr>
@@ -121,7 +117,6 @@ no_number: ["通知"]
     <td>
     <a href="/assets/courses/quant_2026/np_pd_plot.ipynb" target="_blank" rel="noopener noreferrer">np_pd_plot.ipynb</a>
     </td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -136,9 +131,6 @@ no_number: ["通知"]
     <a href="/assets/courses/quant_2026/strategy_example.ipynb" target="_blank" rel="noopener noreferrer">strategy_example.ipynb</a> <br>
     <a href="/assets/courses/quant_2026/1-EDA.ipynb" target="_blank" rel="noopener noreferrer">1-EDA.ipynb</a> <br>
     <a href="https://nankai.feishu.cn/file/LaUybViOwo8D6ex4NWXchKOGnWg?from=from_copylink" target="_blank" rel="noopener noreferrer">stk_df_2025.zip</a>
-    </td>
-    <td>
-    参考文献见课件
     </td>
     <td>
     <a href="https://nankai.feishu.cn/file/Hfg4bG3MloalXdxRHoEcPBClnmh?from=from_copylink" target="_blank" rel="noopener noreferrer">hw1.zip</a> <br>
@@ -158,7 +150,6 @@ no_number: ["通知"]
     <a href="/assets/courses/quant_2026/因子模型及相关计量经济学概述.pdf" target="_blank" rel="noopener noreferrer">因子模型讨论</a>
     </td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>5</td>
@@ -171,7 +162,6 @@ no_number: ["通知"]
     <a href="/assets/courses/quant_2026/Newey_West.pdf" target="_blank" rel="noopener noreferrer">Newey_West.pdf</a>
     </td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>6</td>
@@ -182,7 +172,6 @@ no_number: ["通知"]
     <td>
     <a href="https://nankai.feishu.cn/file/IALCbV2fnoM30zxtLn3cC0hinng?from=from_copylink" target="_blank" rel="noopener noreferrer">beta_size.zip</a> 
     </td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -195,28 +184,25 @@ no_number: ["通知"]
     <a href="https://nankai.feishu.cn/file/BB1pbWO2eox6VNx33lZcx261nac?from=from_copylink" target="_blank" rel="noopener noreferrer">FF3.zip</a>
     </td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>8</td>
     <td>4月27日</td>
     <td>
-     1. 动量、反转、流动性、波动率 <br>
+     1. 流动性、波动率 <br>
      2. 因子回测、应用
     </td>
     <td>
-    <a href="https://nankai.feishu.cn/file/MWEjbdoivoekHkx21AAcYUYdnbe?from=from_copylink" target="_blank" rel="noopener noreferrer">other_factors.zip</a>
+    <a href="https://nankai.feishu.cn/file/MWEjbdoivoekHkx21AAcYUYdnbe?from=from_copylink" target="_blank" rel="noopener noreferrer">other_factors.zip</a> <br>
+    <a href="https://nankai.feishu.cn/file/FK57bgjA2oFqLRxmpAXcMbslnWh?from=from_copylink" target="_blank" rel="noopener noreferrer">factor_app-TA_intro.zip</a>
     </td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>9</td>
     <td>5月4日</td>
     <td>
-    
     </td>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -224,9 +210,7 @@ no_number: ["通知"]
     <td>10</td>
     <td>5月11日</td>
     <td>
-    
     </td>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -234,9 +218,7 @@ no_number: ["通知"]
     <td>11</td>
     <td>5月18日</td>
     <td>
-    
     </td>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -248,7 +230,6 @@ no_number: ["通知"]
     </td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>13</td>
@@ -256,7 +237,6 @@ no_number: ["通知"]
     <td>
     
     </td>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -268,7 +248,6 @@ no_number: ["通知"]
     </td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>15</td>
@@ -278,7 +257,6 @@ no_number: ["通知"]
     </td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>16</td>
@@ -286,7 +264,6 @@ no_number: ["通知"]
     <td>
     讲座
     </td>
-    <td></td>
     <td></td>
     <td></td>
   </tr>

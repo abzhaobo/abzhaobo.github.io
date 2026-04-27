@@ -7,27 +7,71 @@
   font-size: 16px;
 }
 
+/* ===== 单元格基础 ===== */
 .course-table th,
 .course-table td {
   border: 1px solid #ccc;
-  padding: 10px 6px;
+  padding: 10px 8px;
   vertical-align: top;
 }
 
+/* ===== 表头 ===== */
 .course-table th {
   background-color: #f0f0f0;
   font-weight: normal;
   text-align: center;
 }
 
+/* ===== 斑马纹 ===== */
 .course-table tbody tr:nth-child(even) td {
   background-color: #f9f9f9;
 }
 
+/* ===== 默认对齐 ===== */
 .course-table td {
   text-align: left;
+  line-height: 1.6;
 }
 
+/* ===== 链接 ===== */
 .course-table a {
   white-space: nowrap;
+}
+
+/* =========================
+   列宽控制（关键）
+   ========================= */
+
+/* 第1列：课次（尽量窄） */
+.course-table th:nth-child(1),
+.course-table td:nth-child(1) {
+  width: 1%;
+  white-space: nowrap;
+  text-align: center;
+}
+
+/* 第2列：日期（尽量窄） */
+.course-table th:nth-child(2),
+.course-table td:nth-child(2) {
+  width: 1%;
+  white-space: nowrap;
+  text-align: center;
+}
+
+/* 第3列：内容 */
+.course-table th:nth-child(3),
+.course-table td:nth-child(3) {
+  width: 42%;
+}
+
+/* 第4列：课件与资料 */
+.course-table th:nth-child(4),
+.course-table td:nth-child(4) {
+  width: 28%;
+}
+
+/* 第5列：作业 */
+.course-table th:nth-child(5),
+.course-table td:nth-child(5) {
+  width: 28%;
 }
