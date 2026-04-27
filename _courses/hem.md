@@ -13,6 +13,7 @@ no_number: ["通知"]
 ---
 
 ## ❗️通知 Announcement❗️ 
+- 2026.04.27: [第1次作业](/assets/courses/hem/ex1.pdf)已布置，请于2026年5月11日前提交。邮箱：zhaobo@nankai.edu.cn
 
 ## 课程介绍
 
@@ -165,7 +166,6 @@ no_number: ["通知"]
       <th>日期</th>
       <th>内容</th>
       <th>课件与资料</th>
-      <th>参考文献</th>
       <th>作业</th>
     </tr>
   </thead>
@@ -185,15 +185,6 @@ no_number: ["通知"]
       <a href="/assets/courses/hem/1-introspection.pdf" target="_blank" rel="noopener noreferrer">1-introspection.pdf</a>
       </td>
       <td>
-      <a href="https://paulromer.net/mathiness/Mathiness.pdf">
-      Mathiness in the Theory of Economic Growth
-      </a> <br>
-      <a href="https://paulromer.net/trouble-with-macroeconomics-update/WP-Trouble.pdf">
-      The Trouble With Macroeconomics
-      </a>
-      </td>
-      <td>
-        
       </td>
     </tr>
   </tbody>
@@ -209,9 +200,6 @@ no_number: ["通知"]
       </td>
       <td>
         <a href="/assets/courses/hem/2-meta.pdf" target="_blank" rel="noopener noreferrer">2-meta.pdf</a>
-      </td>
-      <td>
-        参考文献关键词见课件
       </td>
       <td>
       </td>
@@ -232,10 +220,6 @@ no_number: ["通知"]
         <a href="/assets/courses/hem/3-nonmath_map_Smith.pdf" target="_blank" rel="noopener noreferrer">3-nonmath1.pdf</a>
       </td>
       <td>
-        
-      </td>
-      <td>
-        
       </td>
     </tr>
   </tbody>
@@ -254,10 +238,6 @@ no_number: ["通知"]
         <a href="/assets/courses/hem/4-nonmath_Malthus_Ricardo.pdf" target="_blank" rel="noopener noreferrer">4-nonmath2.pdf</a>
       </td>
       <td>
-        
-      </td>
-      <td>
-        
       </td>
     </tr>
   </tbody>
@@ -276,10 +256,6 @@ no_number: ["通知"]
         <a href="/assets/courses/hem/5-nonmath_Mill_Marx.pdf" target="_blank" rel="noopener noreferrer">5-nonmath3.pdf</a>
       </td>
       <td>
-        
-      </td>
-      <td>
-        
       </td>
     </tr>
   </tbody>
@@ -299,10 +275,6 @@ no_number: ["通知"]
          <a href="/assets/courses/hem/6-nonmath_Austrian.pdf" target="_blank" rel="noopener noreferrer">6-nonmath_Austrian.pdf</a> 
       </td>
       <td>
-        
-      </td>
-      <td>
-        
       </td>
     </tr>
   </tbody>
@@ -319,9 +291,6 @@ no_number: ["通知"]
       </td>
       <td>
          <a href="/assets/courses/hem/7-nonmath_Marshall.pdf" target="_blank" rel="noopener noreferrer">6-nonmath_Marshall.pdf</a> 
-      </td>
-      <td>
-        
       </td>
       <td>
       </td>
@@ -341,9 +310,9 @@ no_number: ["通知"]
          <a href="/assets/courses/hem/8-nonmath_Keynes.pdf" target="_blank" rel="noopener noreferrer">8-nonmath_Keynes.pdf</a> 
       </td>
       <td>
-        
-      </td>
-      <td>
+         <a href="/assets/courses/hem/ex1.pdf" target="_blank" rel="noopener noreferrer">ex1.pdf</a> <br>
+         作业请提交至邮箱：zhaobo@nankai.edu.cn <br>
+         截止日期：2026.05.11
       </td>
     </tr>
   </tbody>
