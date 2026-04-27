@@ -13,6 +13,7 @@ no_number: ["通知"]
 ---
 
 ## ❗️通知 Announcement❗️
+- 2026.04.27: [第2次作业](/assets/courses/quant_2026/ex2_ug.pdf)已布置，请于2026年5月18日前提交。助教于谨豪邮箱：2213609@mail.nankai.edu.cn
 - 2026.03.16: 第一次作业已布置，请于2026年3月30日前提交。助教于谨豪邮箱：2213609@mail.nankai.edu.cn
 - 2026.03.02: 课程问卷调查：https://v.wjx.cn/vm/YTorWSN.aspx
 ## 课程大纲 Syllabus
@@ -196,7 +197,11 @@ no_number: ["通知"]
     <a href="https://nankai.feishu.cn/file/MWEjbdoivoekHkx21AAcYUYdnbe?from=from_copylink" target="_blank" rel="noopener noreferrer">other_factors.zip</a> <br>
     <a href="https://nankai.feishu.cn/file/FK57bgjA2oFqLRxmpAXcMbslnWh?from=from_copylink" target="_blank" rel="noopener noreferrer">factor_app-TA_intro.zip</a>
     </td>
-    <td></td>
+    <td>
+    <a href="/assets/courses/quant_2026/ex2_ug.pdf" target="_blank" rel="noopener noreferrer">ex2_ug.pdf</a> <br>
+      此日期前提交: 2025.05.18 <br>
+      助教于谨豪邮箱：2213609@mail.nankai.edu.cn
+    </td>
   </tr>
   <tr>
     <td>9</td>
