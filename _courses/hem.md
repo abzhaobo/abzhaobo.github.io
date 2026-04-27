@@ -327,6 +327,26 @@ no_number: ["通知"]
       </td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <td>8</td>
+      <td>不用数学</td>
+      <td>
+        2026.04.27
+      </td>
+      <td>
+       凯恩斯 J.M.Keynes
+      </td>
+      <td>
+         <a href="/assets/courses/hem/8-nonmath_Keynes.pdf" target="_blank" rel="noopener noreferrer">8-nonmath_Keynes.pdf</a> 
+      </td>
+      <td>
+        
+      </td>
+      <td>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 -----
