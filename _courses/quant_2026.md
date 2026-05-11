@@ -193,14 +193,15 @@ no_number: ["通知"]
         机器学习介绍
       </td>
       <td> 
+      <a href="https://nankai.feishu.cn/file/HAuhbNAlso8Sagx508UcuOQQnHb?from=from_copylink" target="_blank" rel="noopener noreferrer">ML.zip</a>
       </td>
       <td></td>
     </tr>
         <tr>
       <td>10</td>
-      <td>5.5 </td>
+      <td>5.9 </td>
       <td>
-        量化策略的机器学习应用
+        机器学习应用
       </td>
       <td> 
       </td>
@@ -210,7 +211,7 @@ no_number: ["通知"]
       <td>11</td>
       <td>5.12 </td>
       <td>
-        量化策略的机器学习应用
+        衍生品策略
       </td>
       <td>
       </td>

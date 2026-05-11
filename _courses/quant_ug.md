@@ -205,15 +205,20 @@ no_number: ["通知"]
   </tr>
   <tr>
     <td>9</td>
-    <td>5月4日</td>
+    <td>5月11日</td>
     <td>
+    1. 技术分析介绍和相关的统计分析 <br>
+    2. 数据挖掘陷阱及其应对
     </td>
-    <td></td>
+    <td>
+    课件见上次课链接 <br>
+    <a href="https://nankai.feishu.cn/file/FK57bgjA2oFqLRxmpAXcMbslnWh?from=from_copylink" target="_blank" rel="noopener noreferrer">factor_app-TA_intro.zip</a>
+    </td>
     <td></td>
   </tr>
   <tr>
     <td>10</td>
-    <td>5月11日</td>
+    <td>5月18日</td>
     <td>
     </td>
     <td></td>
