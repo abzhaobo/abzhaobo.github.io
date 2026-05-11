@@ -316,6 +316,23 @@ no_number: ["通知"]
       </td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <td>9</td>
+      <td>数学</td>
+      <td>
+        2026.05.11
+      </td>
+      <td>
+       公理化体系与一般均衡理论
+      </td>
+      <td>
+         <a href="/assets/courses/hem/9-math_GE.pdf" target="_blank" rel="noopener noreferrer">9-math_GE.pdf</a> 
+      </td>
+      <td>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 -----
