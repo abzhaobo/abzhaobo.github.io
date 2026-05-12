@@ -187,8 +187,6 @@ no_number: ["通知"]
       <td>
       </td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td>2</td>
       <td>认识论</td>
@@ -204,8 +202,6 @@ no_number: ["通知"]
       <td>
       </td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td>3</td>
       <td>不用数学</td>
@@ -222,8 +218,6 @@ no_number: ["通知"]
       <td>
       </td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td>4</td>
       <td>不用数学</td>
@@ -240,8 +234,6 @@ no_number: ["通知"]
       <td>
       </td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td>5</td>
       <td>不用数学</td>
@@ -258,8 +250,6 @@ no_number: ["通知"]
       <td>
       </td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td>6</td>
       <td>不用数学</td>
@@ -277,8 +267,6 @@ no_number: ["通知"]
       <td>
       </td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td>7</td>
       <td>不用数学</td>
@@ -295,8 +283,6 @@ no_number: ["通知"]
       <td>
       </td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td>8</td>
       <td>不用数学</td>
@@ -315,8 +301,6 @@ no_number: ["通知"]
          截止日期：2026.05.11
       </td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td>9</td>
       <td>数学</td>

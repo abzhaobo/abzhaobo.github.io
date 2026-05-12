@@ -193,33 +193,24 @@ no_number: ["通知"]
         机器学习介绍
       </td>
       <td> 
-      <a href="https://nankai.feishu.cn/file/HAuhbNAlso8Sagx508UcuOQQnHb?from=from_copylink" target="_blank" rel="noopener noreferrer">ML.zip</a>
+      <a href="https://nankai.feishu.cn/file/Pibeb4g9dot8r7xgK34cTpfQnAg?from=from_copylink" target="_blank" rel="noopener noreferrer">ML.zip</a>
       </td>
       <td></td>
     </tr>
         <tr>
       <td>10</td>
-      <td>5.9 </td>
+      <td>5.12 </td>
       <td>
         机器学习应用
       </td>
       <td> 
+      同上
       </td>
       <td></td>
     </tr>
         <tr>
       <td>11</td>
-      <td>5.12 </td>
-      <td>
-        衍生品策略
-      </td>
-      <td>
-      </td>
-      <td></td>
-    </tr>
-        <tr>
-      <td>12</td>
-      <td>待定  </td>
+      <td>待定 </td>
       <td>
         讲座
       </td>
