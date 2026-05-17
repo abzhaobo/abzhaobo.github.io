@@ -220,8 +220,11 @@ no_number: ["通知"]
     <td>10</td>
     <td>5月18日</td>
     <td>
+    数据挖掘陷阱及其应对
     </td>
-    <td></td>
+    <td>
+    <a href="https://nankai.feishu.cn/file/WBLLbOMuNoBs1WxSdh8ctZHnnod?from=from_copylink" target="_blank" rel="noopener noreferrer">7-ta_test.zip</a>
+    </td>
     <td></td>
   </tr>
   <tr>
