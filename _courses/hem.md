@@ -323,7 +323,7 @@ no_number: ["通知"]
         2026.05.18
       </td>
       <td>
-        博弈论、合同理论
+        博弈论、机制设计、合约理论
       </td>
       <td>
          <a href="/assets/courses/hem/10-math_game_contract_mechanism.pdf" target="_blank" rel="noopener noreferrer">10-math_game_contract_mechanism.pdf</a> 
