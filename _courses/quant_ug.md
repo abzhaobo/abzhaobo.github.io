@@ -229,15 +229,18 @@ no_number: ["通知"]
   </tr>
   <tr>
     <td>11</td>
-    <td>5月18日</td>
+    <td>5月25日</td>
     <td>
+    机器学习介绍
     </td>
-    <td></td>
+    <td>
+    <a href="https://nankai.feishu.cn/file/Pibeb4g9dot8r7xgK34cTpfQnAg?from=from_copylink" target="_blank" rel="noopener noreferrer">ML.zip</a>
+    </td>
     <td></td>
   </tr>
   <tr>
     <td>12</td>
-    <td>5月25日</td>
+    <td>6月1日</td>
     <td>
     
     </td>
