@@ -345,7 +345,7 @@ no_number: ["通知"]
          <a href="/assets/courses/hem/11-math_macro.pdf" target="_blank" rel="noopener noreferrer">11-math_macro.pdf</a>
       </td>
       <td>
-      </td>
+      </td> 
     </tr>
     <tr>
       <td>12</td>
