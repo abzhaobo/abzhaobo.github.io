@@ -323,7 +323,7 @@ no_number: ["通知"]
         2026.05.18
       </td>
       <td>
-        博弈论、机制设计、合约理论
+        博弈论、机制设计、合约理论 
       </td>
       <td>
          <a href="/assets/courses/hem/10-math_game_contract_mechanism.pdf" target="_blank" rel="noopener noreferrer">10-math_game_contract_mechanism.pdf</a> 
@@ -331,6 +331,39 @@ no_number: ["通知"]
       <td>
       </td>
     </tr>
+    <tr>
+      <td>11</td>
+      <td>数学</td>
+      <td>
+        2026.05.25
+      </td>
+      <td>
+        1. 博弈论、机制设计、合约理论 <br>
+        2. 宏观经济学的数学化
+      </td>
+      <td>
+         <a href="/assets/courses/hem/11-math_macro.pdf" target="_blank" rel="noopener noreferrer">11-math_macro.pdf</a>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>实证</td>
+      <td>
+        2026.06.01
+      </td>
+      <td>
+        1. 关于"均衡"概念的讨论 <br>
+        2. 计量经济学的发展
+      </td>
+      <td>
+         <a href="/assets/courses/hem/11-equilibrium.pdf" target="_blank" rel="noopener noreferrer">11-equilibrium.pdf</a>
+      </td>
+      <td>
+      </td>
+    </tr>
+
   </tbody>
 </table>
 
