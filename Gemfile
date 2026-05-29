@@ -26,3 +26,7 @@ group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+
+# 显式引入标准库以消除 Ruby 3.4/3.5 的废弃警告
+gem 'observer'
+gem 'ostruct'
