@@ -298,7 +298,8 @@ no_number: ["通知"]
       <td>
          <a href="/assets/courses/hem/ex1.pdf" target="_blank" rel="noopener noreferrer">ex1.pdf</a> <br>
          作业请提交至邮箱：zhaobo@nankai.edu.cn <br>
-         截止日期：2026.05.11
+         截止日期：2026.05.11 <br>
+         参考答案：<a href="/assets/courses/hem/ex1-answer.pdf" target="_blank" rel="noopener noreferrer">ex1-answer.pdf</a>
       </td>
     </tr>
     <tr>
@@ -358,7 +359,8 @@ no_number: ["通知"]
         2. 计量经济学的发展
       </td>
       <td>
-         <a href="/assets/courses/hem/11-equilibrium.pdf" target="_blank" rel="noopener noreferrer">11-equilibrium.pdf</a>
+         <a href="/assets/courses/hem/11-equilibrium.pdf" target="_blank" rel="noopener noreferrer">11-equilibrium.pdf</a> <br>
+         <a href="/assets/courses/hem/12-econometrics_history.pdf" target="_blank" rel="noopener noreferrer">12-econometrics_history.pdf</a>
       </td>
       <td>
       </td>
