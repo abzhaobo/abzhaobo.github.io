@@ -13,6 +13,8 @@ no_number: ["通知"]
 ---
 
 ## ❗️通知❗️
+- 讲座：《指数化投资的发展趋势与行业实践》。嘉宾：张晓南，景顺长城ETF与创新投资部基金经理。时间：2026年6月1日（周一）下午7:00-9:00，飞书号：513538518。
+- 2026.06.01: [考试作业](/assets/courses/quant_2026/exam_graduate.pdf)已布置，请于2026年6月30日前提交。助教于谨豪邮箱：2213609@mail.nankai.edu.cn
 - 2026.04.14: [第2次作业](/assets/courses/quant_2026/ex2.pdf)已布置，请于2026年4月28日前提交。助教于谨豪邮箱：2213609@mail.nankai.edu.cn
 - 2026.03.17: [第1次作业](https://nankai.feishu.cn/file/Hfg4bG3MloalXdxRHoEcPBClnmh?from=from_copylink)已布置，请于2026年3月31日前提交。助教于谨豪邮箱：2213609@mail.nankai.edu.cn
 - 3.3: 课程内容调查问卷：[https://v.wjx.cn/vm/h9eRD9e.aspx#](https://v.wjx.cn/vm/h9eRD9e.aspx#)
@@ -210,7 +212,7 @@ no_number: ["通知"]
     </tr>
         <tr>
       <td>11</td>
-      <td>待定 </td>
+      <td>6.1 </td>
       <td>
         讲座
       </td>
