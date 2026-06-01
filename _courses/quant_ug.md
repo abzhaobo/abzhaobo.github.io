@@ -242,14 +242,16 @@ no_number: ["通知"]
     <td>12</td>
     <td>6月1日</td>
     <td>
-    
+    机器学习介绍
     </td>
-    <td></td>
+    <td>
+    同上
+    </td>
     <td></td>
   </tr>
   <tr>
     <td>13</td>
-    <td>6月1日</td>
+    <td>6月8日</td>
     <td>
     
     </td>
