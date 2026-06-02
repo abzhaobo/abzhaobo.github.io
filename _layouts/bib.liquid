@@ -247,16 +247,11 @@
         <a class="mytake btn btn-sm z-depth-0" role="button">My Thoughts</a>
       {% endif %}
 
-      {% if site.enable_publication_badges and site.enable_publication_badges.dimensions and entry_has_dimensions_badge %}
+      {% if site.enable_publication_badges and site.enable_publication_badges.dimensions and entry.dimensions and entry.dimensions != 'false' %}
+        {% if entry.dimensions != blank and entry.dimensions != 'true' %}{% assign badge_id = entry.dimensions %}{% else %}{% assign badge_id = null %}{% endif %}
         <span
           class="__dimensions_badge_embed__"
-          {% if entry.dimensions != blank and entry.dimensions != 'true' %}
-            data-id="{{ entry.dimensions }}"
-          {% elsif entry.doi %}
-            data-doi="{{ entry.doi }}"
-          {% else %}
-            data-pmid="{{ entry.pmid }}"
-          {% endif %}
+          {% if badge_id %}data-id="{{ badge_id }}"{% elsif entry.doi %}data-doi="{{ entry.doi }}"{% else %}data-pmid="{{ entry.pmid }}"{% endif %}
           data-style="small_rectangle"
           data-legend="hover-right"
           style="display: inline-block; vertical-align: middle; margin-left: 8px; margin-bottom: 4px;"
