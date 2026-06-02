@@ -9,7 +9,7 @@ nav_order: 1
 
 <!-- _pages/publications.md -->
 
-Topics that always interest me: political (institutional) economics; methodological issues (science of science); machine learning and deep learning; asset pricing. 
+My research explores how institutions shape economic and financial outcomes, and how advances in machine learning can be used to study complex social and economic systems. More broadly, I am interested in methodological questions concerning scientific discovery, prediction, and the generation of knowledge.
 
 ---
 <h2>Publications</h2>
