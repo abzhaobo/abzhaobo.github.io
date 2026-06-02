@@ -1,5 +1,3 @@
----
----
 <div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
@@ -44,11 +42,8 @@
     </div>
   {% endif %}
 
-  <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
-    <!-- Title -->
     <div class="title">{{ entry.title }}</div>
-    <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
 
@@ -145,7 +140,6 @@
       {% endif %}
     </div>
 
-    <!-- Journal/Book title and date -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
@@ -182,7 +176,6 @@
       {{ entry.note | strip }}
     </div>
 
-    <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
         <a class="award btn btn-sm z-depth-0" role="button">
@@ -253,7 +246,24 @@
       {% if entry.mytake %}
         <a class="mytake btn btn-sm z-depth-0" role="button">My Thoughts</a>
       {% endif %}
+
+      {% if site.enable_publication_badges and site.enable_publication_badges.dimensions and entry_has_dimensions_badge %}
+        <span
+          class="__dimensions_badge_embed__"
+          {% if entry.dimensions != blank and entry.dimensions != 'true' %}
+            data-id="{{ entry.dimensions }}"
+          {% elsif entry.doi %}
+            data-doi="{{ entry.doi }}"
+          {% else %}
+            data-pmid="{{ entry.pmid }}"
+          {% endif %}
+          data-style="small_rectangle"
+          data-legend="hover-right"
+          style="display: inline-block; vertical-align: middle; margin-left: 8px; margin-bottom: 4px;"
+        ></span>
+      {% endif %}
     </div>
+
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
       {% if entry.altmetric and entry.altmetric != 'false' %}
@@ -274,7 +284,7 @@
       {% if entry.inspirehep_id %}
         {% assign entry_has_inspirehep_badge = true %}
       {% endif %}
-      {% if entry_has_altmetric_badge or entry_has_dimensions_badge or entry_has_google_scholar_badge or entry_has_inspirehep_badge %}
+      {% if entry_has_altmetric_badge or entry_has_google_scholar_badge or entry_has_inspirehep_badge %}
         <div class="badges">
           {% if site.enable_publication_badges.altmetric and entry_has_altmetric_badge %}
             <span
@@ -294,21 +304,6 @@
               {% elsif entry.isbn %}
                 data-isbn="{{ entry.isbn }}"
               {% endif %}
-            ></span>
-          {% endif %}
-          {% if site.enable_publication_badges.dimensions and entry_has_dimensions_badge %}
-            <span
-              class="__dimensions_badge_embed__"
-              {% if entry.dimensions != blank and entry.dimensions != 'true' %}
-                data-id="{{ entry.dimensions }}"
-              {% elsif entry.doi %}
-                data-doi="{{ entry.doi }}"
-              {% else %}
-                data-pmid="{{ entry.pmid }}"
-              {% endif %}
-              data-style="small_rectangle"
-              data-legend="hover-right"
-              style="margin-bottom: 3px;"
             ></span>
           {% endif %}
           {% if site.enable_publication_badges.google_scholar and entry_has_google_scholar_badge %}
@@ -340,28 +335,24 @@
     {% endif %}
 
     {% if entry.award %}
-      <!-- Hidden Award block -->
       <div class="award hidden d-print-inline">
         <p>{{ entry.award | markdownify }}</p>
       </div>
     {% endif %}
 
     {% if entry.abstract %}
-      <!-- Hidden abstract block -->
       <div class="abstract hidden">
         <p>{{ entry.abstract }}</p>
       </div>
     {% endif %}
 
     {% if entry.mytake %}
-      <!-- Hidden My Take block -->
       <div class="mytake hidden">
         <p>{{ entry.mytake | markdownify }}</p>
       </div>
     {% endif %}
 
     {% if entry.bibtex_show %}
-      <!-- Hidden bibtex block -->
       <div class="bibtex hidden">
         {% highlight bibtex %}
         {{- entry.bibtex | hideCustomBibtex -}}
@@ -370,7 +361,6 @@
     {% endif %}
 
     {% if entry.video and site.enable_video_embedding %}
-      <!-- Hidden video block -->
       <div class="abstract hidden">
         <div style="text-align: center;">{% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true %}</div>
       </div>
