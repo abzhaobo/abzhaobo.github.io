@@ -259,34 +259,18 @@ no_number: ["通知"]
     <td>13</td>
     <td>6月8日</td>
     <td>
-    
+    机器学习应用
     </td>
-    <td></td>
+    <td>
+    同上
+    </td>
     <td></td>
   </tr>
   <tr>
     <td>14</td>
-    <td>6月8日</td>
-    <td>
-    
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>15</td>
     <td>6月15日</td>
     <td>
-    
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>待定</td>
-    <td>
-    讲座
+    课程回顾，答疑
     </td>
     <td></td>
     <td></td>
