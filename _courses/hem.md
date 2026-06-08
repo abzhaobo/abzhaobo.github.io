@@ -355,17 +355,45 @@ no_number: ["通知"]
         2026.06.01
       </td>
       <td>
-        1. 关于"均衡"概念的讨论 <br>
-        2. 计量经济学的发展
+        1. 宏观经济学的数学化 <br>
+        2. 关于"均衡"概念的讨论 
       </td>
       <td>
-         <a href="/assets/courses/hem/11-equilibrium.pdf" target="_blank" rel="noopener noreferrer">11-equilibrium.pdf</a> <br>
+         <a href="/assets/courses/hem/11-equilibrium.pdf" target="_blank" rel="noopener noreferrer">11-equilibrium.pdf</a> 
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>实证</td>
+      <td>
+        2026.06.08
+      </td>
+      <td>
+        计量经济学
+      </td>
+      <td>
          <a href="/assets/courses/hem/12-econometrics_history.pdf" target="_blank" rel="noopener noreferrer">12-econometrics_history.pdf</a>
       </td>
       <td>
       </td>
     </tr>
-
+    <tr>
+      <td>14</td>
+      <td></td>
+      <td>
+        2026.06.08
+      </td>
+      <td>
+        计量经济学
+      </td>
+      <td>
+         <a href="/assets/courses/hem/12-econometrics_history.pdf" target="_blank" rel="noopener noreferrer">12-econometrics_history.pdf</a>
+      </td>
+      <td>
+      </td>
+    </tr>
   </tbody>
 </table>
 
