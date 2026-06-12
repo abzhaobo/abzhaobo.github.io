@@ -381,15 +381,16 @@ no_number: ["通知"]
     </tr>
     <tr>
       <td>14</td>
-      <td></td>
+      <td>实证</td>
       <td>
         2026.06.08
       </td>
       <td>
-        计量经济学
+        1. 计量经济学 <br>
+        2. 业界方法
       </td>
       <td>
-         <a href="/assets/courses/hem/12-econometrics_history.pdf" target="_blank" rel="noopener noreferrer">12-econometrics_history.pdf</a>
+         <a href="/assets/courses/hem/13-industry_methods_summary.html" target="_blank" rel="noopener noreferrer">13-industry_methods_summary.html</a> 
       </td>
       <td>
       </td>
