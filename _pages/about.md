@@ -23,7 +23,7 @@ Education:
 - Master of Financial Engineering, Xiamen University, 2011.
 - Bachelor of Computational Mathematics, Nanjing University, 2007.
 
-Curriculum vitae: [CV](/assets/pdf/CV.pdf)
+Curriculum vitae: [CV](/assets/pdf/Bo-CV.pdf)
 
 你好！我是赵博，现任南开大学金融学院副教授。我的研究兴趣包括：制度经济学，机器学习和量化投资。我当前的教学主要包括《量化投资》和《经济分析方法史》。我喜欢打篮球，也弹一点钢琴。我的办公室在金融学院520，我的邮箱是 zhaobo@nankai.edu.cn。
 
