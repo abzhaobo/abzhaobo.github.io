@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: Misc
+title: Misc 其他
 nav: true
 nav_order: 3
 pagination:

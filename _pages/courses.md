@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Courses
+title: Courses 课程
 permalink: /courses/
 description:
 nav: true
