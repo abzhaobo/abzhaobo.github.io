@@ -18,7 +18,7 @@ pagination:
 
 <div class="post">
 
-{% assign blog_name_size = site.blog_name | size %}
+<!-- {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
@@ -27,7 +27,27 @@ pagination:
     <h1>{{ site.blog_name }}</h1>
     <h2>{{ site.blog_description }}</h2>
   </div>
-  {% endif %}
+  {% endif %} -->
+
+<div class="header-bar" style="text-align: left; padding-top: 1.5rem; padding-bottom: 2rem;">
+  <div class="row align-items-center">
+    <!-- 左侧：专栏标题 -->
+    <div class="col-12 col-md-7 col-lg-7 text-center text-md-left mb-3 mb-md-0">
+      <h1 class="m-0" style="font-size: 3.2rem;">{{ site.blog_name }}</h1>
+    </div>
+    <!-- 右侧：胡金铨语录电影截图卡片 -->
+    <div class="col-12 col-md-5 col-lg-5">
+      <div class="text-center text-md-right">
+        {% include figure.liquid 
+           path="assets/img/hujinquan.jpeg" 
+           class="img-fluid rounded shadow-sm" 
+           zoomable=true 
+           alt="胡金铨语录" 
+        %}
+      </div>
+    </div>
+  </div>
+</div>
 
 {% if site.display_tags or site.display_categories %}
 
