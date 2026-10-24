@@ -23,6 +23,11 @@ My research explores how institutions shape economic and financial outcomes, and
   {% bibliography --group_by none -f working_papers %}
 </div>
 ---
+<h2>Works in Progress</h2>
+<div class="publications">
+  {% bibliography --group_by none -f work_in_progress %}
+</div>
+---
 
 <h4>Warnings hanging over my head:</h4>
 
