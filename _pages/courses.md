@@ -70,8 +70,6 @@ Questions, corrections, or suggestions? Feel free to leave a comment on the cour
 
 ---
 
-<h4>Warnings hanging over my head:</h4>
-
 > Students are taught minor details in statistics when the hard business of quantitative thinking in economics is getting the data straight; they are taught minor details in mathematics when the hard business of mathematical economics is getting economic ideas straight. (In fact they are often taught mistaken details: that statistical significance, for example, has anything to do with substantive significance; or that a proof on a blackboard is the same thing as a proof in the world [McCloskey 1998; McCloskey and Ziliak 1996]). In most schools they are taught nothing about writing, when the hard business of economic thinking is getting the words straight.
 >
 > <cite> -- Deirdre N. McCloskey </cite>

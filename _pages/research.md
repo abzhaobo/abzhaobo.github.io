@@ -29,8 +29,6 @@ My research explores how institutions shape economic and financial outcomes, and
 </div>
 ---
 
-<h4>Warnings hanging over my head:</h4>
-
 > The cost of computing has dropped exponentially, but the cost of thinking is what it always was. That is why we see so many articles with so many regressions and so little thought.
 >
 > -- <cite>Zvi Griliches</cite>
