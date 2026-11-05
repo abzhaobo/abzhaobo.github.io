@@ -12,7 +12,7 @@ horizontal: false
 <script src="https://unpkg.com/@lyket/widget@latest/dist/lyket.js?apiKey=pt_54ecdd669c2e2012baf37c34c2a22e"></script>
 
 Questions, corrections, or suggestions? Feel free to leave a comment on the course pages. Your feedback is essential for refining these course materials.
-
+ 
 <!-- pages/courses.md -->
 <div class="courses">
 {% if site.enable_course_categories and page.display_categories %}
