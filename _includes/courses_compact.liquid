@@ -1,0 +1,36 @@
+{% if course.redirect %}
+  {% assign course_url = course.redirect %}
+{% else %}
+  {% assign course_url = course.url | relative_url %}
+{% endif %}
+
+<div class="course-compact-card">
+  {% if course.img %}
+    <div class="course-compact-thumb">
+      <img src="{{ course.img | relative_url }}" alt="{{ course.title | escape }}" loading="eager">
+    </div>
+  {% endif %}
+
+  <div class="course-compact-body">
+    <div class="course-compact-header">
+      <h3 class="course-compact-title">
+        <a href="{{ course_url }}" class="stretched-link">{{ course.title }}</a>
+        {% if course.status == 'developing' %}
+          <span class="course-status-badge">Developing</span>
+        {% elsif course.badge != blank %}
+          <span class="course-status-badge">{{ course.badge }}</span>
+        {% endif %}
+      </h3>
+    </div>
+
+    {% if course.description != blank %}
+      <p class="course-compact-desc">{{ course.description }}</p>
+    {% endif %}
+
+    {% if course.github %}
+      <div class="course-compact-links">
+        <a href="{{ course.github }}" title="Code Repository"><i class="fa-brands fa-github"></i></a>
+      </div>
+    {% endif %}
+  </div>
+</div>

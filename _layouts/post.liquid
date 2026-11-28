@@ -17,10 +17,23 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
+    {% assign raw_text = content | strip_html | strip_newlines %}
+    {% assign char_count = raw_text | remove: ' ' | size %}
+    {% assign word_count = raw_text | number_of_words %}
+    {% assign word_threshold = word_count | times: 7 %}
+    {% if char_count > word_threshold %}
+      {% assign read_time = char_count | divided_by: 450 | plus: 1 %}
+    {% else %}
+      {% assign read_time = word_count | divided_by: 200 | plus: 1 %}
+    {% endif %}
     <p class="post-meta">
       Created in {{ page.date | date: '%B %d, %Y' }}
       {% if page.author %}by {{ page.author }}{% endif %}
       {% if page.last_updated %}, last updated in {{ page.last_updated | date: '%B %d, %Y' }}{% endif %}
+      &nbsp;&middot;&nbsp; {{ read_time }} min read
+      {% if site.enable_goatcounter and site.goatcounter_code %}
+        <span class="gc-views" data-gc-path="{{ page.url | relative_url }}" hidden>&nbsp;&middot;&nbsp;<i class="fa-regular fa-eye fa-xs"></i> <span class="gc-count-num"></span></span>
+      {% endif %}
       {% if page.meta %}• {{ page.meta }}{% endif %}
     </p>
     <p class="post-tags">

@@ -3,8 +3,9 @@ layout: page
 title: 中级计量经济学 Intermediate Econometrics
 description: Methods in identifying (causal) relationships in social science
 img: assets/img/econometrics.jpeg
-importance: 4
-category: Earlier
+importance: 6
+category: Archive
+year: 2021
 giscus_comments: false
 ---
 - [❗️Announcement❗️](#️announcement️)

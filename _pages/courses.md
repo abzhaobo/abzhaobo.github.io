@@ -5,68 +5,111 @@ permalink: /courses/
 description:
 nav: true
 nav_order: 2
-display_categories: [2026, Earlier]
+display_categories: [Current, Archive]
 horizontal: false
 ---
 
-<script src="https://unpkg.com/@lyket/widget@latest/dist/lyket.js?apiKey=pt_54ecdd669c2e2012baf37c34c2a22e"></script>
-
 Questions, corrections, or suggestions? Feel free to leave a comment on the course pages. Your feedback is essential for refining these course materials.
- 
+
 <!-- pages/courses.md -->
 <div class="courses">
-{% if site.enable_course_categories and page.display_categories %}
-  <!-- Display categorized courses -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_courses = site.courses | where: "category", category %}
-  {% assign sorted_courses = categorized_courses | sort: "importance" %}
-  <!-- Generate cards for each course -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for course in sorted_courses %}
-      {% include courses_horizontal.liquid %}
-    {% endfor %}
+  {% assign current_courses = site.courses | where: "category", "Current" | sort: "importance" %}
+  {% assign archive_courses = site.courses | where: "category", "Archive" | sort: "importance" | sort: "year" | reverse %}
+
+  <div class="courses-tabs" role="tablist" aria-label="Course views">
+    <button
+      type="button"
+      class="courses-tab active"
+      role="tab"
+      id="tab-current"
+      aria-controls="panel-current"
+      aria-selected="true"
+      data-courses-tab="current"
+    >
+      Current <span class="courses-tab-count">{{ current_courses.size }}</span>
+    </button>
+    <button
+      type="button"
+      class="courses-tab"
+      role="tab"
+      id="tab-archive"
+      aria-controls="panel-archive"
+      aria-selected="false"
+      data-courses-tab="archive"
+    >
+      Archive <span class="courses-tab-count">{{ archive_courses.size }}</span>
+    </button>
+  </div>
+
+  <div id="panel-current" class="courses-panel" role="tabpanel" aria-labelledby="tab-current">
+    <div class="course-compact-grid">
+      {% for course in current_courses %}
+        {% include courses_compact.liquid %}
+      {% endfor %}
     </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for course in sorted_courses %}
-      {% include courses.liquid %}
-    {% endfor %}
+
+  <div id="panel-archive" class="courses-panel" role="tabpanel" aria-labelledby="tab-archive" hidden>
+    <ul class="course-archive-list">
+      {% for course in archive_courses %}
+        {% if course.redirect %}
+          {% assign course_url = course.redirect %}
+        {% else %}
+          {% assign course_url = course.url | relative_url %}
+        {% endif %}
+        <li class="course-archive-item">
+          <span class="course-archive-date">{{ course.term | default: course.year }}</span>
+          <a class="course-archive-title" href="{{ course_url }}">{{ course.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
   </div>
-  {% endif %}
-  {% endfor %}
-
-{% else %}
-
-<!-- Display courses without categories -->
-
-{% assign sorted_courses = site.courses | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for course in sorted_courses %}
-      {% include courses_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for course in sorted_courses %}
-      {% include courses.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
 </div>
+
+<script>
+  (function () {
+    var tabButtons = document.querySelectorAll('[data-courses-tab]');
+    var panels = {
+      current: document.getElementById('panel-current'),
+      archive: document.getElementById('panel-archive'),
+    };
+    if (!tabButtons.length || !panels.current || !panels.archive) return;
+
+    function activateTab(target, syncHash) {
+      var isArchive = target === 'archive';
+      var activeKey = isArchive ? 'archive' : 'current';
+
+      tabButtons.forEach(function (btn) {
+        var matched = btn.getAttribute('data-courses-tab') === activeKey;
+        btn.classList.toggle('active', matched);
+        btn.setAttribute('aria-selected', matched ? 'true' : 'false');
+      });
+
+      panels.current.hidden = isArchive;
+      panels.archive.hidden = !isArchive;
+
+      if (syncHash && window.history && window.history.replaceState) {
+        var nextUrl = isArchive
+          ? window.location.pathname + window.location.search + '#archive'
+          : window.location.pathname + window.location.search;
+        window.history.replaceState(null, '', nextUrl);
+      }
+    }
+
+    tabButtons.forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        activateTab(btn.getAttribute('data-courses-tab'), true);
+      });
+    });
+
+    function syncFromHash() {
+      activateTab(window.location.hash === '#archive' ? 'archive' : 'current', false);
+    }
+
+    window.addEventListener('hashchange', syncFromHash);
+    syncFromHash();
+  })();
+</script>
 
 ---
 

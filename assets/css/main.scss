@@ -22,7 +22,8 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons.scss",
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss",
-  "course-table"
+  "course-table",
+  "custom-lists"
 ;
 
 /* ==========================================================================
@@ -114,12 +115,14 @@ article.numbered-content h3::before {
 /* ==========================================================================
    终极解决 TOC 高亮滞后：物理垫片法 (Anchor Padding Hack)
    ========================================================================== */
-article {
+.container-wide article {
     padding-bottom: 30vh !important; 
 }
 
 /* 物理垫片法：解决 TOC 判定线偏移和导航栏遮挡 */
-article h2, article h3, article h4 {
+.container-wide article h2,
+.container-wide article h3,
+.container-wide article h4 {
     scroll-margin-top: 0 !important;
     padding-top: 120px !important;
     margin-top: calc(1.5rem - 120px) !important;

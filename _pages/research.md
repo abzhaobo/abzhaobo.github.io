@@ -11,22 +11,23 @@ nav_order: 1
 
 My research explores how institutions shape economic and financial outcomes, and how advances in machine learning can be used to study complex social and economic systems. More broadly, I am interested in methodological questions concerning scientific discovery, prediction, and the generation of knowledge.
 
----
-<h2>Publications</h2>
+<div class="research-page">
+  <h2 class="research-section-title">Working Papers</h2>
+  <div class="publications">
+    {% bibliography --group_by none -f working_papers %}
+  </div>
 
-<div class="publications">
-{% bibliography --group_by none -f papers %}
+  <h2 class="research-section-title">Publications</h2>
+  <div class="publications">
+    {% bibliography --group_by none -f papers %}
+  </div>
+
+  <h2 class="research-section-title">Works in Progress</h2>
+  <div class="publications">
+    {% bibliography --group_by none -f work_in_progress %}
+  </div>
 </div>
----
-<h2>Working papers</h2>
-<div class="publications">
-  {% bibliography --group_by none -f working_papers %}
-</div>
----
-<h2>Works in Progress</h2>
-<div class="publications">
-  {% bibliography --group_by none -f work_in_progress %}
-</div>
+
 ---
 
 > The cost of computing has dropped exponentially, but the cost of thinking is what it always was. That is why we see so many articles with so many regressions and so little thought.

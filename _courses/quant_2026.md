@@ -4,7 +4,8 @@ title: 量化投资/金融数据分析 (硕士、博士，2026)
 description: 因子模型；技术分析的统计检验；机器学习
 img: assets/img/quant2026.png
 importance: 2
-category: 2026
+category: Current
+year: 2026
 giscus_comments: true
 numbering: true
 toc:

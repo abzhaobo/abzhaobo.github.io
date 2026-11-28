@@ -53,18 +53,6 @@
               {% endif %}
             </div>
 
-            {% assign safe_id = course.url | relative_url | replace: '/', '-' | remove_first: '-' | remove_last: '-' %}
-            
-            <div class="lyket-wrapper" style="transform: scale(0.85); transform-origin: right bottom; margin-bottom: -2px;">
-              <div 
-                data-lyket-type="updown" 
-                data-lyket-id="course-{{ safe_id }}" 
-                data-lyket-namespace="courses"
-                data-lyket-template="simple"
-              >
-              </div>
-            </div>
-
           </div> </div>
       </div>
     </div>

@@ -46,3 +46,52 @@
   </script>
   <script src="https://openpanel.dev/op1.js" defer async></script>
 {% endif %}
+{% if site.enable_goatcounter and site.goatcounter_code %}
+  <!-- GoatCounter -->
+  <script>
+    window.__normalizeGoatPath = function (p) {
+      if (!p) return '/';
+      try {
+        p = decodeURIComponent(p);
+      } catch (e) {}
+      if (p.length > 1 && p.charAt(p.length - 1) === '/') {
+        p = p.slice(0, -1);
+      }
+      return p;
+    };
+    window.goatcounter = {
+      path: window.__normalizeGoatPath,
+    };
+  </script>
+  <script data-goatcounter="https://{{ site.goatcounter_code }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var els = document.querySelectorAll('[data-gc-path]');
+      if (!els.length) return;
+      var base = 'https://{{ site.goatcounter_code }}.goatcounter.com/counter/';
+      var cache = {};
+      els.forEach(function (el) {
+        var rawPath = el.getAttribute('data-gc-path');
+        if (!rawPath) return;
+        var normPath = window.__normalizeGoatPath(rawPath);
+        if (!cache[normPath]) {
+          cache[normPath] = fetch(base + encodeURIComponent(normPath) + '.json')
+            .then(function (res) {
+              if (res.ok) return res.json();
+              if (res.status === 404) return { count: '0' };
+              return null;
+            })
+            .catch(function () {
+              return null;
+            });
+        }
+        cache[normPath].then(function (data) {
+          if (!data || typeof data.count === 'undefined') return;
+          var numEl = el.querySelector('.gc-count-num');
+          if (numEl) numEl.textContent = data.count;
+          el.hidden = false;
+        });
+      });
+    });
+  </script>
+{% endif %}

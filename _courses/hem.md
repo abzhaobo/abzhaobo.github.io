@@ -4,7 +4,8 @@ title: 经济分析方法史
 description: 在 AI 时代发展经济学元能力（Meta-skill）
 img: assets/img/HEM.jpg
 importance: 1
-category: 2026
+category: Current
+year: 2026
 giscus_comments: true
 toc: 
   sidebar: left
